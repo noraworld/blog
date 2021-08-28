@@ -1,0 +1,42 @@
+---
+layout: post
+title: ブログを RSS 登録できるサービス Feedly を使ってみた
+image: "/content/images/2016/05/feedly_icon.png"
+date: '2016-05-12 11:16:07'
+tags:
+- service
+- useful
+---
+
+人のブログを見るのが好きなので、定期的にこっそりと徘徊してます。
+
+特に問題はないのですが、ブログが更新されたときに通知のようなものが来たほうがいいかなーとふと思ったので、RSS リーダーである Feedly を使い始めました。
+
+RSS とはどういうものかとか、Feedly の基本的な使い方は色んなサイトで紹介されているのでここでは割愛します。今回は、ぼくが個人的に快適に楽しめる環境を紹介します。
+
+### まずはアカウント作成
+まずは <a href="https://feedly.com" target="_blank">Feedly</a> のサイトでアカウント登録をします。Google や Facebook, Twitter など、何種類かのログイン方法がありますが、ぼくは Feedly で登録しました。どれでもOKです。
+
+### 拡張機能をインストール
+Feedly を快適に使うには、Feedly のサイトにわざわざ行かなくてもブログが更新されれば自動で通知してほしいです。そこでまずは、Feedly に登録しているブログに更新があったら通知してくれる拡張機能をインストールします。
+
+<a href="https://chrome.google.com/webstore/detail/feedly-notifier/egikgfbhipinieabdmcpigejkaomgjgb?utm_source=chrome-ntp-icon" target="_blank">Feedly Notifier - Chrome ウェブストア</a>
+
+この拡張機能をインストールして Feedly にログインすると、Feedly で登録しているブログの未読件数がバッジで表示されます。まずはすべて既読にしておいて、未読数を0件にしておけば、それ以降で新しい更新があったときに未読件数が自動で更新されて表示されます。
+
+さらに、未読があるときに、アイコンをクリックすると未読記事一覧が表示され、リンクをクリックするとそのサイトにすぐに飛ぶことができます。ブログの更新があればすぐに確認できますね！
+
+次に、Feedly にブログを登録したいとき、いちいち Feedly のサイトに行ってから URL を入力して登録するのは面倒ですよね。Feedly のサイトに行かなくても登録できるようにしたいです。なのでこの拡張機能をインストールします。
+
+<a href="https://chrome.google.com/webstore/detail/feedly-subscribe-button/gbbnddjfcllebfcnihfgmdplgaiejepc?utm_source=chrome-ntp-icon" target="_blank">Feedly Subscribe Button - Chrome ウェブストア</a>
+
+この拡張機能をインストールすると、右上に Feedly のアイコンが表示されます。ふだんは灰色になっていますが、RSS (Atom でもOK) に対応したサイト (ブログ) にアクセスすると緑色になります。アイコンが緑色の状態でクリックすると、Feedly 登録のリンクが表示され、リンクをクリックすると Feedly にそのブログを登録することができます。便利！
+
+RSS は Ameba ブログ、FC2, livedoor, はてなブログ、tumblr など、ほとんどのブログサービスで対応しています。もちろんこのブログも RSS に対応してますよ！
+
+登録するときに RSS か Atom か選択するときもありますが、基本は RSS でOKです。
+
+### まとめ
+Feedly Subscribe Button を使ってブログを登録して、Feedly Notifier で更新を確認すればわざわざ複数のブログを確認しに行く必要も Feedly のサイトに行って確認する必要もなくなるのでとても便利です！
+
+これからガンガン活用していきたいと思います！
