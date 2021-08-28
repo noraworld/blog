@@ -39,6 +39,8 @@ The differences between two importers are as follow:
 
 * jekyll_ghost_importer can get each post’s date correctly, but jekyll-import can’t
   * by this, all posts are not in order if you use jekyll-import
-* jekyll_ghost_importer can get each post’s tags, but jekyll-import can’t
+* jekyll_ghost_importer can get each post’s tags and thumbnail, but jekyll-import can’t
 
 I recommend jekyll_ghost_importer rather than jekyll-import because the above.
+
+Note that the images referenced at each post will not be backed up, despite which importer you would choose, so you should download and put them manually from your Ghost server.
