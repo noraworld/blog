@@ -1,0 +1,1 @@
+You can add backup files like database or JSON, but you should not track them on Git because they may contain the credential information. All files in this directory will not be tracked except this README.
