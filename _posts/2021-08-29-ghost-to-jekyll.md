@@ -133,6 +133,8 @@ Jekyll は豊富なプラグインが存在するが、あまり多用すると�
     * 数年前にポモドーロテクニックを導入してからやめてしまい、しばらくやっていなかったが、最近また導入し始めたらとっても心地よかった
 * [vscode-ruby-rubocop](https://github.com/misogi/vscode-ruby-rubocop) のバグ修正 PR
     * https://github.com/misogi/vscode-ruby-rubocop/issues/155 の修正
+* YouTube Studio の動画管理ページから埋め込み用の iframe タグと Twitter 共有用の動画タイトル、動画リンクをコピーできる Chrome 拡張機能の開発
+    * [これ](https://zenn.dev/noraworld/articles/access-restriction-using-dnsmasq) によって夜まで YouTube にアクセス制限をかけているせいで iframe タグや共有機能が使えないため
 
 macOS や iPhone のアプリなら、ドックフーディング的な感じで、自分で使いたいものを作り、使うことができる上に、自分でそのアプリのホスティング等を管理する必要がないので、自分が管理できなくなったことによって、そのアプリが使えなくなるといったことは発生しないだろう。もちろん OS のバージョンが上がることによる互換性の問題等で動かなくなる可能性はあるだろうが、少なくともデータベースに存在する大切なデータが失われる、というようなことは発生しない。
 
