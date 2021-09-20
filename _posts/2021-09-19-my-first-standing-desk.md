@@ -41,7 +41,7 @@ tags:
 
 ちょうどそのとき FlexiSpot の 4 周年記念で値下げもされていたので、「時期が良い」というやつだ。
 
-![ここに購入時の金額の画像]()
+![チェックアウト](https://raw.githubusercontent.com/noraworld/blog-content/main/my-first-standing-desk/checkout.png)
 
 本体と一緒にケーブルトレーとモニターアームも購入した。
 
@@ -67,6 +67,8 @@ tags:
 
 # 到着当日
 9 月 17 日 (金) のお昼ごろに届いた。話には聞いていたが、とても重い。本当に重いので、持ち上げてリビングまで運び込むことはできなかった。床を引きずって移動させた。
+
+![到着](https://raw.githubusercontent.com/noraworld/blog-content/main/my-first-standing-desk/arrived.jpg)
 
 電動ドライバーが必要だと聞いていたが、DIY をしたことがないため、どれを買えば良いのかわからずこの時点ではまだ購入していなかった。また、このスタンディングデスクの組み立て方を紹介するブログ記事で、電動ドリルが必要だと書かれていたが、会社の雑談では要らないという話も聞いており、結局何が必要なのか不明だった。
 
@@ -105,7 +107,7 @@ tags:
 
 マキタの中でもいろいろな種類があって迷ったが、竹の天板に穴をあけるという目的を達成しつつ、その中でも一番安いものとして店員さんにおすすめされたものを購入した。
 
-![ここにマキタのドライバーの画像]()
+![マキタの電動ドライバー](https://raw.githubusercontent.com/noraworld/blog-content/main/my-first-standing-desk/impact_driver.jpg)
 
 ちなみに、できれば電源が必要なものではなくバッテリー式が良いと思っていたが、そもそもマキタの電動ドライバーはほとんどバッテリー式らしい。その中でもこれは、バッテリーが本体に付属しているタイプだったので、バッテリーを別で購入する必要はなかった。
 
@@ -113,7 +115,7 @@ tags:
 
 併せて、穴開け時に木くずが目に入らないよう保護するための保護メガネも購入した。
 
-![ここにメガネとかの画像]()
+![ドリルビット & 保護メガネ](https://raw.githubusercontent.com/noraworld/blog-content/main/my-first-standing-desk/drill_bits.jpg)
 
 帰宅したら、さっそく作業を再開した。試しにマキタの電動ドライバーを回転させてみると、明らかに回転速度が違った。
 
@@ -151,7 +153,7 @@ tags:
 
 というか、今、改めて説明書見て思ったが、この 8.5 mm 〜 70 mm という表記は合っているのだろうか？
 
-![ここに説明書の画像]()
+![説明書](https://raw.githubusercontent.com/noraworld/blog-content/main/my-first-standing-desk/manual.jpg)
 
 70 mm とは 7 cm のことだと思うが、7 cm はだいぶ大きい気がする……。まあ今回はグロメット式を試していないのでわからない。これで合っているのかもしれないが、なんか直感的に変な気もする。
 
@@ -163,7 +165,15 @@ tags:
 
 VESA 規格のモニターでなければ取り付けることができないというのは知っていたが、今自分が持っているモニターが VESA 規格に対応しているかどうかは、よく調べていなかった。でも、モニター裏の取付部の形状を見た限り、たぶん VESA 規格だろうと思っていた。実際に接続プレートを取り付けてみると、ちゃんと接続させることができたのでたしかに VESA 規格で合っていた。本当は事前にちゃんと調べておくべきだが。
 
-無事にモニターアームも取り付けることができたので、あとは本体を、以前の作業机があった場所に移動させて、ようやく組み立ては完了した。お昼ごろから作業を始め、途中、ホームセンターに行ったりもしたが、組み立てるのに丸一日かかってしまった。
+無事にモニターアームも取り付けることができたので、あとは本体を、以前の作業机があった場所に移動させて、ようやく組み立ては完了した。
+
+![完成](https://raw.githubusercontent.com/noraworld/blog-content/main/my-first-standing-desk/appearance1.jpg)
+
+![完成](https://raw.githubusercontent.com/noraworld/blog-content/main/my-first-standing-desk/appearance2.jpg)
+
+![完成](https://raw.githubusercontent.com/noraworld/blog-content/main/my-first-standing-desk/appearance3.jpg)
+
+お昼ごろから作業を始め、途中、ホームセンターに行ったりもしたが、組み立てるのに丸一日かかってしまった。
 
 
 
@@ -174,7 +184,11 @@ VESA 規格のモニターでなければ取り付けることができないと
 
 翌日 19 日 (日)、ゴミの後片付けをした。ゴミ回収の日ではないので、とりあえず玄関に捨てるゴミをまとめただけだが、改めて見るとものすごい量のゴミだ。
 
-![ここにゴミの画像]()
+![ゴミ](https://raw.githubusercontent.com/noraworld/blog-content/main/my-first-standing-desk/garbage1.jpg)
+
+![ゴミ](https://raw.githubusercontent.com/noraworld/blog-content/main/my-first-standing-desk/garbage2.jpg)
+
+一部、他のゴミも混ざっているが、とにかくたくさんゴミが出る。
 
 
 
