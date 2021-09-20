@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ホームページリニューアル！
-image: "/content/images/2016/05/noraworld.png"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/renewal-noraworld/noraworld.png"
 date: '2016-05-18 18:35:30'
 tags:
 - info

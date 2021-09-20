@@ -9,7 +9,7 @@ tags:
 今日はじめて AbemaTV を観て、これを見ながら作業したいな、と思い常にあるサイトを最前面にする拡張機能がないかと調べたらいいものを発見しました。
 
 ### Panel Tabs
-![Panel Tabs](/content/images/2016/05/panel_tabs.png)
+![Panel Tabs](https://raw.githubusercontent.com/noraworld/blog-content/main/panel-tabs/panel_tabs.png)
 
 上のスクショのように、アクティブタブになっていなくても、ウィンドウが背面に隠れないようにする Chrome の拡張機能です。
 

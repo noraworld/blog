@@ -19,9 +19,9 @@ tags:
 ### 表彰状をもらいました
 成績通知表をもらう前に履修ガイダンスというものがありまして、そこで履修登録の手順などの説明を聞くのですが、ガイダンスの前に表彰がありました。自分は春休み前にその表彰制度に応募していて、その選考が通ったので表彰してもらいました！
 
-![表彰状](/content/images/2016/03/IMG_2450-4.JPG)
+![表彰状](https://raw.githubusercontent.com/noraworld/blog-content/main/2nd-grade-2nd-semester-record/IMG_2450-4.JPG)
 
-![表彰状](/content/images/2016/03/IMG_2453.JPG)
+![表彰状](https://raw.githubusercontent.com/noraworld/blog-content/main/2nd-grade-2nd-semester-record/IMG_2453.JPG)
 
 応募内容は、2 回生後期にあった実験のレポート課題です。教授から、ぜひ応募してくださいと連絡があり、取り急ぎレポートの PDF ファイルと応募用紙を準備し事務に提出したら受かりました。
 

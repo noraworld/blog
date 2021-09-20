@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 30 万円のプレミアムドメインだった noraworld.com を取得しました
-image: "/content/images/2018/07/noraworld.com.png"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/get-noraworld-com/noraworld.com.png"
 date: '2018-07-07 11:00:00'
 tags:
 - goods
@@ -100,7 +100,7 @@ Web に興味を持ち始め、自分のポートフォリオをインターネ�
 ### 値下がり
 `noraworld.com` を取得しようと決心してから数ヶ月後くらいに価格が下がりました。それが、今回購入したときの値段である 29 万円です。
 
-![29 万円に値下がり](/content/images/2018/07/noraworld_com_is_for_sale.png)
+![29 万円に値下がり](https://raw.githubusercontent.com/noraworld/blog-content/main/get-noraworld-com/noraworld_com_is_for_sale.png)
 
 値段が下がったことにより少しうれしい気持ちにはなりましたが、それにしてもやはり高額でその時点ではポンと出せるような金額ではありませんでした。
 
@@ -115,7 +115,7 @@ Web に興味を持ち始め、自分のポートフォリオをインターネ�
 
 `noraworld.com` の取得は、そのドメインを保有している業者側のページからも出来ましたが、なんだかよくわからない業者に高額な支払いを行うのが怖かったので、いつもお世話になっている GoDaddy で取得しました。
 
-![GoDaddy](/content/images/2018/07/godaddy_price.png)
+![GoDaddy](https://raw.githubusercontent.com/noraworld/blog-content/main/get-noraworld-com/godaddy_price.png)
 
 なお、どのレジストラでもプレミアムドメインが購入できるわけではなく、GoDaddy のように、プレミアムドメインの購入に対応しているレジストラを選ぶ必要があります。
 
@@ -124,16 +124,16 @@ Web に興味を持ち始め、自分のポートフォリオをインターネ�
 ### 購入
 取得手続きはあっさりと終わりました。通常のドメインを取得するときと手順は全く同じでした。違うのは、購入金額が桁違いだということだけです。
 
-![購入ページ](/content/images/2018/07/domain_purchase_1.png)
+![購入ページ](https://raw.githubusercontent.com/noraworld/blog-content/main/get-noraworld-com/domain_purchase_1.png)
 
-![領収書](/content/images/2018/07/domain_purchase_2.png)
+![領収書](https://raw.githubusercontent.com/noraworld/blog-content/main/get-noraworld-com/domain_purchase_2.png)
 
 ### 購入後
 支払いを行ってもすぐに所有権が移るわけではありませんでした。購入直後に確認できたのは、管理ページ内の明細に記載された 29 万円という金額と、銀行口座から引き落とされた明細だけです。
 
-![注文履歴](/content/images/2018/07/domain_receipt.png)
+![注文履歴](https://raw.githubusercontent.com/noraworld/blog-content/main/get-noraworld-com/domain_receipt.png)
 
-![銀行口座明細](/content/images/2018/07/account_balance.png)
+![銀行口座明細](https://raw.githubusercontent.com/noraworld/blog-content/main/get-noraworld-com/account_balance.png)
 
 さすがに GoDaddy ほどの大きなレジストラであれば問題ないと思っていましたが、それでも少し不安だったので、その翌日の 2 日に GoDaddy に電話をしました。
 
@@ -158,7 +158,7 @@ GoDaddy に電話をしたのは初めてで、海外のレジストラですが
 ### もっと高い買い物
 実は `noraworld.com` の購入と同じ日に、現時点で最高スペック (ストレージは 512GB) の MacBook Pro を注文しました。
 
-![最高スペックの MacBook Pro](/content/images/2018/07/macbook_pro_purchase.png)
+![最高スペックの MacBook Pro](https://raw.githubusercontent.com/noraworld/blog-content/main/get-noraworld-com/macbook_pro_purchase.png)
 
 なので、7 月 1 日は、一日で**約 65 万円**の買い物をしました...！
 

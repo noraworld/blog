@@ -1,7 +1,7 @@
 ---
 layout: post
 title: いまさらポケモンオメガルビー買いました
-image: "/content/images/2016/03/IMG_2466.JPG"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/pokemon-omega-ruby/IMG_2466.JPG"
 date: '2016-03-31 11:32:10'
 tags:
 - game
@@ -10,7 +10,7 @@ tags:
 最近は毎日のようにバイトに行っていたので駅前方面にしか外出していませんでしたが、今日は駅前とは別方向にある大型ショッピングモールまで行ってきました。そこでポケモンオメガルビーを買ってきました。
 
 ### ポケモンオメガルビー
-![ポケモンオメガルビー](/content/images/2016/03/IMG_2466-1.JPG)
+![ポケモンオメガルビー](https://raw.githubusercontent.com/noraworld/blog-content/main/pokemon-omega-ruby/IMG_2466-1.JPG)
 
 ポケモンルビーサファイアと言えば、ポケモン第 3 世代に当たるタイトルです。発売日は 2002 年なのでちょうど自分が小学生の頃です。あのころは学校が終わったら毎日のように家でゲームしてました。友達のうちに遊びに行ってはポケモンバトルしたりポケモン交換したり……懐かしいです。
 
@@ -19,16 +19,16 @@ tags:
 ### オメガルビーを買った理由
 実はすでにポケモンアルファサファイアを持っています。しかも発売してすぐに手に入れました。ポケモンって一つのシリーズに必ず 2 つ以上のパッケージがあり、自分はコレクション性があるというか、どちらもほしいので毎回両方買ってしまいます(思うツボ)。ですがポケモンアルファサファイアを買ったときはどうせ片方しかやらないし……と思っていたのでアルファサファイアのみを買いました。なのにこのタイミングでオメガルビーを買ってしまいました。その理由は、**ミュウがほしかったから**です。
 
-![ミュウ](/content/images/2016/03/IMG_2471.JPG)
+![ミュウ](https://raw.githubusercontent.com/noraworld/blog-content/main/pokemon-omega-ruby/IMG_2471.JPG)
 
-![ミュウ](/content/images/2016/03/IMG_2472.JPG)
+![ミュウ](https://raw.githubusercontent.com/noraworld/blog-content/main/pokemon-omega-ruby/IMG_2472.JPG)
 
 厳密には、ミュウが手に入るのに、受け取らないのがもったいなかったからですね。自分はミュウをもらえるシリアルコードを **4 枚**持っていました。そのうちの 3 枚は前から持っていたポケモンXYとポケモンアルファサファイアに使いました。そして残った 1 枚……。ミュウがもらえるのにもったいない！ → オメガルビー買うか！ という流れです笑。
 
 ### ミュウのシリアルコード 4 枚
 このシリアルコードは昨月 3DS のバーチャルコンソールにて発売された初代ポケモンシリーズの購入特典で手に入れました。
 
-![バーチャルコンソール版初代ポケモン](/content/images/2016/03/IMG_2393.JPG)
+![バーチャルコンソール版初代ポケモン](https://raw.githubusercontent.com/noraworld/blog-content/main/pokemon-omega-ruby/IMG_2393.JPG)
 
 大学生なのに、いい年してどんだけポケモン買ってるんだよ……←
 

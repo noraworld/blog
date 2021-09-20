@@ -16,7 +16,7 @@ date: '2021-08-25 12:58:01'
 
 デスクトップ版では、設定で Touch ID を有効にすると、マスターパスワードを入力する代わりに Touch ID でロックを解除することができる。ブラウザ版では、デスクトップ版との連携をオンにすることによって、同様の機能を利用することができる。
 
-![](/content/images/2021/08/Screen-Shot-2021-08-25-at-21.16.23.png)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/1password-desktop-app-integration-not-work/Screen-Shot-2021-08-25-at-21.16.23.png)
 
 セキュリティ上、5 〜 10 分間が経過したら 1Password を自動的にロックするようにしておきたい。しかし、毎回マスターパスワードを入力するのはめんどくさい。そのため、Touch ID でのロック解除は非常に重宝している。
 
@@ -25,11 +25,11 @@ date: '2021-08-25 12:58:01'
 
 デスクトップ:
 
-![](/content/images/2021/08/Screen-Shot-2021-08-25-at-21.22.06.png)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/1password-desktop-app-integration-not-work/Screen-Shot-2021-08-25-at-21.22.06.png)
 
 ブラウザ:
 
-![](/content/images/2021/08/Screen-Shot-2021-08-25-at-21.11.11.png)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/1password-desktop-app-integration-not-work/Screen-Shot-2021-08-25-at-21.11.11.png)
 
 補足: 日本語だと「1Password アプリと連携」という名称になっている
 

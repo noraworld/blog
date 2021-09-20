@@ -26,21 +26,21 @@ RubyKaigi が始まる前日に福岡に向かいました。会社から電車�
 
 東京から福岡までは同じ部署の人と一緒に行き、一旦ホテルにチェックインして荷物を置いた後、違う部署の弊社の人と合流してごはんを食べに行きました。
 
-![](/content/images/2019/04/IMG_1338.jpg)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/rubykaigi-2019/IMG_1338.jpg)
 
-![](/content/images/2019/04/IMG_1341.jpg)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/rubykaigi-2019/IMG_1341.jpg)
 
-![](/content/images/2019/04/IMG_1342.jpg)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/rubykaigi-2019/IMG_1342.jpg)
 
-![](/content/images/2019/04/IMG_1343.jpg)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/rubykaigi-2019/IMG_1343.jpg)
 
-![](/content/images/2019/04/IMG_1344.jpg)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/rubykaigi-2019/IMG_1344.jpg)
 
 1 軒目はもつ鍋おおやまというところに行きました。どれも美味しかったんですが、もつ鍋と辛子明太子が特に美味しかったです。もつ鍋は醤油と味噌を食べたのですが、個人的には味噌のほうが好きです。
 
 馬刺しは記憶の限りでははじめて食べたのですが、生で食べられるものなのか気になって「焼かなくて良いんですか？」と聞いてみたら、馬は他の家畜動物に比べて体温が高くて菌が繁殖しにくいから焼かなくても食べられるということを教えてもらいました。
 
-![](/content/images/2019/04/IMG_1347.jpg)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/rubykaigi-2019/IMG_1347.jpg)
 
 2 軒目は博多藪というお店でカツ丼を食べました。なんか有名なところらしく、弊社の某人がおすすめしていたのでみんなで行こうということになって一緒に連れて行ってもらいました。味の感想を伝えるのが下手なので小並感しか言えないのですが、美味しかったです。
 
@@ -49,17 +49,17 @@ RubyKaigi が始まる前日に福岡に向かいました。会社から電車�
 ### RubyKaigi 1 日目
 ついにはじまった RubyKaigi の初日。8:30 にホテルにある食堂に行き朝ごはんを食べました。
 
-![](/content/images/2019/04/IMG_1350.jpg)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/rubykaigi-2019/IMG_1350.jpg)
 
 ホテルは朝食付きでした。福岡に来て築地っていうのがおもしろいですが、美味しかったです。
 
 朝食を食べた後、軽く支度をして会場に向かいました。会場までは歩いていきました。
 
-![](/content/images/2019/04/IMG_1356.jpg)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/rubykaigi-2019/IMG_1356.jpg)
 
-![](/content/images/2019/04/IMG_1357-1.jpg)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/rubykaigi-2019/IMG_1357-1.jpg)
 
-![](/content/images/2019/04/IMG_1359-1.jpg)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/rubykaigi-2019/IMG_1359-1.jpg)
 
 会場に入り、受付を済ませた後、最初のセッションがあるホールへ向かいました。
 
@@ -151,7 +151,7 @@ Matz のキーノートでもありましたが、こちらでも出てきまし
 #### Lunch
 会場の外に (疑似?) 屋台が並んでいて、そこで焼きそばっぽいものを食べました。
 
-![](/content/images/2019/04/IMG_1362.jpg)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/rubykaigi-2019/IMG_1362.jpg)
 
 #### How to use OpenAPI3 for API developer
 説明を忘れていましたが、基本的に RubyKaigi では 4 つのセッションが同じ時刻に開催され、その中から自分が興味があるセッションに参加する、という形式です。先ほどの Matz のキーノートと、笹田さん、遠藤さん他のセッションは、同時刻に 1 つのみだったため全員が同じところに集まっていました。詳しくは [RubyKaigi 2019 のスケジュール](https://rubykaigi.org/2019/schedule) を見るとわかると思います。
@@ -207,13 +207,13 @@ Ruby には `Proc` というものがありますが、これは手続きを表�
 #### Afternoon Break
 ここで休憩の時間に入りました。会場内では各スポンサー企業がブースを出していて、会社の紹介やグッズ配布、アンケート、くじなどをやっていました。
 
-![](/content/images/2019/04/IMG_1363.jpg)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/rubykaigi-2019/IMG_1363.jpg)
 
-![](/content/images/2019/04/IMG_1365-1.jpg)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/rubykaigi-2019/IMG_1365-1.jpg)
 
-![](/content/images/2019/04/IMG_1369.jpg)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/rubykaigi-2019/IMG_1369.jpg)
 
-![](/content/images/2019/04/IMG_1370.jpg)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/rubykaigi-2019/IMG_1370.jpg)
 
 Twitter でツイートするときしか写真を撮らなかったので写真は少ないですが、広い部屋に何十社もブースが並んでいてとても賑わっていました。Money Forward のブースを撮影したのは、「このブースに来ています」とツイートしてくれたら Money Forward の T シャツをプレゼントしますと言われたからです笑。
 
@@ -465,7 +465,7 @@ end
 ### RubyKaigi 2 日目
 2 日目の朝がやってきました。前日は早めに寝たのでよく眠れました。
 
-![](/content/images/2019/04/IMG_1371.jpg)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/rubykaigi-2019/IMG_1371.jpg)
 
 2 日目の朝食は魚の定食を食べました。美味しかったです (小並感)。
 

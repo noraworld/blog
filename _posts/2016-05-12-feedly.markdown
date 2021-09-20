@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ブログを RSS 登録できるサービス Feedly を使ってみた
-image: "/content/images/2016/05/feedly_icon.png"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/feedly/feedly_icon.png"
 date: '2016-05-12 11:16:07'
 tags:
 - service

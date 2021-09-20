@@ -1,14 +1,14 @@
 ---
 layout: post
 title: ひろゆき著「無敵の思考」を読んだ感想
-image: "/content/images/2017/11/invincible_thinking.jpg"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/invincible-thinking-review/invincible_thinking.jpg"
 date: '2017-11-13 01:30:00'
 tags:
 - books
 - goods
 ---
 
-![無敵の思考](/content/images/2017/11/invincible_thinking.jpg)
+![無敵の思考](https://raw.githubusercontent.com/noraworld/blog-content/main/invincible-thinking-review/invincible_thinking.jpg)
 
 ２ちゃんねる開設者で有名な、ひろゆきこと西村博之氏の著作「無敵の思考」を読み終えたので、薄っぺらい感想を述べたいと思います。
 

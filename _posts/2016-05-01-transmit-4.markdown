@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transmit 4 を買いました
-image: "/content/images/2016/05/transmit.png"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/transmit-4/transmit.png"
 date: '2016-05-01 07:36:11'
 tags:
 - application
@@ -33,24 +33,24 @@ FTP ファイル転送ツールは Transmit 以外にもたくさんあります
 * **コンテキストメニューから新規フォルダ・新規ファイルを作成できる**
 
 #### サーバ接続先をお気に入りに登録できる
-![サーバ接続先をお気に入り登録](/content/images/2016/05/transmit_favorite.png)
+![サーバ接続先をお気に入り登録](https://raw.githubusercontent.com/noraworld/blog-content/main/transmit-4/transmit_favorite.png)
 
 よくアクセスするサーバは、あらかじめ IP アドレスやユーザ名、パスワード、ポート番号、接続プロトコルなどを登録しておけば、次回からはお気に入りタブからクリックだけでアクセスできます。
 
 #### よくアクセスするフォルダをショートカットに登録できる
-![フォルダショートカット](/content/images/2016/05/transmit_place.png)
+![フォルダショートカット](https://raw.githubusercontent.com/noraworld/blog-content/main/transmit-4/transmit_place.png)
 
 フォルダの階層構造が深くなってきて、頻繁にフォルダを行ったり来たりするのってめんどうですよね。よくアクセスするフォルダは "プレイス" と呼ばれる場所に登録しておけば一発でそのフォルダにジャンプすることができます。
 
 #### フォルダの階層構造がわかりやすい
-![フォルダ階層構造](/content/images/2016/05/transmit_breadcrumb.png)
+![フォルダ階層構造](https://raw.githubusercontent.com/noraworld/blog-content/main/transmit-4/transmit_breadcrumb.png)
 
 Mac の Finder ってボタンをクリックしないと階層構造が表示されないので、一気に2〜3つ前の階層に戻りたいときにちょっと不便だったりします。Finder も Ubuntu のファイルマネージャみたいに階層構造が一発でわかればなあ…と時々思います。
 
 Transmit ではまさに Ubuntu のファイルマネージャのように階層構造が表示されていて、今どこにいるのかがわかやすいし、クリックすればすぐに前の階層に移動できます。
 
 #### コンテキストメニューから新規フォルダ・新規ファイルを作成できる
-![コンテキストメニューから新規作成](/content/images/2016/05/transmit_context_menu.png)
+![コンテキストメニューから新規作成](https://raw.githubusercontent.com/noraworld/blog-content/main/transmit-4/transmit_context_menu.png)
 
 個人的にはこれが一番重宝している機能です。コンテキストメニューに **新規ファイルの作成** があるんです！
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 友人とオンラインゲームをやる際の YouTube Live 配信設定メモ
-image: "/content/images/2021/08/streamlabs_obs.png"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/live-streaming-configuration/streamlabs_obs.png"
 date: '2021-08-16 13:27:13'
 ---
 
@@ -44,7 +44,7 @@ date: '2021-08-16 13:27:13'
 
 # Streamlabs OBS の設定
 ## 音声ソースの設定
-![](/content/images/2021/08/Screen-Shot-2021-08-15-at-22.14.39.png)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/live-streaming-configuration/Screen-Shot-2021-08-15-at-22.14.39.png)
 
 以下の 3 つの音声を用意する。
 
@@ -78,16 +78,16 @@ Streamlabs OBS の設定は、アプリ上で YouTube アカウントと連携�
 
 ただし、左下の、CPU 使用率、FPS、コマ落ち、アップロードデータ量の表示有無は同期されないらしいので、新しいデバイスで設定をし直す場合は手動で追加すること。
 
-![](/content/images/2021/08/Screen-Shot-2021-08-16-at-21.36.59.png)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/live-streaming-configuration/Screen-Shot-2021-08-16-at-21.36.59.png)
 
 特に FPS は、配信環境に問題があることを検出すると、勝手に変わったりすることがある (60 FPS → 30 FPS に勝手に変更されていたことがあった) ので、表示することをおすすめする。
 
 ## 配信のクオリティの設定
 ここらへんの設定はアカウント連携で同期されるはずだが、以前にいじったら YouTube Live 上でエラーが出るようになってしまったので、設定が間違っていないか今一度確認すること。
 
-![](/content/images/2021/08/Screen-Shot-2021-08-16-at-22.09.26.png)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/live-streaming-configuration/Screen-Shot-2021-08-16-at-22.09.26.png)
 
-![](/content/images/2021/08/Screen-Shot-2021-08-16-at-22.09.55.png)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/live-streaming-configuration/Screen-Shot-2021-08-16-at-22.09.55.png)
 
 * Base (Canvas) Resolution を `1280 x 720` に設定する
   * 1920 x 1080 に設定したところ、YouTube Live でエラー (警告？) が表示されるようになる
@@ -103,14 +103,14 @@ Streamlabs OBS の設定は、アプリ上で YouTube アカウントと連携�
 ## ストリームキーの設定
 セキュリティ上の観点からか、さすがにここの値はアカウント連携しても同期されないので、新しいデバイスで再開するときは YouTube Live からストリームキーをコピーして貼り付ける。
 
-![](/content/images/2021/08/Screen-Shot-2021-08-16-at-22.10.31.png)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/live-streaming-configuration/Screen-Shot-2021-08-16-at-22.10.31.png)
 
 Stream Type を `Custom Streaming Server` に設定すると警告が出るが、推奨設定のほうだと YouTube Studio のライブ画面が見れなかったり、超低遅延が設定できなかったりして不便なので、カスタムにする。
 
 # Soundflower の設定
 以下の画像のように設定する。
 
-![](/content/images/2021/08/Screen-Shot-2021-08-15-at-22.10.57.png)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/live-streaming-configuration/Screen-Shot-2021-08-15-at-22.10.57.png)
 
 * Input 1: EVO 4
   * オーディオインターフェースまたはマイクなどの一般的な入力装置を指定
@@ -133,7 +133,7 @@ Stream Type を `Custom Streaming Server` に設定すると警告が出るが�
 # Google Meet の設定
 以下の画像の用に設定する。
 
-![](/content/images/2021/08/Screen-Shot-2021-08-16-at-21.12.15-1.png)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/live-streaming-configuration/Screen-Shot-2021-08-16-at-21.12.15-1.png)
 
 * Microphone: EVO4
 * Speaker: Soundflower (2ch)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2つめの GitHub アカウントを作成しました
-image: "/content/images/2016/04/octocat.jpg"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/second-github-account/octocat.jpg"
 date: '2016-04-16 06:56:19'
 tags:
 - development
@@ -9,10 +9,11 @@ tags:
 
 たった今、2つめの GitHub アカウントを作成したので公開します。こちらはサブアカウントとして使用していきます。
 
-サブアカウント → <a href="https://github.com/secondnoraworld" target="_blank">secondnoraworld</a>  
-メインアカウントはこちら → <a href="https://github.com/noraworld" target="_blank">noraworld</a>
+* サブアカウント → <a href="https://github.com/secondnoraworld" target="_blank">secondnoraworld</a>
+* メインアカウントはこちら → <a href="https://github.com/noraworld" target="_blank">noraworld</a>
 
-[訂正: 2016/04/22(金)]  
+[訂正: 2016/04/22(金)]
+
 アカウントではなく組織として作り変えました。アカウントは削除したので、この記事のサブアカウントは現在は組織です。なお、新しく作成した組織は、旧2つめのアカウントと同じ URL なのでリンクの変更はありません。組織に変更した理由については、[2つめの GitHub アカウントを組織に変更しました](http://blog.noraworld.jp/github-account-to-organization/) という記事にまとめました。今後ともよろしくお願いします。
 
 ### GitHub をはじめたきっかけ

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Netflix が月額 350 円で利用できる裏技はギフトカードしかなさそう？
-image: "/content/images/2021/05/Netflix_Logo_RGB.png"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/netflix-gift-cards-for-turkey/Netflix_Logo_RGB.png"
 date: '2021-05-28 13:31:50'
 tags:
 - service

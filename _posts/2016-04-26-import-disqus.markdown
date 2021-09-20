@@ -1,7 +1,7 @@
 ---
 layout: post
 title: コメントシステム Disqus を導入しました
-image: "/content/images/2016/04/disqus.png"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/import-disqus/disqus.png"
 date: '2016-04-26 09:22:55'
 tags:
 - info
@@ -39,7 +39,7 @@ Ameba や Liveboor, はてなブログなどのブログサービスはもとか
 ### コメントのしかた
 コメント欄は記事の一番下にあります。
 
-![Disqus コメント](/content/images/2016/04/disqus_comment.png)
+![Disqus コメント](https://raw.githubusercontent.com/noraworld/blog-content/main/import-disqus/disqus_comment.png)
 
 フォームにコメントを書いてボタンを押すだけで良いのですが、コメントするには、Disqus, Facebook, Twitter, Google いずれかのアカウントが必要になります。
 

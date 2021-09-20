@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2つめの GitHub アカウントを組織に変更しました
-image: "/content/images/2016/04/github_logo.png"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/github-account-to-organization/github_logo.png"
 date: '2016-04-22 10:34:02'
 tags:
 - development
@@ -10,7 +10,8 @@ tags:
 最近5月病で、なかなかやる気が出ません。やりたいことがあるのに、やる気が出ないってつらいです……。毎年この時期になると発症します。早く治ってばりばり作業したいです…！
 
 ### 組織 (Organization) という仕組みを知った
-少し前にこのような記事を更新しました。  
+少し前にこのような記事を更新しました。
+
 [2つめの GitHub アカウントを作成しました](http://blog.noraworld.jp/second-github-account/)
 
 この記事を更新したあと、後輩のPちゃんから Twitter でこんなリプをもらいました。

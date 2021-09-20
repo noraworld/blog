@@ -9,7 +9,7 @@ tags:
 おととい注文していた Ear Pods が今日届きました。
 
 ### Ear Pods
-![Ear Pods](/content/images/2016/04/IMG_2477.JPG)
+![Ear Pods](https://raw.githubusercontent.com/noraworld/blog-content/main/new-ear-pods/IMG_2477.JPG)
 
 Ear Pods と聞いて、「？」となった人もいるかもしれませんが、一度は見たことがあるのではないでしょうか。iPhone ユーザなら使っている人も多いと思います。これは iPhone を買ったときについてくる Apple 純正のイヤフォンです。
 

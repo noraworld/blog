@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amazon Fire TV をつかってみた
-image: "/content/images/2018/08/IMG_0035.jpg"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/amazon-fire-tv/IMG_0035.jpg"
 date: '2018-08-19 11:30:00'
 tags:
 - goods
@@ -69,13 +69,13 @@ HDMI ケーブルは、HDMI 切替器とテレビをつなぐために必要だ�
 最後に電源タップですが、テレビ付近は、PS4 や Nintendo Switch、PC やスマホの充電などでたくさんコンセントが必要なので電源タップを使っています。しかしそれも枠が全部埋まってしまったので、もう一つ追加で買いました。もともと使っていた 6 個の差込口がある電源タップをもう一つ買い、計 12 個差せるようになりました。これでもうコンセントの数には困らないはず...
 
 ### 開封
-![Amazon Fire TV](/content/images/2018/08/IMG_0035.jpg)
+![Amazon Fire TV](https://raw.githubusercontent.com/noraworld/blog-content/main/amazon-fire-tv/IMG_0035.jpg)
 
-![Amazon Fire TV](/content/images/2018/08/IMG_0036.jpg)
+![Amazon Fire TV](https://raw.githubusercontent.com/noraworld/blog-content/main/amazon-fire-tv/IMG_0036.jpg)
 
-![Amazon イーサネットアダプタ](/content/images/2018/08/IMG_0037.jpg)
+![Amazon イーサネットアダプタ](https://raw.githubusercontent.com/noraworld/blog-content/main/amazon-fire-tv/IMG_0037.jpg)
 
-![Amazon イーサネットアダプタ](/content/images/2018/08/IMG_0038.jpg)
+![Amazon イーサネットアダプタ](https://raw.githubusercontent.com/noraworld/blog-content/main/amazon-fire-tv/IMG_0038.jpg)
 
 本体とテレビを HDMI で接続し、さらに USB 経由で電源供給します。今回は有線接続を行うので、間にイーサネットアダプタをかませて、アダプタとルータを LAN でつなぐことにより本体が有線接続になります。有線接続だと、初期設定でインターネット接続の設定が一切出ないのでとても楽でした。
 

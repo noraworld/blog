@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 後輩と寿司を食べに行きました
-image: "/content/images/2017/02/IMG_0102.jpg"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/sushi-with-ripps-member/IMG_0102.jpg"
 date: '2017-02-05 16:07:53'
 tags:
 - event
@@ -13,21 +13,21 @@ tags:
 
 ### お寿司🍣
 
-![乾杯](/content/images/2017/02/IMG_0097.jpg)
+![乾杯](https://raw.githubusercontent.com/noraworld/blog-content/main/sushi-with-ripps-member/IMG_0097.jpg)
 
 乾杯🍻
 
-![寿司](/content/images/2017/02/IMG_0098.jpg)
+![寿司](https://raw.githubusercontent.com/noraworld/blog-content/main/sushi-with-ripps-member/IMG_0098.jpg)
 
-![寿司](/content/images/2017/02/IMG_0099.jpg)
+![寿司](https://raw.githubusercontent.com/noraworld/blog-content/main/sushi-with-ripps-member/IMG_0099.jpg)
 
-![寿司](/content/images/2017/02/IMG_0102.jpg)
+![寿司](https://raw.githubusercontent.com/noraworld/blog-content/main/sushi-with-ripps-member/IMG_0102.jpg)
 
-![寿司](/content/images/2017/02/IMG_0103.jpg)
+![寿司](https://raw.githubusercontent.com/noraworld/blog-content/main/sushi-with-ripps-member/IMG_0103.jpg)
 
-![寿司](/content/images/2017/02/IMG_0104.jpg)
+![寿司](https://raw.githubusercontent.com/noraworld/blog-content/main/sushi-with-ripps-member/IMG_0104.jpg)
 
-![寿司](/content/images/2017/02/IMG_0101.jpg)
+![寿司](https://raw.githubusercontent.com/noraworld/blog-content/main/sushi-with-ripps-member/IMG_0101.jpg)
 
 お寿司はいつ食べても美味しい😊
 

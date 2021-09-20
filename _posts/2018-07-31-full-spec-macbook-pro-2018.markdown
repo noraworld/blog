@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 週間前に届いた MacBook Pro を返品して 2018 年モデルの新型 MacBook Pro を購入しました
-image: "/content/images/2018/07/IMG_1230.jpg"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/full-spec-macbook-pro-2018/IMG_1230.jpg"
 date: '2018-07-31 13:00:00'
 tags:
 - goods
@@ -79,28 +79,28 @@ MacBook Pro の初期設定や環境構築をした後だったので、各ア�
 
 そして 20:00 ごろに帰宅し、ついに念願の新型 MacBook Pro を受け取ることができました......！！ 🎉
 
-![開ける前の MacBook Pro](/content/images/2018/07/IMG_1228.jpg)
+![開ける前の MacBook Pro](https://raw.githubusercontent.com/noraworld/blog-content/main/full-spec-macbook-pro-2018/IMG_1228.jpg)
 
-![開けて間もない MacBook Pro](/content/images/2018/07/IMG_1229.jpg)
+![開けて間もない MacBook Pro](https://raw.githubusercontent.com/noraworld/blog-content/main/full-spec-macbook-pro-2018/IMG_1229.jpg)
 
-![裸の MacBook Pro](/content/images/2018/07/IMG_1230-1.jpg)
+![裸の MacBook Pro](https://raw.githubusercontent.com/noraworld/blog-content/main/full-spec-macbook-pro-2018/IMG_1230-1.jpg)
 
-![綿帽子 MacBook Pro](/content/images/2018/07/IMG_1231.jpg)
+![綿帽子 MacBook Pro](https://raw.githubusercontent.com/noraworld/blog-content/main/full-spec-macbook-pro-2018/IMG_1231.jpg)
 
-![すっぴんの MacBook Pro](/content/images/2018/07/IMG_1232.jpg)
+![すっぴんの MacBook Pro](https://raw.githubusercontent.com/noraworld/blog-content/main/full-spec-macbook-pro-2018/IMG_1232.jpg)
 
-![MacBook Pro の側近](/content/images/2018/07/IMG_1233.jpg)
+![MacBook Pro の側近](https://raw.githubusercontent.com/noraworld/blog-content/main/full-spec-macbook-pro-2018/IMG_1233.jpg)
 
 まあ、外観に関しては、返品した一世代前の MacBook Pro と変わらないんですけどね 😅
 
 ## スペック
 ぼくが購入した新型 MacBook Pro のスペックは以下の通りです。
 
-![購入した新型 MacBook Pro のスペック](/content/images/2018/07/new_macbook_pro_spec.png)
+![購入した新型 MacBook Pro のスペック](https://raw.githubusercontent.com/noraworld/blog-content/main/full-spec-macbook-pro-2018/new_macbook_pro_spec.png)
 
 先ほどもちょろっと言いましたが、値段は約 **40 万円** でした。一括では払えなかったので分割払いにしました。やはり良いものは高い... というより Mac 高い...
 
-![購入した新型 MacBook Pro の値段](/content/images/2018/07/new_macbook_pro_purchase_page.png)
+![購入した新型 MacBook Pro の値段](https://raw.githubusercontent.com/noraworld/blog-content/main/full-spec-macbook-pro-2018/new_macbook_pro_purchase_page.png)
 
 SSD が 512GB (一番容量が少ないカスタマイズ) であること以外はフルスペックモデルです。データはクラウドで管理するので SSD はそこまで多くなくて良い & 性能に変化が出るものではないというのと、SSD をマックスの 4TB まで上げてしまうとそれだけでプラス **30 万円** くらいしてしまうので、一番小さい容量のものにしました。
 
@@ -126,7 +126,8 @@ SSD が 512GB (一番容量が少ないカスタマイズ) であること以外
 これからバリバリ使っていくので、スペックに関してはその性能の高さに圧倒されるのかもなあとわくわくしています。
 
 ## さいごに
-新型 MacBook Pro の情報をいち早く教えてくれた同期には感謝です 🙏  
+新型 MacBook Pro の情報をいち早く教えてくれた同期には感謝です 🙏
+
 あと少し知るのが遅かったら、2 週間の返品期限を過ぎて、返品すらできなかったことでしょう。そしておそらく自分は、MacBook Pro が届いたことに浮かれて、新型 MacBook Pro の情報も逃していたことでしょう。
 
 一世代前の MacBook Pro が届いて 4 日後に新型が突然登場して、その情報を運良く返品期限前に知って、最終的に新型 MacBook Pro を手にすることができた......、運が良いのか悪いのかよくわからない話ですが、最後にこれを読んでくれたみなさんに一つだけ言えることがあります。それは...

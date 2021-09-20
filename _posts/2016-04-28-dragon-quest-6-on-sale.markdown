@@ -10,7 +10,7 @@ tags:
 最近は技術系の記事が多めでしたがゲームなどの娯楽系の話題も、あれば積極的に更新していこうと思います！
 
 ### ドラクエ6セール中！
-![ドラクエ6](/content/images/2016/04/dq6_app.PNG)
+![ドラクエ6](https://raw.githubusercontent.com/noraworld/blog-content/main/dragon-quest-6-on-sale/dq6_app.PNG)
 
 iPhone アプリとしてリリースされているドラクエ6が、本日4月28日(木)〜5月8日(日)まで1,800円 → 1,200円に値下げされています。
 

@@ -8,7 +8,8 @@ tags:
 - development
 ---
 
-**この記事について、追加の記事を投稿しました。この記事についてTwitter等で意見を述べたりコメントを書いたりする場合は、必ず追加の記事も読んだ上で発言してください。**  
+**この記事について、追加の記事を投稿しました。この記事についてTwitter等で意見を述べたりコメントを書いたりする場合は、必ず追加の記事も読んだ上で発言してください。**
+
 [サイバー犯罪被害防止ハッカソン炎上記事の後日談](https://noraworld.blog/cyber-hackathon-trolling-2016-sequel/)
 
 12月17日(土)〜12月18日にかけて、自分が所属するRCC主催の「サイバー犯罪被害防止ハッカソン」がありました。自分はRCCメンバーとして「圧倒的人権の欠如」というチーム名で参加しました。見事フラグを回収したことについては後々紹介していきます。
@@ -361,13 +362,13 @@ Androidアプリ開発（端末アプリの開発）と認証サーバの開発�
 ### おまけ（戦利品）
 出かけるときは一切食べもの持ってきてないのに、帰ってきたときにはお菓子が大量に増えた、逆遠足状態になった。
 
-![グリコ](/content/images/2016/12/glico_box.jpg)
+![グリコ](https://raw.githubusercontent.com/noraworld/blog-content/main/cyber-hackathon-trolling-2016/glico_box.jpg)
 
-![グリコ](/content/images/2016/12/glico_content.jpg)
+![グリコ](https://raw.githubusercontent.com/noraworld/blog-content/main/cyber-hackathon-trolling-2016/glico_content.jpg)
 
-![お菓子](/content/images/2016/12/snack.jpg)
+![お菓子](https://raw.githubusercontent.com/noraworld/blog-content/main/cyber-hackathon-trolling-2016/snack.jpg)
 
-![レッドブル](/content/images/2016/12/red_bull.jpg)
+![レッドブル](https://raw.githubusercontent.com/noraworld/blog-content/main/cyber-hackathon-trolling-2016/red_bull.jpg)
 
 ### さいごに
 **繰り返しになりますが、この記事には追加記事（下のリンク先）があります。情報の訂正や誤解を生んでしまった発言の弁解と反省等について書かれています。ネット上で意見を述べる場合は必ずそちらの記事も読んだ上でお願いします。**

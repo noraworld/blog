@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nintendo Switch を買いました
-image: "/content/images/2018/08/IMG_0017.jpg"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/nintendo-switch/IMG_0017.jpg"
 date: '2018-08-11 13:00:00'
 tags:
 - game
@@ -11,9 +11,9 @@ tags:
 ### Nintendo Switch、ゲットだぜ！
 ちょうど 1 週間前に Nintendo Switch を買いました。
 
-![Nintendo Switch](/content/images/2018/08/IMG_0017.jpg)
+![Nintendo Switch](https://raw.githubusercontent.com/noraworld/blog-content/main/nintendo-switch/IMG_0017.jpg)
 
-![Nintendo Switch の中身](/content/images/2018/08/IMG_0019.jpg)
+![Nintendo Switch の中身](https://raw.githubusercontent.com/noraworld/blog-content/main/nintendo-switch/IMG_0019.jpg)
 
 ### 購入の理由
 前から買おうと思っていたわけではなく、買うかどうかは結構迷っていました。
@@ -41,15 +41,15 @@ tags:
 
 Nintendo Switch は Amazon Prime Now で販売されていました。それから、Nintendo Switch は、内部ストレージ (容量) が 32GB しかないと聞いていたので、マイクロ SD カードも一緒に買いました。画面を保護するための保護シールも買いました。
 
-![マイクロ SD カードと保護シール](/content/images/2018/08/IMG_0016.jpg)
+![マイクロ SD カードと保護シール](https://raw.githubusercontent.com/noraworld/blog-content/main/nintendo-switch/IMG_0016.jpg)
 
 余談ですが、ゲームソフトは、差し替えるのが面倒、家で購入してすぐに遊びたい、アカウントに購入情報を残しておきたいなどの理由から、これからはすべてダウンロードコンテンツで購入することにしました。そのため、マイクロ SD も容量多めの 256GB を選びました。
 
 Switch 本体と、マイクロ SD カード、保護シールは一緒に購入し、その日はスプラトゥーンを楽しんでいたのですが、Pro コントローラのほうが操作しやすいのかなと思い、後日、また Amazon Prime Now で Pro コントローラを購入しました。
 
-![Pro コントローラ](/content/images/2018/08/IMG_0020.jpg)
+![Pro コントローラ](https://raw.githubusercontent.com/noraworld/blog-content/main/nintendo-switch/IMG_0020.jpg)
 
-![Pro コントローラの中身](/content/images/2018/08/IMG_0021.jpg)
+![Pro コントローラの中身](https://raw.githubusercontent.com/noraworld/blog-content/main/nintendo-switch/IMG_0021.jpg)
 
 Amazon Prime Now、便利すぎて、逆に注意が必要です...ｗ
 

@@ -47,9 +47,17 @@ tags:
 
 ### jQuery のススメ
 jQuery を使うと JS よりも簡単に書けます。
-`document.getElementById('element').style.color = 'orange';`  
-よりも  
-`$('#element').css('color', 'orange');`  
+
+```js
+document.getElementById('element').style.color = 'orange';
+```
+
+よりも
+
+```js
+$('#element').css('color', 'orange');
+```
+
 のほうが短くてシンプルですよね！
 
 しかも jQuery なら CSS のプロパティと値をそのまま使えるので CSS をやったことがあればかなり楽に書けます。上の jQuery のコードなら
@@ -65,7 +73,7 @@ jQuery を使うと JS よりも簡単に書けます。
 ### タイピングゲーム作成
 いよいよここからが本番です。習ったことをフル活用して、こんな感じのタイピングゲームを作りました。
 
-![タイピングゲーム](/content/images/2016/04/typing_game.png)
+![タイピングゲーム](https://raw.githubusercontent.com/noraworld/blog-content/main/js-jquery-seminar-at-kyoto/typing_game.png)
 
 最初に難易度を選択します。画像では easy モードです。ボタンを押したらゲームが開始し、経過時間とタイプする文字列が表示されます。入力欄に正しく文字を入力できればすぐに次の文字が表示され、5問正解すると終了してタイムが表示されます。
 
@@ -73,14 +81,16 @@ jQuery を使うと JS よりも簡単に書けます。
 
 ちなみに難易度は easy, normal, hard, nightmare の4種類です。nightmare はこんな感じです。
 
-![タイピングゲーム](/content/images/2016/04/typing_game_nightmare.png)
+![タイピングゲーム](https://raw.githubusercontent.com/noraworld/blog-content/main/js-jquery-seminar-at-kyoto/typing_game_nightmare.png)
 
 **J$%Z<** ... ナイトメアですね(意味深)。"apple" とか "orange" とか、よく打つ単語は簡単でも、適当な文字列だと結構難しいです。なので、easy モードでも難しいなと感じたのにさらに記号が入るとカオスです……笑。あと、フォントの問題で、縦線 | と大文字のアイ I と小文字のエル l が区別できないのが痛いです。
 
-これを作ってみて、新たなオプションを追加したりデザインを綺麗にしたりしたいなと一瞬思いましたがめんどくさいのでたぶんやりません←  
+これを作ってみて、新たなオプションを追加したりデザインを綺麗にしたりしたいなと一瞬思いましたがめんどくさいのでたぶんやりません←
+
 ~~このタイピングゲームのソースコードは気が向いたら GitHub に公開しようと思います。気が向いたらね！~~
 
-[追記: 2016/4/16(土)]  
+[追記: 2016/4/16(土)]
+
 GitHub にソースコードを公開しました。タイピングゲームの他に、このイベントで勉強した JS / jQuery の文法や Google Map のコードもまとめて公開しました。勉強会で作ったものをそのままアップしたのでコードはかなり汚いですがお許しください笑
 
 <a href="https://github.com/secondnoraworld/js-jquery-seminar" target="_blank">js-jquery-seminar</a>
@@ -88,7 +98,7 @@ GitHub にソースコードを公開しました。タイピングゲームの�
 ### Google Map の埋め込み
 企業やお店の Web サイトで、企業(お店)の住所と一緒に Google Map が貼り付けてあるのをよく見ますが、あれを作りました。Google が提供している API を利用すると簡単に作ることができました。
 
-![Google Map](/content/images/2016/04/google_maps.png)
+![Google Map](https://raw.githubusercontent.com/noraworld/blog-content/main/js-jquery-seminar-at-kyoto/google_maps.png)
 
 表示されているのは東京ですが、緯度と経度を設定することで好きな場所を最初に表示させることができます。ズームも設定できて、もっと細かい地図を表示できます。他にも Google Maps API では色々なことができるみたいですが、今回は時間の関係で、東京を表示するところまでで終わりました。
 

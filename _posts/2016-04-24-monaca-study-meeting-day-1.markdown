@@ -1,7 +1,7 @@
 ---
 layout: post
 title: アプリ開発プラットフォーム Monaca 勉強会に参加してきた @ 1日目
-image: "/content/images/2016/04/monaca_logo_1.png"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/monaca-study-meeting-day-1/monaca_logo_1.png"
 date: '2016-04-24 07:24:04'
 tags:
 - development
@@ -13,7 +13,7 @@ tags:
 今回は、<a href="https://ja.monaca.io/" target="_blank">Monaca</a> と <a href="http://mb.cloud.nifty.com/" target="_blank">Nifty Cloud mobile backend</a> というサービスを使って開発しました。
 
 ### Monaca とは？
-![Monaca](/content/images/2016/04/monaca_app.png)
+![Monaca](https://raw.githubusercontent.com/noraworld/blog-content/main/monaca-study-meeting-day-1/monaca_app.png)
 
 Monaca とは、HTML5 で開発できるハイブリッドアプリ開発プラットフォームです。ふつう、iPhone (iOS) アプリを作るには XCode という開発環境で Swift という言語を使って開発し、Android アプリを作るには Android Studio や Eclipse という開発環境で、主に Java を使って開発します。
 
@@ -40,11 +40,11 @@ Monaca についてはぼくもあまりわかっていませんが、Monaca で
 
 ログインページはこんな感じ↓
 
-![CircleTapGame ログインページ](/content/images/2016/04/login_screen.png)
+![CircleTapGame ログインページ](https://raw.githubusercontent.com/noraworld/blog-content/main/monaca-study-meeting-day-1/login_screen.png)
 
 正しくログインできると、ページが遷移します↓
 
-![CircleTapGame ログアウトページ](/content/images/2016/04/logout_screen.png)
+![CircleTapGame ログアウトページ](https://raw.githubusercontent.com/noraworld/blog-content/main/monaca-study-meeting-day-1/logout_screen.png)
 
 入力フォームやログインボタンもすべて HTML だけで作ることができます。パソコンのクリックは、スマホではタップと対応しているので、JavaScript を書くときも、クリックイベントでタップしたときの処理をつけることができます。Web をやり始めたぼくとしてはとても直感的でわかりやすかったです。
 
@@ -73,5 +73,5 @@ Monaca だけで、ストアにある本格的なアプリがすぐ作れるよ�
 
 がっつり時間をとってスマホアプリ開発の勉強をしたいわけじゃないけど、簡単なスマホアプリを作ってみたい！ という人にはおすすめです。
 
-<a href="https://ja.monaca.io/" target="_blank">Monaca</a>  
-<a href="http://mb.cloud.nifty.com/" target="_blank">Nifty Cloud mobile backend</a>
+* <a href="https://ja.monaca.io/" target="_blank">Monaca</a>
+* <a href="http://mb.cloud.nifty.com/" target="_blank">Nifty Cloud mobile backend</a>

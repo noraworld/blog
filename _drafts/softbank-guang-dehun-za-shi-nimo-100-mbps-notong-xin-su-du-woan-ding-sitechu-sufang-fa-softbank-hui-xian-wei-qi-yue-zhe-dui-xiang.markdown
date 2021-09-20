@@ -21,18 +21,18 @@ SoftBank 光を契約して半年近く経ちましたが今までは通信速�
 どれくらいの改善が期待できるのかを知ることができなければ、おそらくこの記事を見るモチベーションは上がらないでしょう。なので、まずはじめに、ぼく自身の環境でどれだけ改善されたかについてお話します。あくまでぼくの環境なので実際にここまで改善されるかどうかについては保証できません。参考程度に受け取ってください。
 
 #### 改善前
-![](/content/images/2018/10/before_bb_unit.png)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/softbank-guang-dehun-za-shi-nimo-100-mbps-notong-xin-su-du-woan-ding-sitechu-sufang-fa-softbank-hui-xian-wei-qi-yue-zhe-dui-xiang/before_bb_unit.png)
 
 このスクリーンショットの計測時刻は明け方ですが、夜の混雑時はこのくらいのスピードが常でした。ひどいときには 1 Mbps も出ない日もありました。
 
 スクリーンショットは Wi-Fi での接続です。有線にしても混雑時は 5 Mbps 程度でした。
 
 #### 改善後
-![](/content/images/2018/10/after_bb_unit_wifi.png)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/softbank-guang-dehun-za-shi-nimo-100-mbps-notong-xin-su-du-woan-ding-sitechu-sufang-fa-softbank-hui-xian-wei-qi-yue-zhe-dui-xiang/after_bb_unit_wifi.png)
 
 このスクリーンショットは休日の 18 時ごろに Wi-Fi 接続で計測したものです。十分速いと思います。もっと混雑する時間帯でも、うちの環境では 100 Mbps を下回ることはめったにありませんでした。
 
-![](/content/images/2018/10/after_bb_unit_wire.png)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/softbank-guang-dehun-za-shi-nimo-100-mbps-notong-xin-su-du-woan-ding-sitechu-sufang-fa-softbank-hui-xian-wei-qi-yue-zhe-dui-xiang/after_bb_unit_wire.png)
 
 有線接続で計測した結果がこのスクリーンショットです。これでも遅いほうで、下り平均 150 Mbps くらい出ます。何回か測った中で、速いときには、下り 200 Mbps を超え、上りは 400 Mbps を超えることもありました。
 
@@ -54,7 +54,8 @@ BB ユニットレンタルというのは、SoftBank 光のオプションサ�
 ### 申込み方法
 では実際に「BB ユニットレンタル」と「IPv6 高速ハイブリッド」を申し込む手順について説明します。すでに SoftBank 光は契約済みであることを前提として話を進めます。
 
-また、申込み方法についてはこちらの記事を参考にさせていただきました。  
+また、申込み方法についてはこちらの記事を参考にさせていただきました。
+
 [【実践編】ソフトバンク光が遅いときは「IPv6高速ハイブリッド」で混雑を解消する｜IPv6 IPoE+IPv4接続方式](https://www.odorikoblog.net/entry/hybrid/)
 
 #### My SoftBank お客様専用ページにログイン

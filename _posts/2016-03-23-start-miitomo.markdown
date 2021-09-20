@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Miitomo はじめました
-image: "/content/images/2016/03/miitomo.png"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/start-miitomo/miitomo.png"
 date: '2016-03-23 15:07:52'
 tags:
 - smartphone-app

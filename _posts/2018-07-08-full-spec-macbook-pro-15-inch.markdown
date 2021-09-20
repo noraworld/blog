@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 現時点で最高スペックの MacBook Pro を購入しました
-image: "/content/images/2018/07/IMG_1182-1.jpg"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/full-spec-macbook-pro-15-inch/IMG_1182-1.jpg"
 date: '2018-07-08 11:00:00'
 tags:
 - goods
@@ -9,21 +9,21 @@ tags:
 
 [30 万円のプレミアムドメイン](https://noraworld.blog/get-noraworld-com/) と一緒に MacBook Pro も購入しました。金額はプレミアムドメインの記事で書いた通り、**35 万円**です。現時点での最高スペックモデルです。
 
-![開封前 MacBook Pro](/content/images/2018/07/IMG_1182.jpg)
+![開封前 MacBook Pro](https://raw.githubusercontent.com/noraworld/blog-content/main/full-spec-macbook-pro-15-inch/IMG_1182.jpg)
 
-![ベールに包まれた MacBook Pro](/content/images/2018/07/IMG_1183.jpg)
+![ベールに包まれた MacBook Pro](https://raw.githubusercontent.com/noraworld/blog-content/main/full-spec-macbook-pro-15-inch/IMG_1183.jpg)
 
-![ピカピカの MacBook Pro](/content/images/2018/07/IMG_1184.jpg)
+![ピカピカの MacBook Pro](https://raw.githubusercontent.com/noraworld/blog-content/main/full-spec-macbook-pro-15-inch/IMG_1184.jpg)
 
-![MacBook Pro 初期設定](/content/images/2018/07/IMG_1197.jpg)
+![MacBook Pro 初期設定](https://raw.githubusercontent.com/noraworld/blog-content/main/full-spec-macbook-pro-15-inch/IMG_1197.jpg)
 
 付属品はこんな感じです。
 
-![その他付属品](/content/images/2018/07/IMG_1185.jpg)
+![その他付属品](https://raw.githubusercontent.com/noraworld/blog-content/main/full-spec-macbook-pro-15-inch/IMG_1185.jpg)
 
 USB Type-C を USB に変換するケーブルと Lighting に変換するケーブルはおそらくよく使うだろうと思ったので、本体と一緒に購入しました。
 
-![USB-C to USB と USB-C to Lighting](/content/images/2018/07/IMG_1178.jpg)
+![USB-C to USB と USB-C to Lighting](https://raw.githubusercontent.com/noraworld/blog-content/main/full-spec-macbook-pro-15-inch/IMG_1178.jpg)
 
 届いてから、「USB-C to USB があれば USB-C to Lighting は要らないんじゃないの？」と同期に言われて、たしかにと思いましたが、まああったほうが便利ですねという感じで結果オーライです。(本当はそれに気づいていなかっただけというのはここだけの話...)
 

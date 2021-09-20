@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RCC局コンパに行ってきた
-image: "/content/images/2016/11/kinbuta.jpg"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/rcc-system-compa-2016/kinbuta.jpg"
 date: '2016-11-19 14:41:35'
 tags:
 - university-life
@@ -13,33 +13,33 @@ tags:
 ### 金の豚
 シス管メンバーで金の豚に行ってきました
 
-![金の豚](/content/images/2016/11/kinbuta.jpg)
+![金の豚](https://raw.githubusercontent.com/noraworld/blog-content/main/rcc-system-compa-2016/kinbuta.jpg)
 
 しゃぶしゃぶ店なので、たくさん豚肉を食べました🐷
 
-![豚肉](/content/images/2016/11/pork.jpg)
+![豚肉](https://raw.githubusercontent.com/noraworld/blog-content/main/rcc-system-compa-2016/pork.jpg)
 
-![しゃぶしゃぶ](/content/images/2016/11/shabu_shabu.jpg)
+![しゃぶしゃぶ](https://raw.githubusercontent.com/noraworld/blog-content/main/rcc-system-compa-2016/shabu_shabu.jpg)
 
 夏休みにも家族でしゃぶしゃぶ食べたけど、やっぱりしゃぶしゃぶ美味しい😊
 
-![つくね](/content/images/2016/11/tsukune.jpg)
+![つくね](https://raw.githubusercontent.com/noraworld/blog-content/main/rcc-system-compa-2016/tsukune.jpg)
 
 つくねも美味しかった！
 
-![釜飯](/content/images/2016/11/kamameshi.jpg)
+![釜飯](https://raw.githubusercontent.com/noraworld/blog-content/main/rcc-system-compa-2016/kamameshi.jpg)
 
 おこげがたくさんあって美味しかった
 
-![カルパッチョ](/content/images/2016/11/carpaccio.jpg)
+![カルパッチョ](https://raw.githubusercontent.com/noraworld/blog-content/main/rcc-system-compa-2016/carpaccio.jpg)
 
 カルパッチョはさっぱりしてるけど油が乗ってて美味しかった
 
-![枝豆](/content/images/2016/11/green_soybeans.jpg)
+![枝豆](https://raw.githubusercontent.com/noraworld/blog-content/main/rcc-system-compa-2016/green_soybeans.jpg)
 
 えだまめさんが共食いしてました。
 
-![ジェラート](/content/images/2016/11/gelato.jpg)
+![ジェラート](https://raw.githubusercontent.com/noraworld/blog-content/main/rcc-system-compa-2016/gelato.jpg)
 
 デザートにはジェラートを食べました。アイスはぶどう感たっぷりでした。
 

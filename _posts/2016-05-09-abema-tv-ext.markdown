@@ -23,7 +23,7 @@ tags:
 ちなみに、現時点で対応しているのは Google Chrome だけらしくて、Firefox ではまだパッケージ化されていないようです。
 
 ### 某動画サイト風にコメントが流れる！
-![AbemaTV ニコニコ風](/content/images/2016/05/abematv_niconico_comment.png)
+![AbemaTV ニコニコ風](https://raw.githubusercontent.com/noraworld/blog-content/main/abema-tv-ext/abematv_niconico_comment.png)
 
 ↑こんな風に、AbemaTV のコメントが動画上に流れているのがわかります。
 
@@ -77,5 +77,5 @@ AbemaTV のコメント入力欄は複数行になっていますが、実際に
 
 これからも YouTube, ニコ動とあわせて AbemaTV を楽しみたいと思います。
 
-<a href="https://chrome.google.com/webstore/detail/bemtv-ext/jgbkfdjdcbohgenpccfgldadaofnfknl?hl=ja&gl=JP" target="_blank">\_bem\_tv ext - Chrome ウェブストア</a>  
-<a href="https://github.com/nakayuki805/AbemaTVChromeExtension" target="_blank">AbemaTVChromeExtension - GitHub</a>
+* <a href="https://chrome.google.com/webstore/detail/bemtv-ext/jgbkfdjdcbohgenpccfgldadaofnfknl?hl=ja&gl=JP" target="_blank">\_bem\_tv ext - Chrome ウェブストア</a>
+* <a href="https://github.com/nakayuki805/AbemaTVChromeExtension" target="_blank">AbemaTVChromeExtension - GitHub</a>

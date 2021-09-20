@@ -9,11 +9,12 @@ tags:
 今回は、買ったはいいものの、使いこなせていないものを紹介します。
 
 ### iPad
-![iPad](/content/images/2016/04/ipad_air_2.jpg)
+![iPad](https://raw.githubusercontent.com/noraworld/blog-content/main/useless-possession/ipad_air_2.jpg)
 
 iPad Air 2 です。この iPad を買ったのは去年の10月です。iPad を買った理由は大画面でゲームをしたかったからです。写真にも映っていますが、ぼくは FF とドラクエ (特に FF ) が大好きで、iOS では FF とドラクエのナンバリングシリーズが充実しているので、迫力ある大画面でできたらいいなと思って買いました。
 
-ちょっとマニアックな話になりますが、一つのハードでここまで充実してるってすごくないですか！？  
+ちょっとマニアックな話になりますが、一つのハードでここまで充実してるってすごくないですか！？
+
 当然ですが、FF やドラクエは数年ごとに発売されるのでハードがそれぞれ異なります。それが、リメイクとしてスマホやタブレット1つでできるのって結構感動的です。もちろん全シリーズが網羅されているわけではないですが、ほとんどそろっています。
 
 iPad を買う前は iPhone 5s でプレイしていました。でもスマホだと画面が小さすぎて迫力がありません。当時テレビでプレイしていた自分としてはいまいちしっくりきませんでした。もっと迫力ある大画面でプレイしたいと思い iPad を買うことを決めました。
@@ -39,7 +40,7 @@ iPad を買う前は iPhone 5s でプレイしていました。でもスマホ�
 FF は、初代 FF, FF2, FF3, FF4, FF4 The After, FF5, FF6, FF7, FF9, ドラクエは、ドラクエ2, ドラクエ3, ドラクエ4, ドラクエ5, ドラクエ7, ドラクエ8を持っていて、さらに FFRK や星ドラなどのスマホゲームを合わせると、優に**20GB**を超えます。さすがにそんなには iPhone 5s は入らないので、iPad を買った、という経緯もあります。ちなみにそういう理由で iPad Air 2 の容量は**128GB**です。
 
 ### モバイルバッテリー
-![Cheero Power Plus 3](/content/images/2016/04/cheero_power_plus_3.jpg)
+![Cheero Power Plus 3](https://raw.githubusercontent.com/noraworld/blog-content/main/useless-possession/cheero_power_plus_3.jpg)
 
 Cheero Power Plus 3 DANBOARD version です。13,400mAh なので大容量です。見た目が可愛いのと、たしか発売記念セールとかで安くなっていた (たぶん) ので買いました。特にモバイルバッテリーがほしいと思っていたわけではなく、あったら使うかもな、っていうなんとなくの理由で買いました。見事に使いこなせていません。
 
