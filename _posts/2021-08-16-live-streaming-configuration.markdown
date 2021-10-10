@@ -112,22 +112,12 @@ Stream Type を `Custom Streaming Server` に設定すると警告が出るが�
 
 ![](https://raw.githubusercontent.com/noraworld/blog-content/main/live-streaming-configuration/Screen%20Shot%202021-10-10%20at%2018.20.04.png)
 
-* Input 1: EVO 4
-  * オーディオインターフェースまたはマイクなどの一般的な入力装置を指定
+* Input 1: Soundflower (2ch)
   * 出力先は Main のみ
   * +6 dB
-  * 音量ゲージの左側の数字が、L と R ともに `1` になっていることを確認すること
-* Input 2: Soundflower (2ch)
-  * 出力先は Main と Aux 1 (Aux 1 を追加する)
-  * +12 dB
-      * +6 dB だとなんか他の人の声が小さくて、ゲームプレイ中にゲーム音に負けてしまい聞きづらい
-      * あまり大きくしすぎると音割れするので +12 dB が限界
-      * 配信を開始する前に音割れしていないか確認する
-  * 音量ゲージの左側の数字が、L と R ともに `1` になっていることを確認すること
-* Main Output: Soundflower (64ch)
-  * ツマミも黒いゲージもマックスにしておく
-* Aux Output 1: BlueZ 5.53
-  * ヘッドフォン等の一般的な出力装置を指定
+  * 音量ゲージの左側の数字が、L は `1` で R は `2` になっていることを確認すること
+* Main Output: ZOOM U-44 Driver
+  * 自分が音声を聴くためのスピーカーを指定する
   * ツマミも黒いゲージもマックスにしておく
 
 # Google Meet の設定
