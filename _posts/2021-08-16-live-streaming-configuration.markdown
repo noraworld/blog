@@ -110,7 +110,7 @@ Stream Type を `Custom Streaming Server` に設定すると警告が出るが�
 # Soundflower の設定
 以下の画像のように設定する。
 
-![](https://raw.githubusercontent.com/noraworld/blog-content/main/live-streaming-configuration/Screen-Shot-2021-08-15-at-22.10.57.png)
+![](https://raw.githubusercontent.com/noraworld/blog-content/main/live-streaming-configuration/Screen%20Shot%202021-10-10%20at%2018.20.04.png)
 
 * Input 1: EVO 4
   * オーディオインターフェースまたはマイクなどの一般的な入力装置を指定
