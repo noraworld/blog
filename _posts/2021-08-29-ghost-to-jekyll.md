@@ -4,6 +4,7 @@ title: "ブログを Ghost から Jekyll に移行した"
 image: ""
 date: "2021-08-29 22:33:27"
 tags:
+published: false
 ---
 
 2016 年 3 月 15 日 (火) からスタートしたブログを移行した。以前使っていたのは [Ghost](https://ghost.org/) というブログシステムで、今回、静的サイトジェネレータである [Jekyll](https://jekyllrb.com/) に移行した。

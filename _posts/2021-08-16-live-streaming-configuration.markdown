@@ -3,6 +3,7 @@ layout: post
 title: 友人とオンラインゲームをやる際の YouTube Live 配信設定メモ
 image: "https://raw.githubusercontent.com/noraworld/blog-content/main/live-streaming-configuration/streamlabs_obs.png"
 date: '2021-08-16 13:27:13'
+published: false
 ---
 
 # これは何の記事
