@@ -258,17 +258,30 @@ https://k-tai-iosys.com/guide/simlock_au.php
 
 ![](https://raw.githubusercontent.com/noraworld/blog-content/main/rakuten-mobile-and-card-and-iphone/IMG_0486.jpg)
 
+## 追記
+翌日、さっそく SIM ロック解除の手続きを行った。手順通りに行ったら簡単に手続きを済ませることができた。
+
+手続きが完了したあと、上記スクリーンショットのように設定アプリで確認してみたら、まだ SIM ロックがかかっていると表示されてしまった。
+
+これはおそらく、新しい SIM カードを入れてアクティベートするか、iPhone をリセットしないと更新されないのだろう。
+
+https://support.apple.com/ja-jp/HT201328
+
+今すぐに iPhone をリセットする必要も特になさそうなので、楽天の新しい SIM カードが自宅に到着するまで待つことにしよう。
+
 
 
 
 
 # 今後やることリスト
-* SIM ロック解除
-* 楽天カード、SIM、iPhone 13 Pro 受け取り
-* 楽天ポイント獲得のための作業
-    * Rakuten Link で 10 秒以上通話するなど
-* 新しい SIM を iPhone 7 に入れて SIM ロック解除されたことを確認
-* 楽天モバイルアプリを入れてなんかする
+* [x] SIM ロック解除
+* [ ] 楽天カード、SIM、iPhone 13 Pro 受け取り
+* [ ] 楽天ポイント獲得のための作業
+    * Rakuten Link で 10 秒以上通話する
+    * Rakuten Link でメッセージを 1 回以上送信する
+    * など
+* [ ] 新しい SIM を iPhone 7 に入れて SIM ロック解除されたことを確認
+* [ ] my 楽天モバイルアプリを入れてなんかする
     * なんかしないと使えないらしいので
     * 「なんか」は何なのか忘れたけど、調べればすぐ出てくるのでそのときでいっか
-* 親に連絡
+* [ ] 親に連絡
