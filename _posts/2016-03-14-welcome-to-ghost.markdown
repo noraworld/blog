@@ -4,6 +4,7 @@ title: Welcome to Ghost
 date: '2016-03-14 17:29:48'
 tags:
 - getting-started
+published: false
 ---
 
 You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at `<your blog URL>/ghost/`. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!
@@ -55,7 +56,7 @@ Got a streak of geek? We've got you covered there, too. You can write inline `<c
         width: 100%;
     }
 
-### Ready for a Break? 
+### Ready for a Break?
 
 Throw 3 or more dashes down on any new line and you've got yourself a fancy new divider. Aw yeah.
 
