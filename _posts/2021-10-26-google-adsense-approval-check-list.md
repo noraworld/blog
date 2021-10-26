@@ -30,7 +30,8 @@ Google AdSense の審査は年々厳しくなっているようだ。しかも�
         * ログインページなどの URL を `robots.txt` の `Disallow` に追加する
         * ログインページなどの `<head>` 内に広告コードを貼り付けない
         * サイトマップやフィードにログインページなどを含めない
-    * ログインページを審査された結果、質の低いコンテンツと見做される可能性がある
+    * ログインページなどを審査された結果、質の低いコンテンツと見做される可能性がある
+    * ログインページ以外にも、GitHub Pages でホスティングしている場合は README や Gemfile などが誤って公開されていないか確認する
 
 # 確証度: 中
 * フィードを追加する
@@ -79,6 +80,15 @@ Google AdSense の審査は年々厳しくなっているようだ。しかも�
     * 写真は載せていても問題ない
     * ただし他サイトから無断転載するとポリシー違反として審査が通らない可能性がある
 
+# 審査合格のポイント
+* 審査中にサイトの内容をなるべく変更しない
+    * 審査中に変更すると審査が落ちるというわけではないが、審査が遅くなる可能性がある
+* 安定してサイトが公開されている状態にする
+    * 審査中に一時的にアクセスできない時間帯があったり、レスポンスが悪かったりすると審査が通りづらい
+* 記事数を減らしてみる
+    * 記事数が多いとどの記事に問題があるか把握しづらいため、審査落ちに対して疑わしき記事は一時的に非公開設定にしてみる
+    * 記事を削除する必要はなく、CMS やブログの設定で一時的に非公開にするだけで良い
+
 # ポリシーについて
 「確証度: 高」の項目に「ポリシー違反がないか確認する」があるが、正直これに関しては具体的な作業手順を説明することができない。
 
@@ -98,4 +108,12 @@ Google AdSense の審査は年々厳しくなっているようだ。しかも�
 
 Google AdSense のポリシーについて書かれたドキュメントを以下にまとめておく。
 
-* (あとで追加)
+* [How to get your site approved for AdSense?](https://www.youtube.com/watch?v=lZUG0XGlZZY)
+    * YouTube 動画 (英語)
+    * 特に注意すべきポイントについて簡潔にまとめられている
+    * この動画で解説されていることは、一応この記事でもすべて言及している
+* [AdSense Program policies](https://support.google.com/adsense/answer/48182)
+* [AdSense Site Approvals series](https://www.youtube.com/playlist?list=PLbAFD4oU9Ycr4j1pViNjkS82rhbF293H8)
+    * サイトの承認手続きに関する YouTube 動画の再生リスト (英語)
+* [Google AdSense Help Community](https://support.google.com/adsense/community)
+* [Your AdSense Page](https://support.google.com/adsense/answer/10568458)
