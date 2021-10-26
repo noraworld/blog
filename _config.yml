@@ -43,6 +43,11 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
+# Do not exclude 404.html because if so, it cannot be used
+# Jekyll server returns a HTTP status with 200 OK if you head over to
+# /404 or /404.html
+# I feel it is a little bit weird, but it is what it is
+#
 exclude:
   - .sass-cache/
   - .jekyll-cache/
