@@ -55,3 +55,8 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - imports
+  - bin
+  - README.md
+  - .ruby-version
+  - .rubocop.yml
+  - .gitignore
