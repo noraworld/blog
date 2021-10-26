@@ -12,3 +12,5 @@ AllCops:
     # So it will not be necessary to be reported from RuboCop
     #
     rubocop-sequel: false
+  Exclude:
+    - 'bin/**/*'
