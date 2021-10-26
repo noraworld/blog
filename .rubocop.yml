@@ -1,4 +1,14 @@
 AllCops:
   NewCops: enable
   SuggestExtensions:
+    # Disable a "rubocop-sequel" suggestion
+    #
+    # This suggestion may come from a RubyGem "sequel" written in
+    # Gemfile
+    #
+    # This RubyGem was used only once when importing blog articles
+    # from a Ghost server
+    #
+    # So it will not be necessary to be reported from RuboCop
+    #
     rubocop-sequel: false
