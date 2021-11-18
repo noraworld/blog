@@ -178,6 +178,21 @@ Jekyll のほうは新しい記事を非公開にするのと一緒に非公開�
 
 なんとなくこれは質が低いと思われているだろうなという記事の当たりはついているので、まずはそれを非公開にしてもう一度審査依頼をしてみる。
 
+ちなみに審査結果の箇所にあったリンクは以下の通り。
+
+* [Policy tips for creating high quality sites (part 1)](https://adsense.googleblog.com/2012/04/tips-for-creating-high-quality-sites.html)
+* [Policy tips for creating high quality sites (part 2)](https://adsense.googleblog.com/2012/09/tips-for-creating-high-quality-sites.html)
+* [Webmaster quality guidelines](https://developers.google.com/search/docs/advanced/guidelines/webmaster-guidelines)
+* [AdSense Program policies](https://support.google.com/adsense/answer/48182?utm_source=crs&utm_medium=email&utm_campaign=notification)
+
+`low value content` の部分はクリックしても反応がなかった。コンソールを見たらセキュリティ関連のエラーが出ていた。
+
+```
+Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src 'report-sample' 'nonce-xxxxxxxxxxxxxxxxxxxxxx' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval'". Note that 'unsafe-inline' is ignored if either a hash or nonce value is present in the source list.
+```
+
+これは Google AdSense の管理ページが悪いのかな？
+
 # さいごに
 というわけで、ここまでが現時点 (2021/10/24) までの進捗だ。また何か進展があったら追記する。この記事が公開されることを願って。
 
