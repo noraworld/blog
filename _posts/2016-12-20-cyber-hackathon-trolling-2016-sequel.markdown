@@ -6,6 +6,7 @@ tags:
 - university-life
 - event
 - development
+published: false
 ---
 
 先日公開した「[サイバー犯罪被害防止ハッカソンのようすと大炎上まとめ](https://noraworld.blog/cyber-hackathon-trolling-2016/)」という記事が多方面から拡散され、非常にたくさんの方々に読んでいただきました。

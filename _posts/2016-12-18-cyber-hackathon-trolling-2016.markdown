@@ -6,6 +6,7 @@ tags:
 - university-life
 - event
 - development
+published: false
 ---
 
 **この記事について、追加の記事を投稿しました。この記事についてTwitter等で意見を述べたりコメントを書いたりする場合は、必ず追加の記事も読んだ上で発言してください。**
