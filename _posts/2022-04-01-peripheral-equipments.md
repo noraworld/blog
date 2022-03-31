@@ -56,7 +56,7 @@ flowchart TD
     switch -- Picture & Audio --> hdmi_switcher
     pi -- Picture --> hdmi_switcher
 
-    hdmi_switcher -- Picture --> hdmi_splitter
+    hdmi_switcher -- Picture & Audio --> hdmi_splitter
     hdmi_splitter -- Picture & Audio --> audio_splitter
     hdmi_splitter -- Picture & Audio --> capture_card
     audio_splitter -- Picture --> monitor1
@@ -69,7 +69,7 @@ flowchart TD
     pi_usb_hub -- Audio --> pi
     transmitter -. Bluetooth / Audio .-> headphone
 
-    mac -- Picture & Audio --> egpu
+    mac <-- Picture & Audio & Input Info --> egpu
     audio_interface -- Audio --> egpu
     preamplifier -- Audio --> audio_interface
     microphone -- Audio --> preamplifier
@@ -96,17 +96,17 @@ flowchart TD
 | Raspberry Pi 4              | シングルボードコンピュータ | • オーディオサーバ<br>• DNS サーバ<br>• DHCP サーバ |
 | USB Hub                     | | |
 | USB Dongle Hub 1            | | |
-| USB Dongle Hub 2            | | |
-| USB Dongle Hub 3            | | |
-| USB Dongle Hub 4            | | |
+| USB Dongle Hub 2            | | • Bluetooth 経由で音声を受け取ることができるが今はあまり使われていない |
+| USB Dongle Hub 3            | | • Bluetooth 経由で音声を受け取ることができるが今はあまり使われていない |
+| USB Dongle Hub 4            | | • Bluetooth 経由で音声を受け取ることができるが今はあまり使われていない |
 | HDMI Switcher               | HDMI 切替器 | |
 | HDMI Audio Splitter         | HDMI 音声分離器 | |
 | HDMI Splitter               | HDMI 分配器 | |
-| Zoom U-44 1                 | USB-DAC | 本当はオーディオインターフェースだが USB-DAC としても使える |
-| Zoon U-44 2                 | USB-DAC | 本当はオーディオインターフェースだが USB-DAC としても使える |
-| Bluetooth Audio Transmitter | Bluetooth オーディオトランスミッタ | |
-| SONY WH-1000XM3             | Bluetooth ヘッドフォン | |
-| MacBook Pro                 | PC | 作業用マシン |
+| Zoom U-44 1                 | USB-DAC | • 本当はオーディオインターフェースだが USB-DAC としても使える<br>• 音声入力をミキシングして出力する |
+| Zoon U-44 2                 | USB-DAC | • 本当はオーディオインターフェースだが USB-DAC としても使える<br>• 音声入力をミキシングして出力する |
+| Bluetooth Audio Transmitter | Bluetooth オーディオトランスミッタ | • あらゆる音声が集約されてここに届く |
+| SONY WH-1000XM3             | Bluetooth ヘッドフォン | • あらゆる音声を同時に聴くことができる |
+| MacBook Pro                 | PC | • 作業用マシン |
 | Blackmagic eGPU Pro         | eGPU | |
 | EVO 4                       | オーディオインターフェース | |
 | Preamplifier                | プリアンプ | |
