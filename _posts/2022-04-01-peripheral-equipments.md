@@ -28,7 +28,7 @@ flowchart TD
     hdmi_splitter(HDMI Splitter)
 
     usb_dac1(Zoom U-44 1)
-    usb_dac2(Zoon U-44 2)
+    usb_dac2(Zoom U-44 2)
 
     transmitter(Bluetooth Audio Transmitter)
     headphone(SONY WH-1000XM3)
