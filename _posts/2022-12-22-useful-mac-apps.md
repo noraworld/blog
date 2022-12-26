@@ -133,8 +133,6 @@ Windows だとデフォルトで右クリックメニューからテキストフ
 
 
 
-## Cyberduck
-
 ## Google Japanese IME
 定番の日本語用 IME です。
 
