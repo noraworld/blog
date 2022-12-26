@@ -24,6 +24,15 @@ Google Chrome や LINE などのメジャーなものや、Docker や Visual Stu
 
 ちゃんと使いこなすにはそれなりに設定や慣れが必要なのですが、その分、作業効率は格段にアップすること間違いなしです。
 
+### インストール
+#### GUI
+[Alfred 5](https://www.alfredapp.com)
+
+#### CLI
+```shell
+brew install --cask alfred
+```
+
 ### オススメ度
 ★★★★☆
 
@@ -42,6 +51,15 @@ Mac を一時的にスリープしないようにできる常駐アプリです�
 
 最近は Mac の性能も上がってインストールやビルドにそこまで時間がかからなくなったため、あまり使用頻度は高くないですが……。
 
+### インストール
+#### GUI
+[Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704)
+
+#### CLI
+```shell
+mas install 937984704
+```
+
 ### オススメ度
 ★★☆☆☆
 
@@ -58,6 +76,15 @@ Finder と AppCleaner を起動して Finder から AppCleaner にアプリア�
 
 もう使わなくなったアプリを削除するときには関連するファイルも削除されていないと気持ち悪いと感じてしまうタイプなので、アプリ削除時にはお世話になっています。
 
+### インストール
+#### GUI
+[AppCleaner](https://freemacsoft.net/appcleaner/)
+
+#### CLI
+```shell
+brew install --cask appcleaner
+```
+
 ### オススメ度
 ★★★☆☆
 
@@ -72,6 +99,15 @@ Finder と AppCleaner を起動して Finder から AppCleaner にアプリア�
 
 最近はメニューバー自体をデフォルトで非表示に設定してしまったので、あまりこのアプリのメリットは感じられていないです……。それから、そもそもアイコンがごちゃごちゃしていても気にならない人には不要なアプリですね。
 
+### インストール
+#### GUI
+[Bartender 4](https://www.macbartender.com)
+
+#### CLI
+```shell
+brew install --cask bartender
+```
+
 ### オススメ度
 ★★☆☆☆
 
@@ -83,6 +119,15 @@ Finder と AppCleaner を起動して Finder から AppCleaner にアプリア�
 簡単に言ってしまえばタイマーアプリなのですが、1 セッションの時間や休憩時間、何回のセッションで長い休憩にするのかなどを設定できたり、休憩時間の開始を自動で行ってくれたりなど、基本的な設定は網羅しており、UI がシンプルなところが気に入っています。
 
 ポモドーロテクニックはかなり認知度も上がってきており、それにともないポモドーロアプリもかなりたくさんあるので、あえてこれを選ぶ理由があるかと言われると微妙なところですが、様々なアプリを試した結果、結局これに落ち着いたという感じです。
+
+### インストール
+#### GUI
+[Be Focused Pro](https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517)
+
+#### CLI
+```shell
+mas install 961632517
+```
 
 ### オススメ度
 ★★★☆☆
@@ -100,6 +145,15 @@ Mac 標準の操作ではウィンドウ上部をダブルタップすること�
 
 ウィンドウ上部をダブルタップよりも操作しやすいですし、ウィンドウの配置やサイズ調整も応用が効くので重宝しています。
 
+### インストール
+#### GUI
+[BetterSnapTool](https://apps.apple.com/us/app/bettersnaptool/id417375580)
+
+#### CLI
+```shell
+mas install 417375580
+```
+
 ### オススメ度
 ★★★★☆
 
@@ -116,6 +170,15 @@ Visual Studio Code など、ブラウザ以外のアプリ内の HTTP/HTTPS リ�
 
 複数のブラウザを並行して使用している人におすすめのアプリです。筆者も以前は会社用のブラウザと個人用のブラウザを分けるために、それぞれ Chrome (Stable) と Chrome Beta を使っていましたが、最近は Chrome のプロフィール機能で分けているため、使用頻度は下がりました。
 
+### インストール
+#### GUI
+[Browserosaurus](https://browserosaurus.com)
+
+#### CLI
+```shell
+brew install --cask browserosaurus
+```
+
 ### オススメ度
 ★★☆☆☆
 
@@ -127,6 +190,15 @@ Finder のメニューバーおよび右クリックメニューにファイル�
 Windows だとデフォルトで右クリックメニューからテキストファイルを作成することができますが、Mac ではできません。それを可能にするのがこのツールです。
 
 ふだんは CLI でファイル操作を行うので頻繁に利用するものではないのですが、Finder を使うときにちょっとしたメモをディレクトリに追加したいときなどに重宝します。
+
+### インストール
+#### GUI
+[Create File Menu](https://apps.apple.com/us/app/new-file-menu/id1064959555)
+
+#### CLI
+```shell
+mas install 1440519779
+```
 
 ### オススメ度
 ★★★☆☆
@@ -151,6 +223,15 @@ Google Japanese IME は、さすが Google 製ということもあって、変�
 記号ごとに半角と全角を選択できるので、「、」や「。」などは全角にしつつも、"+" や "=" などは半角にする、といった細かい設定もできます。
 
 筆者は長年 Google Japanese IME を使っています。有料の IME はより便利で精度が高いかもしれませんが、無料の範囲内でここまでストレスなくタイピングできるので個人的にはこれで満足しています。
+
+### インストール
+#### GUI
+[Google Japanese IME](https://www.google.co.jp/ime/)
+
+#### CLI
+```shell
+brew install --cask google-japanese-ime
+```
 
 ### オススメ度
 ★★★★☆
@@ -193,6 +274,15 @@ Fn キーと Caps Lock キーがどこにも割り当てられていませんが
 
 ちなみに余談ですが、高級キーボードで有名な REALFORCE では、Caps Lock を Ctrl に変更するためのキーキャップが付属しています。REALFORCE さん、よくわかっていらっしゃる。
 
+### インストール
+#### GUI
+[Karabiner-Elements](https://karabiner-elements.pqrs.org)
+
+#### CLI
+```shell
+brew install --cask karabiner-elements
+```
+
 ### オススメ度
 ★★★★★
 
@@ -208,6 +298,15 @@ Fn キーと Caps Lock キーがどこにも割り当てられていませんが
 ただし注意点があり、fn キーなど一部のキーは無効化されません。また、MacBook のトラックパッドは反応してしまうため注意が必要です。
 
 そこまで頻繁にキーボードを掃除する機会がないのと、誤入力しても問題ない状態で掃除すれば良いことに加え、外部キーボード勢には関係のない話なので、オススメ度はそこまで高くはないです。
+
+### インストール
+#### GUI
+[KeyboardCleanTool](https://folivora.ai/keyboardcleantool)
+
+#### CLI
+```shell
+brew install --cask keyboardcleantool
+```
 
 ### オススメ度
 ★☆☆☆☆
@@ -225,6 +324,15 @@ Fn キーと Caps Lock キーがどこにも割り当てられていませんが
 
 筆者はそのときの部屋の明るさに応じて細かく画面の明るさを調整したいタイプなので、このアプリはかなり重宝しています。
 
+### インストール
+#### GUI
+[Lunar](https://lunar.fyi)
+
+#### CLI
+```shell
+brew install --cask lunar
+```
+
 ### オススメ度
 ★★★★★
 
@@ -240,6 +348,15 @@ Fn キーと Caps Lock キーがどこにも割り当てられていませんが
 筆者は HSP なので、ほんの些細な物音が気になって集中できなかったり眠れなかったりします。そのため、外出中やお風呂に入っているとき以外のほとんどの時間はこのアプリで環境音を流しています。これがないと仕事に集中できないし眠れません。
 
 音楽を聞きながら作業する人も多く見かけますが、筆者は 2 つ以上の物事に集中することが本当に苦手なので、音楽を流しているとどうしてもそちらに注意が向いてしまいます。環境音だとほぼ同じ音声の繰り返しなので、曲ごとに BPM が変わるなどで気がそれたりしないため非常に重宝しています。
+
+### インストール
+#### GUI
+[Noizio](https://noiz.io)
+
+#### CLI
+```shell
+mas install 928871589
+```
 
 ### オススメ度
 ★★★★☆
@@ -262,6 +379,15 @@ Witch はアプリケーション切替だけでなくウィンドウ切替に�
 [^2]: ちなみに Finder が邪魔な件に関しては [Finder を終了させる](https://zenn.dev/noraworld/articles/how-to-kill-finder) こともできます。
 
 一時的にシステム環境設定などを開いていたりするときに、いちいちそれが選択肢に表示されると邪魔だなあと感じることがあったのですが、このアプリを使い始めてから見事にその問題が解消されました。
+
+### インストール
+#### GUI
+[Witch](https://manytricks.com/witch/)
+
+#### CLI
+```shell
+brew install --cask witch
+```
 
 ### オススメ度
 ★★★★★
