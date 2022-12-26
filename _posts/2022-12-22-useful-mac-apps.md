@@ -1,11 +1,19 @@
 ---
 layout: post
 title: "Mac 歴 8 年のエンジニアが便利な Mac アプリを紹介するぞ！"
-image: ""
+description: "Mac 歴 8 年のエンジニアが現在愛用している便利な Mac アプリ全 14 個をご紹介します。"
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/apps_thumbnail.png"
 date: "2022-12-22 13:53:04"
 tags:
+- Mac
+- 便利アプリ
+- エンジニア
 published: false
 ---
+
+![Apps thumbnail](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/apps_thumbnail.png)
+
+
 
 # はじめに
 こんにちは、UUUM に入社してから 544 日目[^3]の [aoki_k](https://github.com/noraworld) です。
