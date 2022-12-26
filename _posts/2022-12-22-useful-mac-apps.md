@@ -31,6 +31,8 @@ published: false
 なお、Google Chrome や LINE などのメジャーなものや、Docker や Visual Studio Code などエンジニアならほとんどが認知している (使用している) もの、特定のサービス専用のものなどに関しては除外しました。
 
 ## [Alfred 5](https://www.alfredapp.com)
+![Alfred 5](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/alfred.png)
+
 アプリケーションの呼び出しや計算、特定のコマンドの実行など、幅広い操作を数タイプのキーボード操作のみで簡単に実行できる常駐アプリです。いわゆる Spotlight の強化版です。
 
 マウスフォーカスがどこにあっても、どのアプリケーションウィンドウがアクティブになっていても、ショートカットひとつで呼び出せるので、ちょっとした調べ物や計算、めんどくさい処理を自動化するのに非常に便利です。
@@ -54,6 +56,8 @@ brew install --cask alfred
 
 
 ## [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704)
+![Amphetamine](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/amphetamine.png)
+
 Mac を一時的にスリープしないようにできる常駐アプリです。
 
 重いファイルをダウンロードしたり、パッケージをインストールしたりビルドしたりするときって時間がかかりますよね。その間、他の作業をしたりすることもできるのですが、しばらく操作していなくて勝手にスリープされてしまっては困ります。
@@ -81,6 +85,8 @@ mas install 937984704
 
 
 ## [AppCleaner](https://freemacsoft.net/appcleaner/)
+![AppCleaner](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/app_cleaner.png)
+
 アプリケーション削除時に、設定ファイルやメタデータなども一緒に削除してくれるアプリです。
 
 Windows と違って、Mac ではアプリのアンインストーラが付属していないことが多いです。Mac App Store からインストールしたアプリは iOS のようにアプリケーション一覧画面から削除することができますが、そうでないアプリは Finder や CLI から削除する必要があります。
@@ -106,6 +112,11 @@ brew install --cask appcleaner
 
 
 ## [Bartender 4](https://www.macbartender.com)
+
+| Before | After |
+| --- | --- |
+| ![Bartender 4 (before)](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/bartender_before.png) | ![Bartender 4 (after)](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/bartender_after.png) |
+
 メニューバーから常駐アプリのアイコンを非表示にできる常駐アプリです。
 
 ドックにあるアプリアイコンは自分である程度整理することができますが、メニューバーには、起動している常駐アプリがすべて表示されてしまうためごちゃごちゃになりやすいです。常駐アプリとして起動している以上はどこかにアイコンが存在していなければいけないのはたしかですが、ただ起動しているだけで意味のある常駐アプリのアイコンがメニューバーにずっと表示されているのが気になってしまう人もいるでしょう。かくいう筆者も OCD なのでよく目にするものは整理整頓されていないと落ち着きません。
@@ -129,6 +140,8 @@ brew install --cask bartender
 
 
 ## [Be Focused Pro](https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517)
+![Be Focused Pro](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/be_focused_pro.png)
+
 ポモドーロアプリです。これだけでなんのことかわかったらもはや説明は不要です。
 
 簡単に言ってしまえばタイマーアプリなのですが、1 セッションの時間や休憩時間、何回のセッションで長い休憩にするのかなどを設定できたり、休憩時間の開始を自動で行ってくれたりなど、基本的な設定は網羅しており、UI がシンプルなところが気に入っています。
@@ -150,6 +163,8 @@ mas install 961632517
 
 
 ## [BetterSnapTool](https://apps.apple.com/us/app/bettersnaptool/id417375580)
+![BetterSnapTool](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/better_snap_tool.png)
+
 ウィンドウの最大化、左半分、右半分、画面 1/4 など、ウィンドウの大きさを簡単に変更できる常駐アプリです。
 
 操作はショートカットもしくはウィンドウを画面の端に向かってドラッグすることで行います。ドラッグ操作は Windows と似たようなものと思っていただければイメージしやすいかなと思います。
@@ -175,6 +190,8 @@ mas install 417375580
 
 
 ## [Browserosaurus](https://browserosaurus.com)
+![Browserosaurus](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/browserosaurus.png)
+
 ブラウザ以外のアプリのリンクをクリックした際に、どのブラウザで開くかを都度選択することができる常駐アプリです。
 
 Visual Studio Code など、ブラウザ以外のアプリ内の HTTP/HTTPS リンクをクリックした場合、通常はデフォルトのブラウザでそのリンクが開かれます。
@@ -200,6 +217,8 @@ brew install --cask browserosaurus
 
 
 ## [Create File Menu](https://apps.apple.com/us/app/new-file-menu/id1064959555)
+![Create File Menu](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/create_file_menu.png)
+
 Finder のメニューバーおよび右クリックメニューにファイルを新規作成する項目を追加するツールです。
 
 Windows だとデフォルトで右クリックメニューからテキストファイルを作成することができますが、Mac ではできません。それを可能にするのがこのツールです。
@@ -221,6 +240,8 @@ mas install 1440519779
 
 
 ## [Google Japanese IME](https://www.google.co.jp/ime/)
+![Google Japanese IME](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/google_japanese_ime.png)
+
 定番の日本語用 IME です。
 
 Mac 標準搭載の IME を使用している人もそれなりにいるようなのですが、ミーティング等の画面共有で標準 IME を使っている人の変換の挙動を見ると、あまり賢いとは言い難いです。
@@ -254,6 +275,8 @@ brew install --cask google-japanese-ime
 
 
 ## [Karabiner-Elements](https://karabiner-elements.pqrs.org)
+![Karabiner-Elements](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/karabiner_elements.png)
+
 キーマップを変更できるアプリです。
 
 筆者は US 配列キーボードを使用しているのですが、日本語を使用する環境だと日本語入力切替に少し難があります。
@@ -304,6 +327,8 @@ brew install --cask karabiner-elements
 
 
 ## [KeyboardCleanTool](https://folivora.ai/keyboardcleantool)
+![KeyboardCleanTool](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/keyboard_clean_tool.png)
+
 キーボードの操作を一切受け付けないようにするアプリです。
 
 名前のとおり、キーボードを掃除したいときに使います。外部キーボードなら Mac から切断して掃除すれば良いですが、内蔵キーボードの場合は掃除中にキーが押されて勝手に反応してしまいます。電源を切れば良いのですが、掃除しようと思ったときにいちいち電源を切らなければいけないのは面倒です。
@@ -329,6 +354,8 @@ brew install --cask keyboardcleantool
 
 
 ## [Lunar](https://lunar.fyi)
+![Lunar](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/lunar.png)
+
 画面の輝度やコントラストを調整しやすくする常駐アプリです。
 
 外部モニターの明るさ調整って結構めんどくさいですよね。明るさ調整キーを使っても、反映されるのは Mac 本体のディスプレイのみです。
@@ -354,6 +381,8 @@ brew install --cask lunar
 
 
 ## [Noizio](https://noiz.io)
+![Noizio](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/noizio.png)
+
 様々な環境音や雑音、特定の周波数帯の音を出すことができる常駐アプリです。
 
 鳥の鳴き声や雨の音、焚き火の音などの環境音から、電車の音、ホワイトノイズなどの雑音系、α波、β波などの特殊な音に至るまで幅広く揃っています。ちょっと変わったものだと心臓の鼓動なんてのもあります。
@@ -379,6 +408,8 @@ mas install 928871589
 
 
 ## [Witch](https://manytricks.com/witch/)
+![Witch](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/witch.png)
+
 アプリケーションの切替をキーボードで行うことができる常駐アプリです。Mac だと Command + Tab でアプリケーション切替ができますが、これの強化版です。
 
 Mac 標準の Command + Tab もとても便利なのですが、長年使い続けているとちょっとした不満や欲が生まれます。たとえば Finder[^2] が邪魔だったり、特定のアプリは除外したかったり。
