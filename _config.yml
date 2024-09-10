@@ -27,6 +27,8 @@ url: "https://noraworld.github.io" # the base hostname & protocol for your site,
 twitter_username: noraworld_com
 github_username:  noraworld
 permalink: /:title
+disqus:
+  shortname: noraworld
 
 # Build settings
 theme: minima
