@@ -4,7 +4,7 @@ title: "Google AdSense の審査"
 image: ""
 date: "2021-10-24 13:10:45"
 tags:
-published: false
+published: true
 ---
 
 Google AdSense の審査に合格するまでにやったことをメモとして残しておこうと思う。ちなみにこの記事を書き始めている現時点ではまだ審査は通っていない。もしかしたらこの記事はお蔵入りになるかもしれない。

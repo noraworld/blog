@@ -4,7 +4,7 @@ title: "Google AdSense 審査チェックリスト"
 image: ""
 date: "2021-10-26 13:47:36"
 tags:
-published: false
+published: true
 ---
 
 Google AdSense の審査は年々厳しくなっているようだ。しかも審査落ちした場合に、具体的な理由を教えてもらえないので何を修正したら良いかわからない。

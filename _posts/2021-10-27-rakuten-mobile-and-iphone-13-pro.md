@@ -4,7 +4,7 @@ title: "楽天モバイルの SIM と iPhone 13 Pro が届いた"
 image: ""
 date: "2021-10-27 18:49:25"
 tags:
-published: false
+published: true
 ---
 
 10 月 22 日 (金) に契約した楽天モバイルと、そのときに購入した iPhone 13 Pro が届いた。

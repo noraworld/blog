@@ -2,7 +2,7 @@
 layout: post
 title: ブラウザ版 1Password がデスクトップ版と連携できないときの解決法
 date: '2021-08-25 12:58:01'
-published: false
+published: true
 ---
 
 # はじめに

@@ -2,7 +2,7 @@
 layout: post
 title: USB-DAC 2 台体制メモ
 date: '2021-08-21 05:41:59'
-published: false
+published: true
 ---
 
 先日、Zoom U-44 をもう 1 台導入した。もともと 1 台持っていて、もう 1 台新たに購入した。

@@ -4,7 +4,7 @@ title: "のどの違和感で病院に行ってきた"
 image: ""
 date: "2021-10-26 11:39:59"
 tags:
-published: false
+published: true
 ---
 
 今日は夏季休暇を取っていた。のどの違和感があったので病院に行ってきた。
