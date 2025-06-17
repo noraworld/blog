@@ -25,11 +25,11 @@ layout: default
 
     <a class="share-btn twitter" href="https://x.com/intent/post?text={{ page.title | uri_escape }}&url={{ page.url | absolute_url }}&via={{ site.twitter_username }}" target="_blank" rel="noopener" style="margin-right: 15px;"><i class="fab fa-twitter"></i> Twitter</a>
 
-    <a class="share-btn mastodon" href="https://mastodon.social/share?text={{ page.title | escape }} {{ page.url | absolute_url }} via @{{ site.github_username }}" target="_blank" rel="noopener" style="margin-right: 15px;"><i class="fab fa-mastodon"></i> Mastodon</a>
+    <a class="share-btn mastodon" href="https://mastodon.social/share?text={{ page.title | escape }} {{ page.url | absolute_url }} via @{{ site.github_username }}" target="_blank" rel="noopener" style="margin-right: 15px;"><i class="fab fa-mastodon"></i> Mastodon.social</a>
 
-    <a class="share-btn misskey" href="https://misskey.io/share?text={{ page.title | escape }} {{ page.url | absolute_url }} via @{{ site.github_username }}" target="_blank" rel="noopener" style="margin-right: 15px;"><i class="fa fa-paper-plane"></i> Misskey</a>
+    <a class="share-btn misskey" href="https://misskey.io/share?text={{ page.title | escape }} {{ page.url | absolute_url }} via @{{ site.github_username }}" target="_blank" rel="noopener" style="margin-right: 15px;"><i class="fa fa-paper-plane"></i> Misskey.io</a>
 
-    <input type="text" id="instance" placeholder="Other Mastodon/Misskey instance" style="width: 210px;">
+    <input type="text" id="instance" placeholder="Another Mastodon/Misskey instance" style="width: 250px;">
     <a class="share-btn fediverse" href="javascript:void(0)" onclick="share('{{ page.title | escape }}', '{{ page.url | absolute_url }}')"><i class="fa fa-share-alt"></i></a>
   </div>
   <script>
