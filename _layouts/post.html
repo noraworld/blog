@@ -20,6 +20,28 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="share-buttons">
+    <p>この記事をシェア:</p>
+
+    <a class="share-btn twitter" href="https://x.com/intent/post?text={{ page.title | uri_escape }}&url={{ page.url | absolute_url }}&via={{ site.twitter_username }}" target="_blank" rel="noopener" style="margin-right: 15px;"><i class="fab fa-twitter"></i> Twitter</a>
+
+    <a class="share-btn mastodon" href="https://mastodon.social/share?text={{ page.title | escape }} {{ page.url | absolute_url }} via @{{ site.github_username }}" target="_blank" rel="noopener" style="margin-right: 15px;"><i class="fab fa-mastodon"></i> Mastodon</a>
+
+    <a class="share-btn misskey" href="https://misskey.io/share?text={{ page.title | escape }} {{ page.url | absolute_url }} via @{{ site.github_username }}" target="_blank" rel="noopener" style="margin-right: 15px;"><i class="fa fa-paper-plane"></i> Misskey</a>
+
+    <input type="text" id="instance" placeholder="Other Mastodon/Misskey instance" style="width: 210px;">
+    <a class="share-btn fediverse" href="javascript:void(0)" onclick="share('{{ page.title | escape }}', '{{ page.url | absolute_url }}')"><i class="fa fa-share-alt"></i></a>
+  </div>
+  <script>
+    function share(title, url) {
+      const instance = document.getElementById("instance").value.trim();
+      if (!instance) return;
+
+      const fullUrl = `https://${instance}/share?text=${encodeURIComponent(title + ' ' + url)}`;
+      window.open(fullUrl, '_blank', 'noopener');
+    }
+  </script>
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
