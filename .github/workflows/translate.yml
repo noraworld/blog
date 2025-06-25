@@ -1,0 +1,106 @@
+# https://chatgpt.com/c/685bdb50-189c-8004-be62-7c9bca13dd60
+name: Translate
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '_posts/ja/**'
+  workflow_dispatch:
+    inputs:
+      target_path:
+        required: true
+        description: Target full path (comma separated)
+        type: string
+
+jobs:
+  collect:
+    name: Collect changed files
+    runs-on: ubuntu-latest
+    outputs:
+      # [
+      #   {
+      #     "input": "_posts/ja/2025/06/2025-06-25-hello.md",
+      #     "output": "_posts/en/2025/06/2025-06-25-hello.md"
+      #   },
+      #   {
+      #     "input": "_posts/ja/2025/06/2025-06-26-world.md",
+      #     "output": "_posts/en/2025/06/2025-06-26-world.md"
+      #   }
+      # ]
+      file_pairs_json: ${{ steps.set-pairs.outputs.file_pairs_json }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - id: set-pairs
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            pairs=$(echo "${{ github.event.inputs.target_path }}" | tr ',' '\n' | xargs -n1 |
+              grep '^_posts/ja/.*\.md$' |
+              while read f; do
+                out=$(echo "$f" | sed 's|^_posts/ja/|_posts/en/|')
+                echo "{\"input\": \"$f\", \"output\": \"$out\"}"
+              done | jq -s .)
+          else
+            pairs=$(git diff --name-only --diff-filter=AM ${{ github.event.before }} ${{ github.sha }} |
+              grep '^_posts/ja/.*\.md$' |
+              while read f; do
+                out=$(echo "$f" | sed 's|^_posts/ja/|_posts/en/|')
+                echo "{\"input\": \"$f\", \"output\": \"$out\"}"
+              done | jq -s .)
+          fi
+
+          echo "file_pairs_json<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$pairs" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+        shell: bash
+
+  translate:
+    name: Translate each post
+    needs: collect
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 1
+      matrix:
+        pair: ${{ fromJson(needs.collect.outputs.file_pairs_json) }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Read content from input file
+        run: |
+          content=$(cat "${{ matrix.pair.input }}")
+          echo "USER_PROMPT<<EOF" >> "$GITHUB_ENV"
+          echo "$content" >> "$GITHUB_ENV"
+          echo "EOF" >> "$GITHUB_ENV"
+        shell: bash
+
+      - name: Translate with ChatGPT
+        uses: noraworld/chatgpt-feedback@main
+        with:
+          model: gpt-4o
+          system_prompt: >
+            これは日本語で書かれたブログ記事です。この記事の英語バージョンを作成したいので自然な英語に訳してください。
+            次のルールに従って回答してください。
+            1. 先頭の --- で囲まれた YAML に関しては title と description のみを英訳し、それ以外は改行も維持してそのまま出力してください。
+            2. 本文の中に、コードブロックで囲まれた部分、画像、URL が含まれる場合、それらはそのまま出力してください。
+            3. 本文の最初（YAML の直後）に次の文言を入れてください。
+            This article was automatically translated from Japanese to English by ChatGPT.
+            Please note that some nuances or information may not be accurately reflected.
+            4. レスポンスをそのままファイルに保存するため、「わかりました」などの返答は一切しないでください。
+          user_prompt: ${{ env.USER_PROMPT }}
+          output_file: ${{ matrix.pair.output }}
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          CHATGPT_API_KEY: ${{ secrets.CHATGPT_API_KEY }}
+
+      - name: Commit
+        run: |
+          git pull origin main
+          git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
+          git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+          git add "${{ matrix.pair.output }}"
+          git commit -m "Translate ${{ matrix.pair.input }} into English"
+          git push -u origin main
