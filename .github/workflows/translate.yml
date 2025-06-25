@@ -104,3 +104,7 @@ jobs:
           git add "${{ matrix.pair.output }}"
           git commit -m "Translate ${{ matrix.pair.input }} into English"
           git push -u origin main
+
+  deploy:
+    needs: translate
+    uses: noraworld/blog/.github/workflows/pages.yml@main

@@ -1,11 +1,6 @@
 name: Build and Deploy Jekyll
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - '_posts/**'
   workflow_call:
   workflow_dispatch:
 
