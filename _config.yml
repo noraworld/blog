@@ -249,3 +249,16 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# ------------ The end of Chirpy settings ------------------
+
+plugins:
+  - jekyll-polyglot
+
+languages: ["ja", "en"]
+default_lang: "ja"
+exclude_from_localization: ["javascript", "images", "css", "public", "sitemap"]
+parallel_localization: true
+lang_from_path: true
+# sass:
+#     sourcemap: never
