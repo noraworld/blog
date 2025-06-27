@@ -214,15 +214,17 @@ compress_html:
   ignore:
     envs: [development]
 
+# https://github.com/yunseo-kim/yunseo-kim.github.io/blob/b67074b2871b9d1c719912fea40df1e08e2b8de5/_config.yml#L225-L231
+# https://github.com/untra/polyglot/issues/204
 exclude:
-  - "*.gem"
-  - "*.gemspec"
+  # - "*.gem"
+  - jekyll-theme-chirpy.gemspec # "*.gemspec"
   - docs
   - tools
   - README.md
   - LICENSE
   - purgecss.js
-  - "*.config.js"
+  - purgecss.config.js # "*.config.js"
   - "package*.json"
   - .sass-cache/
   - .jekyll-cache/
