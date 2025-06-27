@@ -1,0 +1,113 @@
+<!--
+  https://github.com/yunseo-kim/yunseo-kim.github.io/blob/b67074b2871b9d1c719912fea40df1e08e2b8de5/_includes/lang-selector.html
+  https://github.com/yunseo-kim/yunseo-kim.github.io/blob/b67074b2871b9d1c719912fea40df1e08e2b8de5/assets/css/lang-selector.css
+-->
+
+
+
+<style>
+  .lang-selector-wrapper {
+    padding: 0.35rem;
+    margin: 0.15rem 0;
+    text-align: center;
+  }
+
+  .lang-dropdown {
+    position: relative;
+    display: inline-block;
+    width: auto;
+    min-width: 120px;
+    max-width: 80%;
+  }
+
+  .lang-select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    width: 100%;
+    padding: 0.5rem 2rem 0.5rem 1rem;
+
+    font-family: "Pretendard JP Variable", "Pretendard Variable", sans-serif;
+    font-size: 0.95rem;
+    color: var(--sidebar-muted);
+    background-color: var(--sidebar-bg);
+
+    border-radius: var(--bs-border-radius, 0.375rem);
+    cursor: pointer;
+    transition: all 0.2s ease;
+
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right 0.75rem center;
+    background-size: 1rem;
+  }
+
+  .lang-select option {
+    font-family: "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", sans-serif;
+    padding: 0.35rem;
+    font-size: 1rem;
+  }
+
+  .lang-flag {
+    display: inline-block;
+    margin-right: 0.5rem;
+    font-family: "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", sans-serif;
+  }
+
+  .lang-select:hover {
+    color: var(--sidebar-active);
+    background-color: var(--sidebar-hover);
+  }
+
+  .lang-select:focus {
+    outline: 2px solid var(--sidebar-active);
+    outline-offset: 2px;
+    color: var(--sidebar-active);
+  }
+
+  .lang-select:-moz-focusring {
+    color: transparent;
+    text-shadow: 0 0 0 var(--sidebar-muted);
+  }
+
+  .lang-select::-ms-expand {
+    display: none;
+  }
+
+  [data-mode="dark"] .lang-select {
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+  }
+
+  @media (max-width: 768px) {
+    .lang-select {
+        padding: 0.75rem 2rem 0.75rem 1rem;
+    }
+
+    .lang-dropdown {
+        min-width: 140px;
+    }
+  }
+</style>
+
+
+
+<div class="lang-dropdown">
+  <select class="lang-select" onchange="changeLang('{{ site.baseurl }}', this.value)" aria-label="Select Language">
+  {%- for lang in site.languages -%}
+    <option value="{% if lang == site.default_lang %}{{ page.url }}{% else %}/{{ lang }}{{ page.url }}{% endif %}"
+      {% if lang == site.active_lang %}selected{% endif %}>
+      {% case lang %}
+      {% when 'ja' %}🇯🇵 日本語
+      {% when 'en' %}🇺🇸 English
+      {% else %}{{ lang }}
+      {% endcase %}
+    </option>
+  {%- endfor -%}
+  </select>
+</div>
+
+<script>
+  function changeLang(baseurl, path) {
+    window.location.href = `${baseurl}${path}`;
+  }
+</script>
