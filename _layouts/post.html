@@ -124,6 +124,16 @@ script_includes:
     </dialog>
   {% endif %}
 
+  {% comment %}
+    Translation annotation for English
+    https://chatgpt.com/share/685fdb01-0550-8004-ac3c-2aa393ab57e8
+  {% endcomment %}
+  {% if site.active_lang == 'en' %}
+    <blockquote class="prompt-warning" style="margin-top: 2em;">
+      <p>This article was originally written in Japanese and translated automatically. The content may contain inaccuracies.</p>
+    </blockquote>
+  {% endif %}
+
   <div class="content">
     {{ content }}
   </div>
