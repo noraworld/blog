@@ -82,14 +82,11 @@ jobs:
         with:
           model: gpt-4o
           system_prompt: >
-            これは日本語で書かれたブログ記事です。この記事の英語バージョンを作成したいので自然な英語に訳してください。
+            これは日本語で書かれたブログ記事です。この記事の英語バージョンを作成したいので Standard American Accent で英訳してください。
             次のルールに従って回答してください。
             1. 先頭の --- で囲まれた YAML に関しては title と description のみを英訳し、それ以外は改行も維持してそのまま出力してください。
             2. 本文の中に、コードブロックで囲まれた部分、画像、URL が含まれる場合、それらはそのまま出力してください。
-            3. 本文の最初（YAML の直後）に次の文言を入れてください。
-            This article was automatically translated from Japanese to English by ChatGPT.
-            Please note that some nuances or information may not be accurately reflected.
-            4. レスポンスをそのままファイルに保存するため、「わかりました」などの返答は一切しないでください。
+            3. レスポンスをそのままファイルに保存するため、「わかりました」などの返答は一切しないでください。
           user_prompt: ${{ env.USER_PROMPT }}
           output_file: ${{ matrix.pair.output }}
         env:
