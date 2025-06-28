@@ -23,7 +23,9 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
+# Don't forget to change them temporarily when you run it on the local environment.
 url: "https://noraworld.github.io"
+# url: "http://localhost:4000"
 
 github:
   username: noraworld # change to your GitHub username
