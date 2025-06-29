@@ -1,6 +1,18 @@
 name: Build and Deploy Jekyll
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      # Do not include '_posts' because it's triggered by translate.yml
+      - '_data'
+      - '_includes'
+      - '_layouts'
+      - '_plugins'
+      - '_tabs'
+      - '_config.yml'
+      - 'index.html'
   workflow_call:
   workflow_dispatch:
 
