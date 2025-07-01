@@ -1,6 +1,7 @@
 ---
 layout: post
 title: スマホ版ドラクエ6がセール中！
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/dragon-quest-6-on-sale/dq6_app.PNG"
 date: '2016-04-28 09:51:39'
 tags:
 - game

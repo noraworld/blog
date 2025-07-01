@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "ブログを Ghost から Jekyll に移行した"
-image: ""
 date: "2021-08-29 22:33:27"
 tags:
 published: true

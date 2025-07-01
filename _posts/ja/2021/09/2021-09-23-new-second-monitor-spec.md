@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "新しく購入する予定のモニターの仕様について"
-image: ""
 date: "2021-09-23 18:00:53"
 tags:
 published: true

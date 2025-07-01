@@ -8,8 +8,6 @@ tags:
 published: true
 ---
 
-![サムネイル](https://raw.githubusercontent.com/noraworld/blog-content/refs/heads/main/debit-card-reunion/thumbnail.png)
-
 クレジットカードの支払いを数ヶ月間滞納していたことにより合計 5 枚のカードが自動解約となってしまった。
 
 今まで合計で 15 枚ほどクレジットカードを所有してきた。その理由はそれぞれのサービスでポイント還元率などの利益を最大化するためだ。たとえば Amazon で買い物をするなら Amazon Mastercard を使うとか、Suica にチャージするならビューカードを使うとか。

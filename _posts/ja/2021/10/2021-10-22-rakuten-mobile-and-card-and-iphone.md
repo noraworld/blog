@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "楽天モバイル (MNP) と楽天カードを契約し、ついでに iPhone 13 Pro を購入した"
-image: ""
 date: "2021-10-22 21:43:24"
 tags:
 published: true

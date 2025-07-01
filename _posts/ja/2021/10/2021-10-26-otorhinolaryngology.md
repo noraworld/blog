@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "のどの違和感で病院に行ってきた"
-image: ""
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/2021-10-26-otorhinolaryngology/IMG_0521.jpg"
 date: "2021-10-26 11:39:59"
 tags:
 published: true

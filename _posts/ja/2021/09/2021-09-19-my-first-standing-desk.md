@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "スタンディングデスクを買った"
-image: ""
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/my-first-standing-desk/appearance2.jpg"
 date: "2021-09-19 18:21:48"
 tags:
 published: true

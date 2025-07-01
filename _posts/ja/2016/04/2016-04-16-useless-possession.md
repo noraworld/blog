@@ -1,6 +1,7 @@
 ---
 layout: post
 title: いまいち使いこなせていないもの
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/useless-possession/ipad_air_2.jpg"
 date: '2016-04-16 11:36:13'
 tags:
 - goods

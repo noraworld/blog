@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Google AdSense 審査チェックリスト"
-image: ""
 date: "2021-10-26 13:47:36"
 tags:
 published: true

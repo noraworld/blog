@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Working Copy を試してみた"
-image: ""
 date: "2021-12-25 13:35:00"
 tags:
 published: true

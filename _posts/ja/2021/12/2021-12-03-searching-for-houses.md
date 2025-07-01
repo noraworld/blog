@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "物件選びメモ"
-image: ""
 date: "2021-12-03 18:28:03"
 tags:
 published: true

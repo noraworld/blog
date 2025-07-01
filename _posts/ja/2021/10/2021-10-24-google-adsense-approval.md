@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google AdSense の審査"
-image: ""
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/google-adsense-approval/Screen%20Shot%202021-10-24%20at%2013.27.05.png"
 date: "2021-10-24 13:10:45"
 tags:
 published: true

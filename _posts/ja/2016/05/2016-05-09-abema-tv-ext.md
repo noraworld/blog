@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AbemaTV のコメントがニコ動風に流れる(+α) Chrome 拡張機能
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/abema-tv-ext/abematv_niconico_comment.png"
 date: '2016-05-09 04:57:13'
 tags:
 - useful

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: RCC新歓交流会に参加しました
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/rcc-exchange-meeting/sushi.jpg"
 date: '2016-06-12 09:04:36'
 tags:
 - university-life

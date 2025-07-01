@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JavaScript / jQuery イベントセミナーに参加してきた @ 京都
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/js-jquery-seminar-at-kyoto/google_maps.png"
 date: '2016-04-11 07:12:58'
 tags:
 - event

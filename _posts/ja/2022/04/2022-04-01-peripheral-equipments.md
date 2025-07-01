@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "我が家の周辺機器"
-image: ""
 date: "2022-04-01 00:49:00 +09:00"
 tags:
 published: true
