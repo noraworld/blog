@@ -7,7 +7,7 @@ published: false
 
 ※ 筆者はネイティブでもなければ流暢に英語が喋れるわけでもないのですべてを鵜呑みにしないでください。
 
-# "wake up" vs. "get up"
+### "wake up" vs. "get up"
 * wake up
   * 寝ている状態から目覚めること (布団やベッドから出たとは言ってない)
 * get up
@@ -16,19 +16,19 @@ published: false
 * "wake up" して "get up" する
 * https://www.vocabulary.cl/english/wake-up-get-up.htm
 
-# "try to do" vs. "try doing"
+### "try to do" vs. "try doing"
 * try to do
   * 「〜しようとする」「〜しようと試みる」「〜を試してみる」(するとは言っていない)
 * try doing
   * 「(試しに) 〜してみる」(実際にする)
 
-# "stop to do" vs. "stop doing"
+### "stop to do" vs. "stop doing"
 * stop to do
   * 「〜するために立ち止まる」
 * stop doing
   * 「〜するのをやめる」
 
-# "because of" vs. "due to" vs. "thanks to"
+### "because of" vs. "due to" vs. "thanks to"
 * because of
   * 「〜のせいで」「〜のおかげで」「〜だから」
   * 副詞的用法
@@ -47,7 +47,7 @@ published: false
 * https://keita43a.hatenablog.com/entry/2019/10/09/181606
 * https://www.quora.com/Whats-the-difference-among-%E2%80%9Cbecause-of-%E2%80%9D-%E2%80%9Cdue-to%E2%80%9D-and-%E2%80%9Cthanks-to%E2%80%9D
 
-# "also" vs. "as well" vs. "too"
+### "also" vs. "as well" vs. "too"
 * also
   * 文語的 (会話ではあまり使わない)
   * フォーマル
@@ -59,7 +59,7 @@ published: false
   * 口語的
   * 文末に来ることが多い
 
-# "to" vs. "in order to" vs. "so as to"
+### "to" vs. "in order to" vs. "so as to"
 * to
   * インフォーマル (カジュアル)
   * 状態動詞 (have, like, know, understand など) には使えない
@@ -71,11 +71,11 @@ published: false
   * 状態動詞にも使える
 * https://eigo.plus/nichijoeikaiwa/so-as-to
 
-# "a bit" vs. "a little" vs. "a little bit"
+### "a bit" vs. "a little" vs. "a little bit"
 * TBD
 
-# "a lot of" vs. "plenty of"
+### "a lot of" vs. "plenty of"
 * TBD
 
-# "apparently" vs. "it seems"
+### "apparently" vs. "it seems"
 * TBD
