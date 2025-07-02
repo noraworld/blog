@@ -61,6 +61,7 @@ jobs:
   translate:
     name: Translate each post
     needs: collect
+    if: ${{ needs.collect.outputs.file_pairs_json != '[]' }}
     runs-on: ubuntu-latest
     strategy:
       max-parallel: 1
