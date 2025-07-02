@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 成績通知表を受け取りに行ってきました
-image: ''
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/2nd-grade-2nd-semester-record/IMG_2453.JPG"
 date: '2016-03-25 11:01:45'
 tags:
 - university-life

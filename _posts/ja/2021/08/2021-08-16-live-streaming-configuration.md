@@ -6,7 +6,7 @@ date: '2021-08-16 13:27:13'
 published: true
 ---
 
-# これは何の記事
+### これは何の記事
 休日に友人や同僚とオンラインでゲームをする機会が今までに何度かあり、今後も継続していこうと思っている。
 
 そして、ゲームプレイや思い出の記録として、ゲームをプレイするときは YouTube Live で毎回配信するようにしている。
@@ -19,7 +19,7 @@ published: true
 
 また、設定を更新した場合はこの記事も更新する。
 
-# 使っている機材
+### 使っている機材
 * MacBook Pro
 * Blackmagic eGPU Pro
   * eGPU (AMD Radeon RX Vega 56)
@@ -32,7 +32,7 @@ published: true
 * SHURE SM7B
   * ダイナミックマイク
 
-# 使っているアプリケーション・サービス
+### 使っているアプリケーション・サービス
 * Streamlabs OBS
   * 配信ソフト
 * LadioCast
@@ -43,8 +43,8 @@ published: true
 * Google Meet
   * 会話用
 
-# Streamlabs OBS の設定
-## 音声ソースの設定
+### Streamlabs OBS の設定
+#### 音声ソースの設定
 ![](https://raw.githubusercontent.com/noraworld/blog-content/main/live-streaming-configuration/Screen-Shot-2021-08-15-at-22.14.39.png)
 
 以下の 3 つの音声を用意する。
@@ -74,7 +74,7 @@ published: true
   * 音量: 70 % (-11.2 dB)
   * ゲーム音声にフィルターはかけない
 
-## パフォーマンスメトリクスの表示
+#### パフォーマンスメトリクスの表示
 Streamlabs OBS の設定は、アプリ上で YouTube アカウントと連携することによって、他のデバイスとも同期できる。なので、基本的には設定をいじらなければ問題はないはず。
 
 ただし、左下の、CPU 使用率、FPS、コマ落ち、アップロードデータ量の表示有無は同期されないらしいので、新しいデバイスで設定をし直す場合は手動で追加すること。
@@ -83,7 +83,7 @@ Streamlabs OBS の設定は、アプリ上で YouTube アカウントと連携�
 
 特に FPS は、配信環境に問題があることを検出すると、勝手に変わったりすることがある (60 FPS → 30 FPS に勝手に変更されていたことがあった) ので、表示することをおすすめする。
 
-## 配信のクオリティの設定
+#### 配信のクオリティの設定
 ここらへんの設定はアカウント連携で同期されるはずだが、以前にいじったら YouTube Live 上でエラーが出るようになってしまったので、設定が間違っていないか今一度確認すること。
 
 ![](https://raw.githubusercontent.com/noraworld/blog-content/main/live-streaming-configuration/Screen-Shot-2021-08-16-at-22.09.26.png)
@@ -101,14 +101,14 @@ Streamlabs OBS の設定は、アプリ上で YouTube アカウントと連携�
   * 初期だとおそらく `2500` になっているが、1080p (60 FPS) で 2,500 だと YouTube Live 上でビットレートが低いという警告が出てしまうので
   * `6000` くらいまで上げても良いが、そこは Mac の CPU 性能との相談かな
 
-## ストリームキーの設定
+#### ストリームキーの設定
 セキュリティ上の観点からか、さすがにここの値はアカウント連携しても同期されないので、新しいデバイスで再開するときは YouTube Live からストリームキーをコピーして貼り付ける。
 
 ![](https://raw.githubusercontent.com/noraworld/blog-content/main/live-streaming-configuration/Screen-Shot-2021-08-16-at-22.10.31.png)
 
 Stream Type を `Custom Streaming Server` に設定すると警告が出るが、推奨設定のほうだと YouTube Studio のライブ画面が見れなかったり、超低遅延が設定できなかったりして不便なので、カスタムにする。
 
-# Soundflower の設定
+### Soundflower の設定
 以下の画像のように設定する。
 
 ![](https://raw.githubusercontent.com/noraworld/blog-content/main/live-streaming-configuration/Screen%20Shot%202021-10-10%20at%2018.20.04.png)
@@ -121,7 +121,7 @@ Stream Type を `Custom Streaming Server` に設定すると警告が出るが�
   * 自分が音声を聴くためのスピーカーを指定する
   * ツマミも黒いゲージもマックスにしておく
 
-# Google Meet の設定
+### Google Meet の設定
 以下の画像の用に設定する。
 
 ![](https://raw.githubusercontent.com/noraworld/blog-content/main/live-streaming-configuration/Screen-Shot-2021-08-16-at-21.12.15-1.png)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 特定のサイトを常に最前面に配置する拡張機能 Panel Tabs
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/panel-tabs/panel_tabs.png"
 date: '2016-05-01 11:16:43'
 tags:
 - useful

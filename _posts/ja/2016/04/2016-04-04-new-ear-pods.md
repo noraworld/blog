@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 新しい Ear Pods を買いました
+image: "https://raw.githubusercontent.com/noraworld/blog-content/main/new-ear-pods/IMG_2477.JPG"
 date: '2016-04-04 06:29:40'
 tags:
 - goods

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "楽天モバイルの SIM と iPhone 13 Pro が届いた"
-image: ""
 date: "2021-10-27 18:49:25"
 tags:
 published: true

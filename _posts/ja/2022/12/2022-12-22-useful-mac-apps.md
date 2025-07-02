@@ -4,21 +4,20 @@ title: "Mac 歴 8 年のエンジニアが便利な Mac アプリを紹介する
 description: "Mac 歴 8 年のエンジニアが現在愛用している便利な Mac アプリ全 14 個をご紹介します。"
 image: "https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/apps_thumbnail.png"
 date: "2022-12-22 13:53:04"
-tags:
-- Mac
-- 便利アプリ
-- エンジニア
+tags: [
+  "application",
+  "development",
+  "useful"
+]
 published: true
 ---
 
-![Apps thumbnail](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/apps_thumbnail.png)
-
-# この記事について
+### この記事について
 この記事は筆者が UUUM 株式会社に在籍していたときに技術記事投稿の担当が回ってきた際に執筆したものです。会社が管理するはてなブログに投稿されていたのでこちら（個人のブログ）では非公開としておりましたが、2024 年 9 月 22 日現在、改めて確認したらはてなブログ側が非公開となっており閲覧できない状態となっていましたので代わりにこちらを公開することにしました。（ほらね、こういうことがあるから会社絡みのことでも個人の実績は個人で管理しておくべきだなと改めて思った。ちゃんと個人で管理しておいてよかった。）
 
 
 
-# はじめに
+### はじめに
 こんにちは、UUUM に入社してから 544 日目[^3]の [aoki_k](https://github.com/noraworld) です。
 
 [^3]: 2022 年 12 月 26 日現在
@@ -29,19 +28,19 @@ published: true
 
 エンジニアという職業もあって、ほとんどの時間は PC に向き合っています。筆者は仕事でもプライベートでも Mac を使用しており歴もそれなりに長めなので、様々な有用アプリを紹介できるのではないかなと思いこの題に決めました。
 
-## 余談
+#### 余談
 今回がはじめての UUUM エンジニアブログでの記事執筆となりますが、実は初登場ではありません。以前に [UUUM エンジニア デスクツアー vol.1](https://system.blog.uuum.jp/entry/2022/03/22/110000) という記事で取り上げていただきました。
 
 実はあれから引越をしたり持ち物を整理したりしているので、物理的な環境も上記の記事を執筆いただいたときからだいぶ変わってはいるのですが、それはまた別の機会に。
 
 
 
-# アプリ紹介
+### アプリ紹介
 冒頭が少し長くなってしまいましたがそろそろアプリの紹介をしようと思います。
 
 なお、Google Chrome や LINE などのメジャーなものや、Docker や Visual Studio Code などエンジニアならほとんどが認知している (使用している) もの、特定のサービス専用のものなどに関しては除外しました。
 
-## [Alfred 5](https://www.alfredapp.com)
+#### [Alfred 5](https://www.alfredapp.com)
 ![Alfred 5](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/alfred.png)
 
 アプリケーションの呼び出しや計算、特定のコマンドの実行など、幅広い操作を数タイプのキーボード操作のみで簡単に実行できる常駐アプリです。いわゆる Spotlight の強化版です。
@@ -52,21 +51,21 @@ published: true
 
 ちゃんと使いこなすにはそれなりに設定や慣れが必要なのですが、その分、作業効率は格段にアップすること間違いなしです。
 
-### オススメ度
+##### オススメ度
 ★★★★☆
 
-### インストール
-#### GUI
+##### インストール
+###### GUI
 [Alfred 5](https://www.alfredapp.com)
 
-#### CLI
+###### CLI
 ```shell
 brew install --cask alfred
 ```
 
 
 
-## [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704)
+#### [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704)
 ![Amphetamine](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/amphetamine.png)
 
 Mac を一時的にスリープしないようにできる常駐アプリです。
@@ -81,21 +80,21 @@ Mac を一時的にスリープしないようにできる常駐アプリです�
 
 最近は Mac の性能も上がってインストールやビルドにそこまで時間がかからなくなったため、あまり使用頻度は高くないですが……。
 
-### オススメ度
+##### オススメ度
 ★★☆☆☆
 
-### インストール
-#### GUI
+##### インストール
+###### GUI
 [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704)
 
-#### CLI
+###### CLI
 ```shell
 mas install 937984704
 ```
 
 
 
-## [AppCleaner](https://freemacsoft.net/appcleaner/)
+#### [AppCleaner](https://freemacsoft.net/appcleaner/)
 ![AppCleaner](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/app_cleaner.png)
 
 アプリケーション削除時に、設定ファイルやメタデータなども一緒に削除してくれるアプリです。
@@ -108,21 +107,21 @@ Finder と AppCleaner を起動して Finder から AppCleaner にアプリア�
 
 もう使わなくなったアプリを削除するときには関連するファイルも削除されていないと気持ち悪いと感じてしまうタイプなので、アプリ削除時にはお世話になっています。
 
-### オススメ度
+##### オススメ度
 ★★★☆☆
 
-### インストール
-#### GUI
+##### インストール
+###### GUI
 [AppCleaner](https://freemacsoft.net/appcleaner/)
 
-#### CLI
+###### CLI
 ```shell
 brew install --cask appcleaner
 ```
 
 
 
-## [Bartender 4](https://www.macbartender.com)
+#### [Bartender 4](https://www.macbartender.com)
 
 | Before | After |
 | --- | --- |
@@ -136,21 +135,21 @@ brew install --cask appcleaner
 
 最近はメニューバー自体をデフォルトで非表示に設定してしまったので、あまりこのアプリのメリットは感じられていないです……。それから、そもそもアイコンがごちゃごちゃしていても気にならない人には不要なアプリですね。
 
-### オススメ度
+##### オススメ度
 ★★☆☆☆
 
-### インストール
-#### GUI
+##### インストール
+###### GUI
 [Bartender 4](https://www.macbartender.com)
 
-#### CLI
+###### CLI
 ```shell
 brew install --cask bartender
 ```
 
 
 
-## [Be Focused Pro](https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517)
+#### [Be Focused Pro](https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517)
 ![Be Focused Pro](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/be_focused_pro.png)
 
 ポモドーロアプリです。これだけでなんのことかわかったらもはや説明は不要です。
@@ -159,21 +158,21 @@ brew install --cask bartender
 
 ポモドーロテクニックはかなり認知度も上がってきており、それにともないポモドーロアプリもかなりたくさんあるので、あえてこれを選ぶ理由があるかと言われると微妙なところですが、様々なアプリを試した結果、結局これに落ち着いたという感じです。
 
-### オススメ度
+##### オススメ度
 ★★★☆☆
 
-### インストール
-#### GUI
+##### インストール
+###### GUI
 [Be Focused Pro](https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517)
 
-#### CLI
+###### CLI
 ```shell
 mas install 961632517
 ```
 
 
 
-## [BetterSnapTool](https://apps.apple.com/us/app/bettersnaptool/id417375580)
+#### [BetterSnapTool](https://apps.apple.com/us/app/bettersnaptool/id417375580)
 ![BetterSnapTool](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/better_snap_tool.png)
 
 ウィンドウの最大化、左半分、右半分、画面 1/4 など、ウィンドウの大きさを簡単に変更できる常駐アプリです。
@@ -186,21 +185,21 @@ Mac 標準の操作ではウィンドウ上部をダブルタップすること�
 
 ウィンドウ上部をダブルタップよりも操作しやすいですし、ウィンドウの配置やサイズ調整も応用が効くので重宝しています。
 
-### オススメ度
+##### オススメ度
 ★★★★★
 
-### インストール
-#### GUI
+##### インストール
+###### GUI
 [BetterSnapTool](https://apps.apple.com/us/app/bettersnaptool/id417375580)
 
-#### CLI
+###### CLI
 ```shell
 mas install 417375580
 ```
 
 
 
-## [Browserosaurus](https://browserosaurus.com)
+#### [Browserosaurus](https://browserosaurus.com)
 ![Browserosaurus](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/browserosaurus.png)
 
 ブラウザ以外のアプリのリンクをクリックした際に、どのブラウザで開くかを都度選択することができる常駐アプリです。
@@ -213,21 +212,21 @@ Visual Studio Code など、ブラウザ以外のアプリ内の HTTP/HTTPS リ�
 
 複数のブラウザを並行して使用している人におすすめのアプリです。筆者も以前は会社用のブラウザと個人用のブラウザを分けるために、それぞれ Chrome (Stable) と Chrome Beta を使っていましたが、最近は Chrome のプロフィール機能で分けているため、使用頻度は下がりました。
 
-### オススメ度
+##### オススメ度
 ★★☆☆☆
 
-### インストール
-#### GUI
+##### インストール
+###### GUI
 [Browserosaurus](https://browserosaurus.com)
 
-#### CLI
+###### CLI
 ```shell
 brew install --cask browserosaurus
 ```
 
 
 
-## [Create File Menu](https://apps.apple.com/us/app/new-file-menu/id1064959555)
+#### [Create File Menu](https://apps.apple.com/us/app/new-file-menu/id1064959555)
 ![Create File Menu](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/create_file_menu.png)
 
 Finder のメニューバーおよび右クリックメニューにファイルを新規作成する項目を追加するツールです。
@@ -236,21 +235,21 @@ Windows だとデフォルトで右クリックメニューからテキストフ
 
 ふだんは CLI でファイル操作を行うので頻繁に利用するものではないのですが、Finder を使うときにちょっとしたメモをディレクトリに追加したいときなどに重宝します。
 
-### オススメ度
+##### オススメ度
 ★★★☆☆
 
-### インストール
-#### GUI
+##### インストール
+###### GUI
 [Create File Menu](https://apps.apple.com/us/app/new-file-menu/id1064959555)
 
-#### CLI
+###### CLI
 ```shell
 mas install 1440519779
 ```
 
 
 
-## [Google Japanese IME](https://www.google.co.jp/ime/)
+#### [Google Japanese IME](https://www.google.co.jp/ime/)
 ![Google Japanese IME](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/google_japanese_ime.png)
 
 定番の日本語用 IME です。
@@ -271,21 +270,21 @@ Google Japanese IME は、さすが Google 製ということもあって、変�
 
 筆者は長年 Google Japanese IME を使っています。有料の IME はより便利で精度が高いかもしれませんが、無料の範囲内でここまでストレスなくタイピングできるので個人的にはこれで満足しています。
 
-### オススメ度
+##### オススメ度
 ★★★★★
 
-### インストール
-#### GUI
+##### インストール
+###### GUI
 [Google Japanese IME](https://www.google.co.jp/ime/)
 
-#### CLI
+###### CLI
 ```shell
 brew install --cask google-japanese-ime
 ```
 
 
 
-## [Karabiner-Elements](https://karabiner-elements.pqrs.org)
+#### [Karabiner-Elements](https://karabiner-elements.pqrs.org)
 ![Karabiner-Elements](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/karabiner_elements.png)
 
 キーマップを変更できるアプリです。
@@ -323,21 +322,21 @@ Fn キーと Caps Lock キーがどこにも割り当てられていませんが
 
 ちなみに余談ですが、高級キーボードで有名な REALFORCE では、Caps Lock を Ctrl に変更するためのキーキャップが付属しています。REALFORCE さん、よくわかっていらっしゃる。
 
-### オススメ度
+##### オススメ度
 ★★★★★
 
-### インストール
-#### GUI
+##### インストール
+###### GUI
 [Karabiner-Elements](https://karabiner-elements.pqrs.org)
 
-#### CLI
+###### CLI
 ```shell
 brew install --cask karabiner-elements
 ```
 
 
 
-## [KeyboardCleanTool](https://folivora.ai/keyboardcleantool)
+#### [KeyboardCleanTool](https://folivora.ai/keyboardcleantool)
 ![KeyboardCleanTool](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/keyboard_clean_tool.png)
 
 キーボードの操作を一切受け付けないようにするアプリです。
@@ -350,21 +349,21 @@ brew install --cask karabiner-elements
 
 そこまで頻繁にキーボードを掃除する機会がないのと、誤入力しても問題ない状態で掃除すれば良いことに加え、外部キーボード勢には関係のない話なので、オススメ度はそこまで高くはないです。
 
-### オススメ度
+##### オススメ度
 ★☆☆☆☆
 
-### インストール
-#### GUI
+##### インストール
+###### GUI
 [KeyboardCleanTool](https://folivora.ai/keyboardcleantool)
 
-#### CLI
+###### CLI
 ```shell
 brew install --cask keyboardcleantool
 ```
 
 
 
-## [Lunar](https://lunar.fyi)
+#### [Lunar](https://lunar.fyi)
 ![Lunar](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/lunar.png)
 
 画面の輝度やコントラストを調整しやすくする常駐アプリです。
@@ -377,21 +376,21 @@ brew install --cask keyboardcleantool
 
 筆者はそのときの部屋の明るさに応じて細かく画面の明るさを調整したいタイプなので、このアプリはかなり重宝しています。
 
-### オススメ度
+##### オススメ度
 ★★★★★
 
-### インストール
-#### GUI
+##### インストール
+###### GUI
 [Lunar](https://lunar.fyi)
 
-#### CLI
+###### CLI
 ```shell
 brew install --cask lunar
 ```
 
 
 
-## [Noizio](https://noiz.io)
+#### [Noizio](https://noiz.io)
 ![Noizio](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/noizio.png)
 
 様々な環境音や雑音、特定の周波数帯の音を出すことができる常駐アプリです。
@@ -404,21 +403,21 @@ brew install --cask lunar
 
 音楽を聞きながら作業する人も多く見かけますが、筆者は 2 つ以上の物事に集中することが本当に苦手なので、音楽を流しているとどうしてもそちらに注意が向いてしまいます。環境音だとほぼ同じ音声の繰り返しなので、曲ごとに BPM が変わるなどで気がそれたりしないため非常に重宝しています。
 
-### オススメ度
+##### オススメ度
 ★★★★☆
 
-### インストール
-#### GUI
+##### インストール
+###### GUI
 [Noizio](https://noiz.io)
 
-#### CLI
+###### CLI
 ```shell
 mas install 928871589
 ```
 
 
 
-## [Witch](https://manytricks.com/witch/)
+#### [Witch](https://manytricks.com/witch/)
 ![Witch](https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/witch.png)
 
 アプリケーションの切替をキーボードで行うことができる常駐アプリです。Mac だと Command + Tab でアプリケーション切替ができますが、これの強化版です。
@@ -437,21 +436,21 @@ Witch はアプリケーション切替だけでなくウィンドウ切替に�
 
 一時的にシステム環境設定などを開いていたりするときに、いちいちそれが選択肢に表示されると邪魔だなあと感じることがあったのですが、このアプリを使い始めてから見事にその問題が解消されました。
 
-### オススメ度
+##### オススメ度
 ★★★★★
 
-### インストール
-#### GUI
+##### インストール
+###### GUI
 [Witch](https://manytricks.com/witch/)
 
-#### CLI
+###### CLI
 ```shell
 brew install --cask witch
 ```
 
 
 
-# おわりに
+### おわりに
 全 14 個のアプリを紹介しましたが、いかがだったでしょうか。
 
 長年 Mac を使用しており、不便だと感じたことを解決するアプリを探したり、便利だと思うアプリを見つけたりするたびにとりあえず試してみることが多かったので、本記事を執筆する前はもっとたくさん紹介できそうだと思っていました。
