@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: "Migrated Blog from Ghost to Jekyll"
@@ -6,7 +5,6 @@ date: "2021-08-29 22:33:27"
 tags:
 published: true
 ---
-```
 
 I migrated my blog that started on March 15, 2016 (Tuesday). I previously used a blogging system called [Ghost](https://ghost.org/), and this time, I moved to a static site generator called [Jekyll](https://jekyllrb.com/).
 
