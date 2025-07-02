@@ -148,8 +148,8 @@ Besides, I also found similar comment systems like [utterances](https://github.c
 
 Initially, whether to use GitHub Discussions didn’t matter much personally, but in cases like giscus permits segregating content under categories, which offers the advantage where comments for multiple sites, including this blog, technical articles, and diaries, could be consolidated and managed under one repository. Indeed, I plan to manage comments in one repository using this method.
 
-The implementation itself doesn’t seem too difficult, so I planned to implement it yesterday or today. But as mentioned, to manage multiple sites under one repository, I need a new repository, and 
-deciding on its name has delayed progress. Despite not accomplishing much work recently, there are many things I still want to do with the blog and plenty of topics to write about. Therefore, I opted to write this article before generating any progress on that front. 
+The implementation itself doesn’t seem too difficult, so I planned to implement it yesterday or today. But as mentioned, to manage multiple sites under one repository, I need a new repository, and
+deciding on its name has delayed progress. Despite not accomplishing much work recently, there are many things I still want to do with the blog and plenty of topics to write about. Therefore, I opted to write this article before generating any progress on that front.
 
 Once the comment system is implemented, I’ll write an article to notify of the same.
 
