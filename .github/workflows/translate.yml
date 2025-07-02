@@ -39,7 +39,7 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             pairs=$(echo "${{ github.event.inputs.target_path }}" | tr ',' '\n' | xargs -n1 |
-              grep '^_posts/ja/.*\.md$' |
+              grep '^_posts/ja/.*\.md$' || true |
               while read f; do
                 out=$(echo "$f" | sed 's|^_posts/ja/|_posts/en/|')
                 echo "{\"input\": \"$f\", \"output\": \"$out\"}"
