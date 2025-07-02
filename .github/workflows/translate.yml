@@ -89,6 +89,7 @@ jobs:
             3. レスポンスをそのままファイルに保存するため、「わかりました」などの返答は一切しないでください。
           user_prompt: ${{ env.USER_PROMPT }}
           output_file: ${{ matrix.pair.output }}
+          trailing_newline: true
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CHATGPT_API_KEY: ${{ secrets.CHATGPT_API_KEY }}
