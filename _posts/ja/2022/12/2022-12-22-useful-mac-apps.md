@@ -4,10 +4,11 @@ title: "Mac 歴 8 年のエンジニアが便利な Mac アプリを紹介する
 description: "Mac 歴 8 年のエンジニアが現在愛用している便利な Mac アプリ全 14 個をご紹介します。"
 image: "https://raw.githubusercontent.com/noraworld/blog-content/main/useful-mac-apps/apps_thumbnail.png"
 date: "2022-12-22 13:53:04"
-tags:
-- Mac
-- 便利アプリ
-- エンジニア
+tags: [
+  "application",
+  "development",
+  "useful"
+]
 published: true
 ---
 
