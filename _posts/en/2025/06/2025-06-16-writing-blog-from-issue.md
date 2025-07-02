@@ -11,8 +11,6 @@ tags: []
 published: true
 ---
 
-This article was automatically translated from Japanese to English by ChatGPT. Please note that some nuances or information may not be accurately reflected.
-
 It's been a while again since the last blog update. The last update was at the end of last year, so this is my first post this year.
 
 ### Building a System for Casual Blog Updates

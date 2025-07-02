@@ -11,8 +11,6 @@ tags: []
 published: true
 ---
 
-This article was automatically translated from Japanese to English by ChatGPT. Please note that some nuances or information may not be accurately reflected.
-
 A friend invited me to a sauna.
 
 However, I'm really resistant to being naked in front of others. It's one thing to be shirtless, but being completely nude feels like the peak of embarrassment. But he has invited me multiple times, and every time I decline, he seems disappointed. This likely means that there is something quite attractive about saunas.
