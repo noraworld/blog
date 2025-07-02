@@ -45,7 +45,7 @@ jobs:
                 echo "{\"input\": \"$f\", \"output\": \"$out\"}"
               done | jq -s .)
           else
-            pairs=$(git diff --name-only --diff-filter=AMR ${{ github.event.before }} ${{ github.sha }} |
+            pairs=$(git diff --name-only --diff-filter=AR ${{ github.event.before }} ${{ github.sha }} |
               grep '^_posts/ja/.*\.md$' |
               while read f; do
                 out=$(echo "$f" | sed 's|^_posts/ja/|_posts/en/|')
