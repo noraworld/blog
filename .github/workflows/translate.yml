@@ -2,11 +2,11 @@
 name: Translate
 
 on:
-  # push:
-  #   branches:
-  #     - main
-  #   paths:
-  #     - '_posts/ja/**'
+  push:
+    branches:
+      - main
+    paths:
+      - '_posts/ja/**'
   workflow_dispatch:
     inputs:
       target_path:
