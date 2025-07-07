@@ -4,7 +4,7 @@ title: "First Sauna Experience"
 author: [
   "noraworld"
 ]
-description: "Summarizing my feelings and experiences from visiting a sauna for the first time in my life on June 26, 2025."
+description: "On June 26, 2025, I experienced a sauna for the first time in my life, and I gathered my thoughts and experiences from the occasion."
 image: "https://noraworld.github.io/box-ivysaur/2025/07/07/d92ad5ef39e8c5c0d03d355e57467bcf.jpg"
 date: 2025-07-05 19:00:00 +09:00
 tags: [
@@ -14,113 +14,167 @@ published: true
 ---
 
 ### First Sauna Challenge
-As I mentioned in [Avoiding New Experiences Narrows Your Horizons](sauna-challenge), I visited a sauna with a friend on June 26. This was my first time experiencing a sauna.
+As I mentioned in [Picky Eating Narrows Your Perspective](sauna-challenge), I went to a sauna with a friend on June 26, so I'll summarize my experience then. This was my very first sauna experience.
 
-We went to the Izumi Tenku no Yu at Haneda Airport. According to my friend, the hot springs and sauna at Haneda are considered quite high-end. Indeed, the cost was a hefty 4,800 yen. I heard it used to be in the 3,000 yen range but probably increased due to a rise in foreign tourists. Indeed, I saw several foreigners there. Alternatively, it might be the result of cost increases due to rising prices.
+We visited Izumi Tenku no Yu at Haneda Airport. According to my friend, the hot springs and sauna at Haneda Airport are quite high-end. Indeed, the price was also a bit steep at 4,800 yen. I heard it used to be in the 3,000 yen range, but perhaps they've increased prices due to the rise in foreign tourists. In fact, we did see a few foreigners. Or maybe it's due to rising costs from inflation.
 
-### Light Meal
-We didn't head straight to the sauna. We first met in Shinagawa for a light lunch, thinking a light meal would be better before the hot springs and sauna. We had takoyaki at a food court around Shinagawa Station.
+### A Light Meal
+We didn't head straight to the sauna; first, we met up in Shinagawa for a light lunch. Since it was before the hot springs and sauna, we thought a light meal would be better, so we ate takoyaki at a food court around Shinagawa Station.
 
-![Takoyaki](https://noraworld.github.io/box-ivysaur/2025/07/07/cb022b15c3db5d1fd55529c8929d60e4.jpg)
+![](https://noraworld.github.io/box-ivysaur/2025/07/07/cb022b15c3db5d1fd55529c8929d60e4.jpg)
 
-My friend mentioned wanting to visit a steakhouse, but it seems they only operate in the evenings on weekdays. Even if they were open, it would have been merely reconnaissance, as eating steak right before heading to a hot spring and sauna isn't feasible.
+My friend mentioned wanting to try a steakhouse, but it seems they're only open at night on weekdays. Even if they were open, eating steak right before hitting the hot springs and sauna isn't ideal, so it was more of a reconnaissance.
 
-![Shinagawa](https://noraworld.github.io/box-ivysaur/2025/07/07/6912bf846e432cb65858350bae70c656.jpg)
+![](https://noraworld.github.io/box-ivysaur/2025/07/07/6912bf846e432cb65858350bae70c656.jpg)
 
 ### Haneda Airport
-After some casual chat at the food court, we left Shinagawa and headed to Haneda Airport Terminal 3 Station. It was convenient as we could get there directly on the Keikyu Main Line Rapid Express.
+After some casual chatting at the food court, we left Shinagawa and headed to Haneda Airport Terminal 3 Station. Getting there was easy as the Keikyu Main Line Express goes direct.
 
-Even upon arriving at Haneda Airport, we didn’t go straight to the sauna but rather wandered around the airport premises. Although we didn’t intend to board a plane, the airport had various facilities, and just exploring the commercial areas was intriguing.
+Even after arriving at Haneda Airport, we didn't go straight to the sauna but strolled around the airport. We weren't boarding a flight, but airports have various facilities, so just walking around the commercial areas was interesting.
 
-![Haneda Airport](https://noraworld.github.io/box-ivysaur/2025/07/07/d92ad5ef39e8c5c0d03d355e57467bcf.jpg)
+![](https://noraworld.github.io/box-ivysaur/2025/07/07/d92ad5ef39e8c5c0d03d355e57467bcf.jpg)
 
-![Commercial Facility](https://noraworld.github.io/box-ivysaur/2025/07/07/1966083b8470a169f2f69cba5866b571.jpg)
+![](https://noraworld.github.io/box-ivysaur/2025/07/07/1966083b8470a169f2f69cba5866b571.jpg)
 
-The Edo Koji area left a strong impression—it was atmospheric, with stores lining the street in an Edo period townscape style. I wish I had taken pictures.
+What left a particular impression was Edo-koji. The street was lined with shops replicating the Edo period's townscapes, which had a certain charm. I wish I had taken some pictures.
 
 ### Izumi Tenku no Yu
-After wandering around Haneda Airport, we finally headed to Izumi Tenku no Yu. Personally, I was curious about the seemingly luxurious hotel attached to it, but this time it was all about Izumi Tenku no Yu.
+After wandering around Haneda Airport for a while, we finally headed to Izumi Tenku no Yu. Personally, I was curious about the luxurious-looking hotel attached to it, but we were there for the hot spring.
 
-![Izumi Tenku no Yu](https://noraworld.github.io/box-ivysaur/2025/07/07/1052bf92e9662a80ff7c9825c480deac.jpg)
+![](https://noraworld.github.io/box-ivysaur/2025/07/07/1052bf92e9662a80ff7c9825c480deac.jpg)
 
-The facility was not particularly surprising—typical, in a sense. I hadn’t been to a hot spring in over ten years, but it was reminiscent of my past experiences. Located inside Haneda Airport and given its high price, the exterior and interior were quite pristine.
+The facility was quite ordinary, nothing surprising. I haven't been in a hot spring in over 10 years, but it looked pretty much like I remembered. However, given it was located within Haneda Airport and the price was quite high, both the exterior and interior were very clean.
 
-To avoid dehydration from sweating profusely, I bought a Pocari Sweat from a convenience store before heading into the hot spring.
+To avoid dehydration from sweating too much, we bought Pocari Sweat at a convenience store before heading to the hot spring.
 
-Our friend joked about using "404 Not Found" for their locker, so I said I'd use "403 Forbidden," which made them laugh (a joke for engineers).
+At the locker area, my friend said, "I'll set it to 404 Not Found," to which I replied with, "Then I'll make mine 403 Forbidden," which made my friend burst out laughing (an engineer joke).
 
-![Locker](https://noraworld.github.io/box-ivysaur/2025/07/07/1ec8f9f0233fde8935e74b35f5724915.jpg)
+![](https://noraworld.github.io/box-ivysaur/2025/07/07/1ec8f9f0233fde8935e74b35f5724915.jpg)
 
 ### Sauna Etiquette
-My friend, accustomed to saunas, instructed me to follow proper etiquette. Here's the procedure:
+My friend, who is familiar with saunas, asked me to follow the rules of etiquette. Here's the procedure:
 
-1. Wash your body first and soak in the hot spring
-2. Enter the sauna room and sweat for about 8 to 10 minutes
-3. Exit the sauna room, rinse off sweat with a bucket shower, then soak in cold water for about 40 seconds
-4. Exit the cold water and wipe off water droplets from your body
-5. Rest for a while lying down or sitting on a chair outside or in the bathroom
-6. Repeat steps 2 to 5 about 2 to 3 times
-7. Finish by soaking in the hot spring again
+1. First, wash your body and soak in the hot spring.
+2. Enter the sauna and sweat for about 8 to 10 minutes.
+3. Exit the sauna, rinse the sweat off under a shower, then soak in cold water for about 40 seconds.
+4. Get out of the cold water and wipe off the body droplets.
+5. Lie down or sit outside or in the bathhouse and rest for a while.
+6. Repeat steps 2 to 5, 2 to 3 times.
+7. Finally, soak in the hot spring again.
 
-This is the overall flow, but each phase has further detailed etiquette.
+That's the flow, but there are more detailed etiquettes to follow at each phase.
 
-Regarding the time spent in the sauna room, there's no specific rule, but approximately 8 to 10 minutes is recommended. Since it was my first time, I was advised to start with about 6 minutes. Some people stay for about 12 minutes, but it depends on your comfort level.
+There’s no specific time for being in the sauna room, but around 8 to 10 minutes is said to be ideal. However, as it was my first time, I was advised to start with around 6 minutes. Some people stay in for 12 minutes, but don’t push yourself too hard.
 
-Speed is crucial when exiting the sauna room. It’s said to be more effective to quickly rinse off sweat after exiting and then soak in cold water. This phenomenon is often referred to as "tuning." Since nerve endings are concentrated in the hands, it’s better to immerse your whole body up to your neck without putting your hands in the cold water for about 40 seconds.
+The crucial part begins once you exit the sauna; speed is of the essence. The effect is greater if you shower off the sweat and quickly dip into cold water. This is what they call "aligned." Since the extremities have concentrated nerve endings, they say not to immerse your hands in the cold water, but rather immerse your entire body up to your neck. This takes about 40 seconds.
 
-Wiping off water droplets afterward is also important. As heat is drawn from water droplets, it is beneficial to thoroughly wipe your body after exiting the cold water.
+Furthermore, wiping off body droplets is somewhat important. You lose heat from the droplets, so after exiting the cold water, it’s better to thoroughly wipe your body.
 
-We repeated this procedure three times. Here's what each session entailed:
+We repeated this 3 times, and I'll summarize the experience for each round.
 
-#### First Session
-First, I washed my body and soaked in the hot spring. Since I had showered before leaving home, I didn’t use shampoo or body soap, just rinsed off lightly. The large bath had varying temperatures for each section, and I soaked in one that was about 37.5 degrees. Although it's been ages since I last visited a hot spring, this part was something I had experienced in childhood.
+#### First Round
+First, I washed myself and got into the regular hot spring. As I had showered before leaving the house, I didn’t use shampoo or body soap in the hot spring, just a light rinse-off. Although the bath is large and the temperature varies by section, I soaked in a place that was about 37.5 degrees Celsius. It had been a long time since I came to a hot spring, but up to this point, I had experienced it as a child.
 
-Then, I finally entered the sauna room. Although there was a steam type, I chose to go with the bathing style all three times. My friend doesn’t seem to prefer the steam type. Upon entering the sauna room, the heat was tremendous. Literally, a physical sensation of heat. Sitting places inside the room were organized in a tiered manner, increasing in temperature the higher up you went. The lowest was 80 degrees, and my friend said the highest was 90 degrees. There were five levels, so ascending one level raises the temperature by approximately 2.5 degrees. Since it was my first experience, I started on the lowest level. My friend went up one level.
+Then I entered the sauna room. There was a steam type, but this time I entered the dry sauna. My friend doesn’t particularly like steam. Upon entering the sauna, I felt immense heat. In the room’s back, seats were arranged in a staircase pattern, with the upper tiers being hotter. The lowest tier was 80 degrees, while the top was said to be 90 degrees by my friend. There were apparently 5 tiers, so each tier meant about a 2.5-degree increase. Since this was my first experience, I started from the lowest tier. My friend went one step higher.
 
-There was a slight sense of fear in the sauna room. The doorknob seemed to burn at the touch, and the room’s temperature enveloped the body in blazing heat. Breathing felt a bit scary. Taking a breath slightly hurt my nasal cavity, and there was some fear in inhaling deeply. I couldn’t talk much, as speaking required deeper breaths. Covering my mouth with a towel mitigated it a bit, so I kept a towel over my mouth once I figured it out.
+The sauna room had a bit of a fear factor. The door handle felt like it would burn at a touch, and the hot air enveloped my body in heat. Breathing there was a bit scary; inhaling air stung my nostrils slightly. And that air was somewhat difficult to catch a big breath of. Talking meant inhaling extra, so I couldn’t speak much. It got a bit better once I tried placing a towel over my mouth, so I began doing that regularly.
 
-Initially, I intended to stay for 6 minutes, but feeling surprisingly okay, I added another minute to make it 7 minutes. Then, I exited the sauna room and rinsed off the sweat with the bucket shower.
+Though I meant to stay for only 6 minutes the first time, I found it more endurable than expected, so I stayed an extra minute for a total of 7 minutes. Afterward, I exited the sauna room and rinsed off my sweat under a shower.
 
-The biggest challenge followed: immersing in cold water immediately after. It’s tough to soak in cold water even without the sauna, and doing so right after heightens the difficulty due to the extreme temperature difference. My friend plunged in up to their neck swiftly, but the coldness forced me to enter gradually. Distracted by the cold water, I accidentally submerged my hand as well.
+Here's where the hardest part comes: dipping into cold water immediately after the sauna. Even without being in a sauna, immersing in cold water is tough; the intense temperature difference made it rather dreadful. My friend plunged right in up to his neck, but the water's extreme cold forced me to enter bit by bit. Distracted by the cold, I accidentally submerged my hand, which wasn’t supposed to happen.
 
-I managed to dip up to the chest but found it too cold to reach the neck. To be precise, it felt like I could do it with immense perseverance, but the physical strain made it hard to breathe, inciting fear of a heart attack, so I refrained from going neck-deep the first time.
+Somehow, I managed to submerge up to beneath my chest, but going up to my neck seemed too cold to handle. Technically, it felt possible with sufficient willpower, but concern about intense strain and erratic breathing convinced me that fully submerging might lead to a heart attack, so in the first round, I couldn’t go neck deep.
 
-Once out of the cold bath, I moved to the outdoor area, lay down on a chair looking at the sky, and zoned out. It felt like my consciousness was drifting away. Already feeling sleep-deprived, I almost dozed off, registering a sense of fatigue. Knowing I couldn’t sleep, I kept my eyes open due to slight fear during that duration.
+Once out of the bath, I moved to the outdoor hot spring and lay idly on a chair, gazing at the sky. I felt like my consciousness was drifting. I was a bit sleep-deprived, and it felt like I might doze off right there. It might have been an overwhelming sense of fatigue. Naturally, however, it wouldn't be appropriate to just sleep there and a sense of fear prevented me from closing my eyes completely.
 
-Thus ended the first session.
+That concluded my first round.
 
-#### Second Session
-With the plan to repeat the process 2 to 3 times, I re-entered the sauna room. Understanding the drill from the first session, my friend suggested staying longer this time, so I spent about 8 minutes inside the second time. Again, I sweated on the lowest level at 80 degrees.
+#### Second Round
+The routine was to repeat 2 to 3 times, so we headed once more to the sauna room. Having roughly grasped the experience from the first round, my friend suggested we try staying a bit longer this time. So, the second round was about 8 minutes. Again, I stayed on the lowest 80-degree tier to sweat.
 
-Despite still feeling apprehensive about deep breathing, the temperature became more bearable. While my friend on the top level seemed to struggle with the 8 minutes, I found the heat tolerable. It seems I might endure heat better than expected. However, longer isn’t necessarily better, so we ended it at 8 minutes.
+Breathing deeply still intimidated me, but I found myself somewhat accustomed to the heat. With my friend on the top tier, 8 minutes seemed quite tough for him, but personally, it wasn’t too unbearable. Perhaps I have a higher tolerance for heat than expected. Even so, it's not that staying longer is necessarily better, so we wrapped up at 8 minutes.
 
-Following the same process, I immersed myself in cold water. Earlier, I mistakenly dunked my hand, so I was more careful this time to avoid that. My body was still resistant to plunging neck-deep due to fear but felt a little more ready for it in the second attempt. Nevertheless, breathing difficulties and fear stopped me midway in my attempt to go deeper.
+Once again, we took a cold plunge. Being more mindful not to submerge my hands, I entered cautiously this time. My body was still rejecting the idea of a quick full immersion up to the neck, but compared to round one, I braved more courageously and submerged myself adequately this time. Yet attempting to submerge beyond the chest felt suffocatingly scary, so I exited halfway.
 
-Then, I went back to the outdoor area, sat on a chair instead of lying down, and let the breeze wash over for some time. Later, I returned indoors to the initial 37.5-degree hot spring and relaxed away.
+Afterward, I headed back to the outdoor bath area, but this time just sat upright in a chair under the breeze for a while. Then I relaxed in the bathhouse's indoor hot spring maintained at about 37.5 degrees to rest my body. Given this was my first time, 2 rounds were probably enough, but I felt somewhat unsettled internally. What particularly bothered me was uncertainty regarding whether this really constituted "alignment."
 
-Given it was my first experience, my friend mentioned doing just 2 sessions would be sufficient. I felt somewhat unfulfilled, uncertain about whether I did achieve the "tuning" state properly. My friend mentioned that during the resting phase, the overwhelming fatigue where you just blank out felt synonymous with "tuning," and while I experienced something similar, it didn’t quite feel pleasant. Rather than enjoyable, it felt more like a sense of relief from arduous work, not making me eager to relive it simply for that sensation.
+According to my friend, when you exit the cold plunge and sit down, a wave of exhaustion overwhelms you, leaving you dazed and thoughtless—and that sensation is "alignment." While that sounded agreeable, I hadn't felt anything especially pleasant about it. If anything, I felt a sense of relief at completing an annoying task; it didn’t seem worth going to a sauna to experience this. In other words, it felt lacking in pleasure.
 
-I didn’t want those praising sauna experiences to say, "You didn’t follow the procedure right," hence wanted to perform another round obeying my friend's guidance perfectly. Despite not feeling the pleasantness, enduring it just felt like a bothersome task, making me consider giving up at this point. However, realizing this might be the last chance, my reluctance faded, convincing me to propose undertaking a third trial.
+But I didn't want to have someone say "you're not following the rules" or "not giving it enough time," so I proposed doing one more round correctly, as instructed, giving it my all despite discomfort. It would likely be my last opportunity, as the experience wasn't compelling enough to ever consider returning voluntarily. 
 
-#### Third Session
-I resolved to endure and execute the third session correctly. With sauna acclimation rendering it less grueling, I accepted my friend’s suggestion to move up one tier. It’s probably around 82.5 degrees this time, with my friend advancing to about 85 degrees.
+#### Third Round
+Determined to follow through properly on the third round, I aimed for persistence. The main sauna itself wasn't unbearable once accustomed, so with some encouragement, I dared to try a tier higher, probably around 82.5 degrees. My friend attempted an even higher 85 degrees.
 
-Starting anew with slightly increased difficulty, we opted for 6 minutes, testing waters, potentially extending if tolerable. The marginal distinction between the lowest and this tier didn’t hinder completion of 6 minutes, adding a minute, making it a total of 7 minutes.
+With the one-tier increase, we agreed to 6 minutes initially and then add a minute if tolerable, entering. Frankly, there wasn't a notable difference between bottom and this tier, so after easily overcoming the initial 6 minutes, we added one more for a total of 7 minutes.
 
-Then, confronting the most challenging cold-water immersion for the third time. I thought survival probable, thus shedding my previously crippling fear, braving a neck-deep plunge this time. Successfully keeping my hands out of the water, I managed to endure. Achieving my friend’s explained procedure unerringly, I reveled in this newfound confidence, closing in on something previously unattainable in rounds 1 and 2.
+Then we faced the hardest step again: the cold plunge. Considering it unlikely to be fatal, I managed to suppress fear and immerse myself fully, holding hands above water for some time. Successfully abiding by my friend's complete advice brought confidence and a sense of accomplishment previously unattained.
 
-The accuracy of the 40 seconds measure was iffy, based on haphazard estimate rather than clockwork precision. But feeling the all-clear to exit felt perpetual, prompting verification from my friend, marking completion. The third session saw me surpass expected endurance, somewhat claiming superior perseverance in this inaugural trial.
+Though the 40 seconds weren't precisely counted, they were more intuitive. When I mentioned exiting, it seemingly fell short, and upon checking with my friend, exiting was soon declared sufficient. I felt a slight sense of superiority and endurance over my friend, who often moved faster, deeming the 3rd trial more tolerable than anticipated.
 
-Upon cold water exit, meticulous removal of water droplets emerged crucial, having skimmed over it lazily in initials rounds, diligently achieved in the third. Rather than outside later, I rested indoors on a chair, indulging in solitude. Posing open-ended dialogue received silence in return; a check led to finding my friend lost in "tuning" with eyes closed, compelling companionship. 
+Once more, we ensured body water was thoroughly wiped. Lacking significance in prior rounds, I paid it attention on the 3rd, finally resting indoors. My friend, seemingly entranced in “alignment,” closed his eyes, so I mirrored this action, closing mine to delve deeper into the experience.
 
-Ultimately, deciphering “tuning” eluded me. Similar feelings to the shared experience were palpable, yet whether it stood as euphoric remained questionable, presenting itself more as fatigue. Physical strain from temperature shifts and mental exhaustion from completing tedious tasks seemed more prominent.
+In the end, "alignment" eluded my comprehension entirely. Listening was followed, and some similar sensation arrived but not one described by pleasure, more tinged with fatigue—both from fluctuating body temps and burdensome routine completion.
 
-Encouraging remarks reaffirmed adherence accuracy, signaling no erroneous practices or inadequate duration. My friend’s credibility assured correctness, yet unable to relish sauna, it fell as a point of “so that’s what this is.” Enriching experience, yet probable dismissal of future sauna endeavors prevails. Discomfort aside, initial deterrence of communal nudity resurfaced. Not just exposure, but unappealing accompanying characters magnified dissatisfaction. If Sento premium failed to appease, majority-driven onsens exacerbate it undeniably.
+My friend validated my adherence to rules and times, meaning the discrepancy wasn’t simple error—it came from someone directly present, hence trustable. Unfortunately, no particular appeal emerged, leaving me resigned to "so that's what it's about." Yet gained experiences soothed that disappointment.
 
-Similar musings from Hiroyuki solidify the peculiar societal leniency towards public undress on beaches/onsens clashing with conventional modesty. Almost deemed normalized insanity. Despite environmental shifts towards acceptable nudity, inherent apprehension resists eradication. Should provocatively open-minded beauties errupt the scene, potential ocular victories could outweigh shame, yet those occurrences scarce. Otherwise, electromagnetic interest remains lukewarm.
+Finally, retreating to the outdoor bath let my body unwind. Higher than indoor baths, its temperature hovered around 40 degrees. Strong winds churned intensely. Unintentionally gulping minute hot spring droplets shocked with saltiness, thinking of others bathing, it incited an unclean feeling.
 
-Talking about traveling jointly surfaced at one point; if new regional hot springs feature on-location, participation aligns with exploration. Otherwise, sans incentivizing chiaroscuro, alternate intentions dissipate anticipation akin to the current ordeal.
+### Chatting Break
+Post-bath, immersed in recliner-like seating and facing the sunset, we casually chatted. Recliners, unlike assumed massage chairs, were merely cushioned ones.
 
-Not all debut ventures align with expectations sometimes; oft predictably tedious. A life’s reality! That's the way the cookie crumbles.
+![](https://noraworld.github.io/box-ivysaur/2025/07/07/57b3296eef7dd6d6fd009255e3133a65.jpg)
 
-Additionally, filling this post a week past the actual occurrence proved challenging due to dissipated enthusiasm, making completion laborious. Freshness is key to content expulsion—truly, strike while the iron is hot.
+Recently, my friend became interested in someone, so I listened to their story. Likewise, I shared about meeting a woman from a dating app: going for lunch, capsule toys, and helping pick clothes. My friend got curious, presuming a new girlfriend, but I clarified seeing her more as a compatible friend.
+
+While somewhat interested, they hadn't grown close enough for a relationship, my friend explained. Interest lingered daily with brief LINE messages exchanged, which progress I envied, jokingly declaring perceived ‘victory’ was premature and disputing it.
+
+Thought of texting arouses distress over correct wording; conversation calls often baffle and prompt nonsensical chatter, they confided. Empathizing, I advised relaxed interactions akin to chatting with friends, avoiding self-sabotage by anxiety crippling aptitudes.
+
+To advise what one struggles to action felt inherently hypocritical—all the same, relayed nonetheless.
+
+Adjacent to our resting space, a zone allowed for stone saunas. The hot spring appears abundantly equipped. Nevertheless, the English signage seemed defective.
+
+![](https://noraworld.github.io/box-ivysaur/2025/07/07/e6bb79a93f4f3d211c380d1bd8fbd22b.jpg)
+
+### Dinner
+Preoccupied with conversations on recliners, until night fell unawares. Typically, we dine together during late meet-ups, but facilities potentially closing prompted an early search outside Izumi Tenku no Yu. Mentioned earlier, a somewhat costly fee was 4,800 yen.
+
+Some stores shut amidst the night; however, others remained open. Generally airport-hiked priced, yet among them, a fish-centric eatery proposed reasonably priced offerings. Opting for dinner there allowed taste on affordability uncommon to our location.
+
+Ordering their preferred Saba Set Meal, while I opted for Salmon Harasu.
+
+![](https://noraworld.github.io/box-ivysaur/2025/07/07/ff4f2b176806d8f09490820a6c773d92.jpg)
+
+Deeming my friend’s mackerel tastier, an exchange transposed regret upon former choice, as I wished swapped sides. While bones made it difficult, compounded by unfavorable brown rice to preferred white—displeasing as I discovered anew.
+
+Departing after dinner redirected us back towards Shinagawa Station.
+
+![](https://noraworld.github.io/box-ivysaur/2025/07/07/e1fc096c5c834d0160a7420ac05a2b62.jpg)
+
+### Cafe
+At approximately 22:00, a continued chat felt needed around Shinagawa Station. Though slight rain persisted, a 23:00 open PRONTO was found and entered. In bemusement, PRONTO presented elaborate dishes contrary to casual cafe expectations, reflected in reservation before closing-hour nearby ingress.
+
+Upon ordering drinks, topics veered towards relationships. Normally involved in technical debates, cryptocurrencies, or stocks—this day revolved around "love talks." Neither friend nor I engaged seriously till now, but an increased yearn for companionship intensified reflective earnestness.
+
+My friend previously experienced relationships, whereas I languished yet explosion manifested through our age. Urgency nor impatience felt ensuring all seriousness emphasized seeking heartfelt commitment.
+
+Lingering in relaxed ambiance, until inevitable closing prompted exit. Stationary strolls surrounding Shinagawa Station entertained us until dissolution warranted through echoed pondering, "what do we wander aimlessly for?"
+
+While a walk home from Shinagawa was feasible, headspace reintegration needed after spending the entire day with others—in ordinary retrospect, such intervals of contemplation occurred, yet the onslaught of rain displaced leisurely return and justified train usage.
+
+### Reflections
+Bare exposure has been a long-standing dilemma since childhood. Occasionally accompanied by forced attires into hot springs during trips with parents, independently visiting hot springs never arose as an adult—those invites remained nonexistent. Last memory recalls past events perhaps over 20 years prior.
+
+Multiple sauna invitations arose through my friend, continually boasting sauna excellences; each gesture delicately countered through aversion to bare-bodied exhibitions, sparking repeated resignations. Though mildly disappointed, perseverance persisted upon frequent attempts urging attendance. Initially upon recent invite, reluctance emerged once more—were rejection repeated indefinitely, reassessing justified opportunity losses accompanied consecutive uncertainty.
+
+Invitation acceptance ushered through latent prospects lest perpetual sauna inexperience would prevail. Enticement loss marked potentially significant experience. Abrupt enthusiasm failed to arise, yet trial merited undertaking.
+
+Inevitably, sauna allure lay unnoticed, yet subsequent insight enlightenment rooted worthwhile endeavor recognition. While grounded expectations elucidated unfulfilled conclusions, knowledge acquisition evidenced modest worth, clarifying minor enlightenment dividend. Potential successive invites hold unlikely prospects; either personal disinclination or widespread bare exhibition discomfort endured unchanged. Acknowledging such fragmentary resolve, fees garnered male congregations compounded distaste—despite Haneda spot hailed high-end, widespread public assumptions anticipated augmenting unpleasantness.
+
+Hiroyuki’s remark delineated conventional spatial bare-nature deliberations inherently improper abjured legitimate: fundamentally, tis abnormal—agreeably, society skews abnormally. Resort affinity fails overriding embarrassment notions; irrespective of locale or present congregants, unabashedness remains unchanged. Lest indulgent suitors emerge serendipitously at bestowal; anticipation denotes rare encounters not warranting enthusiastic embracement.
+
+Hypothetically, speculative future travel engaged deliberative saunas—permitting context-driven uniqueness possible intrigue escalation. Conversely, lacking genuine voluntary commitment recurring participation sparks minimal interest fulfillment.
+
+Preliminary undertakings occasionally disappoint align represented expectations, mirrored intentions shattered predictably. Today, a case in point, substantiated disappointments traced decisive events. Life embraces transient fleeting moments anchored in unpredictability. That's the way the cookie crumbles.
+
+Notably, due to time lapse post-experience, finely etched memories hazed, enthusiasm waned, impeding comprehensive article completion—aptly emphasizing immediacy priority. Deliverance stems from time of incandescence.
