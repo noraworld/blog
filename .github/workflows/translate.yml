@@ -82,7 +82,7 @@ jobs:
         uses: noraworld/chatgpt-feedback@main
         with:
           model: gpt-4o
-          system_prompt: >
+          system_prompt: |-
             これは日本語で書かれたブログ記事です。この記事の英語バージョンを作成してください。
 
             翻訳のルールに関しては次のルールに従ってください。
