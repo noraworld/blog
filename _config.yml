@@ -33,6 +33,10 @@ github:
 twitter:
   username: _noraworld # change to your Twitter username
 
+# Original
+instagram:
+  username: noraworld_com
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -42,6 +46,8 @@ social:
     # The first element serves as the copyright owner's link
     - https://github.com/noraworld # change to your GitHub homepage
     - https://twitter.com/_noraworld # change to your Twitter homepage
+    # Original
+    - https://www.instagram.com/noraworld_com/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
