@@ -6,11 +6,11 @@ on:
       - main
     paths:
       # Do not include '_posts' because it's triggered by translate.yml
-      - '_data'
-      - '_includes'
-      - '_layouts'
-      - '_plugins'
-      - '_tabs'
+      - '_data/**'
+      - '_includes/**'
+      - '_layouts/**'
+      - '_plugins/**'
+      - '_tabs/**'
       - '_config.yml'
       - 'index.html'
   workflow_call:
