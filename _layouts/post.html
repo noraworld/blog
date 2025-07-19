@@ -138,6 +138,20 @@ script_includes:
     {{ content }}
   </div>
 
+  {% comment %}
+    Reader encouragement message
+    https://chatgpt.com/share/687b1d41-e050-8004-b3fc-aa35e40a378a
+  {% endcomment %}
+  {% if site.active_lang == 'ja' %}
+    <blockquote class="prompt-info" style="margin-top: 2em;">
+      <p>もしよければページ下からこの記事のリアクションをつけてもらえるとありがたいです。このブログは収益化をしていないため、みなさんのリアクションが更新継続の励みになります。</p>
+    </blockquote>
+  {% elsif site.active_lang == 'en' %}
+    <blockquote class="prompt-info" style="margin-top: 2em;">
+      <p>If you enjoyed this post, I’d really appreciate it if you could leave a reaction below. This blog isn’t monetized, so your feedback is a big encouragement to keep it going.</p>
+    </blockquote>
+  {% endif %}
+
   <div class="post-tail-wrapper text-muted">
     <!-- categories -->
     {% if page.categories.size > 0 %}
