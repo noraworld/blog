@@ -1,68 +1,68 @@
 ---
 layout: post
-title: "Dreams of Living Abroad Faded: Nostalgia for Enjoyable English Conversations"
+title: "The Dream of Living Abroad Fades: A Nostalgic Look Back at Enjoying English Conversations"
 author: [
   "noraworld"
 ]
-description: "Honestly, even before going abroad, I didn't have a concrete vision of living overseas. Once the goal of living abroad vanished, I couldn't keep up with the online English lessons I did almost every day, leaving me with a sense of exhaustion and the sadness that I might not be able to chat with familiar teachers anymore."
+description: "To be honest, I never had a clear vision of living abroad. As a result, my online English conversations, which I used to do almost daily, started to wane. I felt a mix of exhaustion and sadness at the thought that I might no longer be able to talk with the teachers I was familiar with."
 date: 2025-09-03 12:24:00 +09:00
 tags: []
 published: true
 ---
 
 ### English Conversation Lessons
-Today, I finally adjusted my messed-up sleep schedule[^circadian_rhythm] and felt like trying an English conversation lesson after a long break.
+Today, I finally fixed my reversed sleep schedule[^circadian_rhythm] and felt like trying an English conversation lesson again for the first time in a while.
 
-[^circadian_rhythm]: Saying it's adjusted might be misleading. My circadian rhythm doesn't seem to align with 24 hours, and I'm often careless, so my routine can get out of whack regularly. It's likely I'll find myself up at odd hours again soon, but for now, it means I managed to wake up in the morning today.
+[^circadian_rhythm]: Saying it was "fixed" is misleading. I seem to have a circadian rhythm that can't adjust to the 24-hour day, and since I'm sloppy, my sleep cycle regularly gets messed up. So after some time, I'll probably reverse my sleep cycle again, but for now, I'm waking up in the morning.
 
-However, when I tried to book a lesson, none of my three favorite teachers had availability. It wasn't about having to book far in advance; they were entirely unavailable.
+However, when I tried to book a lesson, all three of my favorite teachers had no availability. It wasn't a case of them being booked up in advance; they simply had no open slots.
 
-These three teachers were especially easy and fun to talk to, and I had become a regular with them. Until last year, I was doing lessons almost daily unless there was a specific reason not to, and even when I lacked motivation and took breaks, it wasn't for very long.
+These three teachers were particularly easy and fun to talk to, and I had become a regular. Up until last year, I attended lessons almost every day unless there was a specific reason not to, and even if I skipped for a period, it wasn't for too long.
 
-This year, though, I started slacking off more. Until around February, I was keeping up, but as March came, I gradually lost my momentum, and now I hardly do lessons at all.
+But starting this year, I became quite lazy. Until around February, I was still keeping it up regularly, but by March, I started losing the consistency, and now I barely do it at all.
 
-The reason is quite clear to me. Losing the goal of living abroad and the psychological burden of scheduling were main factors. Moreover, I can no longer book my favorite teachers.
+The reason is quite clear to me. I've lost the goal of living abroad and found scheduling burdensome. On top of that, I can no longer book my favorite teachers.
 
 ### Life in Australia
-From the end of July to the end of October last year, I was living in Australia for three months on a working holiday visa. The initial plan was to find a job there and work while experiencing what it's like to live abroad firsthand, as a way to broaden my future options.
+From the end of July to the end of October last year, I lived in Australia for three months. I went there on a working holiday visa. The plan was to find a job locally, experience what it was like to live abroad, and use that as a stepping stone to broaden future options.
 
-But reality was tough. Many people were flocking to Australia after COVID-19, and I couldn't find any work. I mainly tried applying online for engineering or office jobs, but even after sending applications to around 100 companies, I couldn't even get interviews, let alone a job. The abundance of job seekers and the restrictions of the working holiday visa, which only allows working with the same employer for up to six months, were significant obstacles.
+But reality turned out to be difficult. As COVID-19 restrictions lifted, many people flocked to Australia, and I couldn't find a job at all. I aimed to do engineering or clerical work and applied online, but after about 100 applications, I couldn't even land an interview, let alone get hired. This was partly due to an oversupply of workers, but also because with a working holiday visa, you can only work for the same employer for a maximum of six months, which doesn't fit well with positions like engineering that involve mid-to-long-term projects.
 
-I've never worked a typical part-time job like the ones in cafés or convenience stores. I tutored and did some engineering work in college, but I've never done customer service. The thought of doing customer service, in English, in an unfamiliar place, seemed daunting. Additionally, interacting with people is something I struggle with, so I didn't want to do it and didn't consider it an option from the start. Finding such jobs typically involves on-the-ground resume distribution, a proactive sales-like approach I have no experience with and think requires a strong mentality I don't possess. I felt it would be beneficial in breaking out of my shell and could improve language skills, but I just couldn't muster the courage.
+I've never experienced the typical part-time jobs people usually do. During college, I worked as a tutor and did engineering work, but never in customer service jobs like at a café or convenience store. Having no experience in Japan, and doing customer service in English in a foreign land was even more challenging. Plus, I'm not fond of talking to people in general and didn't really want to do those jobs, so I didn't consider them from the start. Moreover, finding such jobs typically involves distributing your resume locally, which feels like the kind of sales job pitches that require strong mental skills—something I lack. While service-oriented jobs are better for language acquisition and breaking out of one's shell, I just couldn't muster the courage.
 
-In the end, I couldn't find work, and before going abroad, I wasn't working in Japan either. I was essentially a NEET, using the excuse of studying English. I really was doing lessons almost daily. But my savings were running low, and I had to find a way to earn income while there. Ultimately, I got introduced to a fully remote freelance gig I could do from abroad, which became my first freelance experience.
+In the end, I couldn’t find a job. Before going, I was also unemployed for a while in Japan. Honestly, I was just a NEET, but to save face, I said I was studying English. I actually did lessons almost daily. So my savings were running out, and I needed to earn money while I was there. I ended up finding a completely remote freelance contract job through a referral, which I worked on from abroad. This was actually my first freelance gig.
 
-Even though my goal was to learn how to make a living abroad, I ended up just living there while working remotely without really interacting with locals. It made me question why I went through the process of getting a visa and preparing for this. Honestly, I didn't even enjoy living abroad as much as I'd imagined. I intended to write a post about what made it so hard, but I've procrastinated it. In short, living in Sydney was tough because the rent was incredibly high and I had to share a house, which I had also never done before.
+The original purpose of going abroad was to find a way to live there, but it just ended up with me residing overseas without needing to interact with locals. I wondered why I went through the trouble of getting a visa and preparing to go there. And despite all that, if living overseas was enjoyable, it would be fine, but it was honestly very tough. I planned to write an article about what exactly was tough, but never got around to it because it felt like a hassle. However, in short, I lived in Sydney, where rent is extremely high, making living alone difficult, so I had to stay in a share house, which I had never experienced before. It was my first time living abroad and experiencing a share house, so I faced various challenges.
 
-I don't cook, but ready-made meals weren't as available as in Japan, so eating was rough. The frozen foods were unpleasant, and the rice tasted terrible. Prices for groceries were high, especially when compared to Japan, even considering yen depreciation. A simple sandwich cost around A$8. I realized cereal was cost-effective and resorted to eating it most of the time.
+I don't cook, and unlike Japan, there wasn't a lot of ready-made food available, so I struggled with meals too. There were frozen meals available, but they tasted bad, especially the rice, which was surprisingly terrible. Food prices are high in Australia; a simple (and not very tasty) sandwich cost about A$8. Around halfway through, I realized cereal had good cost performance, so I mostly ate cereal.
 
-Financially, it was hard because I was earning in yen while living with Australia's higher cost of living, and my savings were dwindling. I only received payment from the freelance work two months after starting, after I'd already returned to Japan, underlining that my financial preparation was insufficient.
+Since I earned in Japanese yen while living with Australian expenses and my savings were dwindling, it was financially tough. While this was largely due to insufficient savings since the payment came two months after starting work, by which time I was back in Japan, the high cost of living was partially due to poor preparation.
 
-Thus, my first experience living abroad didn't meet my expectations. I even started questioning whether I truly wanted to live abroad at all. My desire was more about having an escape plan from Japan's disaster risks or economic uncertainty rather than an actual glamorous living experience abroad. Realizing I didn't have a strong passion for living overseas led me to abandon that dream, or goal.
+Overall, my first experience living abroad was far from what I had imagined, and I became disillusioned. In hindsight, I began doubting if I really wanted to live abroad. My desire stemmed not from wanting a glamorous life abroad or engaging with locals but from concerns about Japan's disaster risk (earthquakes and tsunamis) and economic future. I wanted the option to live abroad as a fallback plan to gain peace of mind that I could flee overseas if needed. This defensive stance revealed that my enthusiasm for overseas living wasn't genuine.
 
-After returning at the end of October last year, I kept up a somewhat regular lesson routine until around February, but from March on, I lost the drive. Without the desire to live abroad, I questioned my reasons for continuing English lessons, and my participation diminished.
+Thus, I lost my dream or goal of living abroad. I returned at the end of October last year, and kept up lessons routinely until February, but by March, I started questioning why I was still taking English lessons if I didn’t want to live abroad, leading to irregular attendance.
 
-### The Psychological Strain of Laziness
-Another reason was the psychological stress of having to adjust my life to a scheduled time. I’m currently job-hunting, so essentially, I can sleep and wake at any time. Work meetings have a justifiable force making me align my schedule, but online English lessons, being self-motivated, didn’t resonate with me in timing my activities.
+### Psychological Burden Due to Laziness
+Another reason is the psychological burden of having to align my lifestyle with scheduled lessons. Currently, I'm job searching and not working, so I can technically sleep and wake whenever I want. If it's for mandatory work meetings, it's one thing because it’s for money (life), but aligning my life with a hobby like online English lessons doesn’t quite suit me.
 
-It's hard for me to maintain disciplined routines, and I tend to stay up watching movies or videos until I naturally tire out. Similarly, hobby coding can suddenly demand my focus when new ideas pop up. I’ve had instances where I had to pause these to attend a lesson, which was inconvenient.
+I've always struggled with maintaining disciplined action and lifestyle; if an interesting movie or video catches my eye, I continue watching until I can't stay awake any longer, even past bedtime. Also, with coding as a hobby, sometimes ideas spontaneously arise and I feel like implementing them immediately. More than once, I have had to interrupt my hobby coding sessions for lessons.
 
-Recently, my sleep being inconsistent due to shifting times—sometimes just going to sleep or barely staying awake for a lesson—added more stress and made me reluctant to schedule lessons. Simply put, I'm messy. I dislike breaking pre-planned commitments, but when the moment comes, I prefer doing something else or even sleeping, creating psychological strain.
+Also, with my cycle recently reversed, keeping awake for a lesson despite being tired created significant psychological stress, contributing to me refraining from booking lessons. Simply put, it’s due to my sloppiness. I'm sloppy, so even if I set a fixed time, I might want to do something else or sleep, and even though I don't want to break a planned schedule, attending lessons felt burdensome.
 
-### The Purpose of Continuing
-Still, I previously had the purpose of improving English for going abroad, and I genuinely enjoyed speaking with my familiar teachers. I've always been bad at social relationships, limiting my interactions. Before going abroad, I wasn't interacting with people while not working, so the lessons were my sole means of communication.
+### The Value of Continuing
+Despite these challenges, having a goal of acquiring English proficiency for overseas living was motivating, and talking to familiar teachers was purely enjoyable. I naturally avoid human interactions and rarely socialize with people. Before going abroad, I wasn't working, meaning social interactions were almost non-existent, making lesson conversations with my teachers my only human contact.
 
-Though I remain jobless now, after returning, I've been meeting friends in person more often. Also, my previous workplace had a nice atmosphere, allowing for social interactions at the office and occasional outings. With plans to start working again after my job search, some level of socializing will naturally return.
+Currently, although still unemployed, I have had more opportunities to meet and chat with friends. My previous job had a good team atmosphere, so I interacted with colleagues and attended drinking parties. As I continue job hunting and return to work, I'll have at least basic social interactions.
 
-Given this shift, I wonder how beneficial the English lessons really are for me. Speaking with favorite teachers is fun, and I learn English—it’s enlightening to understand different cultures and lifestyles.
+With this change, I’m questioning the merits of continuing English lessons. As mentioned, chatting with favorite teachers is fun, it aids English learning, exposes me to different cultures, lifestyles, and perspectives, which is stimulating and informative.
 
-However, the goal of living abroad diminished, reducing the need to learn English, and the lesson fees are high. I pay annually during the Black Friday offers, which lessen the burden, but it still costs over 200,000 yen. With the yen’s depreciation and uncertain discounts, costs could rise. 
+However, without a goal for living abroad, the relative benefits of speaking English are lessened, and the lessons are expensive. I usually don't consider this since I pay an annual fee during Black Friday sales, but it costs over 200,000 yen even with a 50% discount. With the weak yen, the next payment might be even higher, and the discount isn't guaranteed to last forever.
 
-Knowing English remains a beneficial skill[^phone_call], and talking with teachers is enjoyable, so I considered restarting lessons. But, with my favorite teachers unavailable, my motivation isn’t what it was—if I can’t converse with them, I might not restart at all.
+Still, gaining English skills could certainly benefit future endeavors[^phone_call], and chats with teachers are simply enjoyable, so I thought about resuming lessons. But finding out my favorite teachers were unavailable led me to wonder if I should not bother.
 
-[^phone_call]: Right here, I got a call about overdue tax payments.
+[^phone_call]: At this moment, I got a call about overdue tax payments.
 
-As mentioned, the English lessons are paid annually and auto-renew during Black Friday. The next payment will be in about three months. If I don't restart lessons, there's no justification for the hefty fees. I can’t afford it amidst financial issues, so I might cancel, losing communication with those favorite teachers, a saddening thought.
+My English lessons are on an annual auto-renewal plan, paid during the Black Friday sales, and the next billing is due in about three months. Without resuming lessons, considering the hefty cost and financial challenges I face now, I may have to cancel. If that happens, I won't be able to talk with the teachers I've grown fond of, which saddens me.
 
-### Another Issue
-Speaking of which, as I wrote this, I got a phone call. It was from the tax office, about overdue payments for this year's resident tax. I have much to say on this topic, but it would veer off the main subject and lengthen this post, so I’ll cover it separately if I feel inclined.
+### A Different Matter
+Changing topics, I received a call while writing this article. It was from the tax office regarding my overdue resident tax payments for this fiscal year. I have a lot to say about this, but explaining it would deviate from the main topic and be lengthy, so I might write about it in a separate article if I feel like it.
