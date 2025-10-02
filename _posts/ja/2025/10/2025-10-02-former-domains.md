@@ -21,31 +21,33 @@ published: true
 ### ドメイン一覧
 ⚠️ 本記事で記載したドメインは（`noraworld.com` を除き）すでに筆者の手元にはないので、悪意ある第三者が取得し悪用している可能性がある。そのためリスクを理解せず不用意にアクセスしないよう注意されたし。
 
-| ドメイン           | 登録日        | 失効日      | 削除日      | レジストラ                                                                          |
-| ----------------- | :----------: | :--------: | :--------: | --------------------------------------------------------------------------------- |
-| `noraworld.com`   | n/a          | n/a        | n/a        | [GoDaddy](https://account.godaddy.com/subscriptions)                              |
-| `noraworld.jp`    | n/a          | 2023/03/31 | n/a        | [ムームードメイン](https://muumuu-domain.com/?mode=conpane&state=domain_list_all)    |
-| `noraworld.blog`  | 2016/11/23   | 2022/11/23 | 2022/11/23 | [ゴンベエドメイン](https://ias.il24.net/domains/dm_top.cgi)                          |
-| `noraworld.net`   | n/a          | 2022/07/31 | n/a        | [Google Domains](https://domains.google.com/registrar/) [^google_domains]         |
-| `noraworld.io`    | n/a          | 2022/12/23 | n/a        | [GoDaddy](https://account.godaddy.com/subscriptions)                              |
-| `noraworld.me`    |              |            |            |                                                                                   |
-| `noraworld.dev`   | n/a          | 2023/03/01 | n/a        | [Google Domains](https://domains.google.com/registrar/) [^google_domains]         |
-| `noraworld.media` | n/a          | n/a        | n/a        | [Google Domains](https://domains.google.com/registrar/) [^google_domains]         |
-| `nora.to`         | 2018/06/05   | 2022/05/10 | 2022/06/04 | [ゴンベエドメイン](https://ias.il24.net/domains/dm_top.cgi)                          |
-| `nora.dev`        | n/a          | 2022/03/01 | 2022/03/30 | [Google Domains](https://domains.google.com/registrar/) [^google_domains]         |
-| `nora.world`      | 2016/12/04   | 2022/12/03 | 2022/12/03 | [ゴンベエドメイン](https://ias.il24.net/domains/dm_top.cgi)                          |
-| `kosu.ke`         | n/a          | ????/??/?? | ????/??/?? | [EAC directory](https://domains.eacdirectory.co.ke/clientarea.php?action=domains) |
-| `cyberch.net`     |              |            |            |                                                                                   |
-| `cybernet.social` |              |            |            |                                                                                   |
-| `blankpag.es`     |              |            |            |                                                                                   |
-| `ffchecker.com`   | n/a          | 2023/04/07 | n/a        | [ムームードメイン](https://muumuu-domain.com/?mode=conpane&state=domain_list_all)    |
-| `deshikai.com`    | n/a          | 2021/08/23 | 2021/09/22 | [Google Domains](https://domains.google.com/registrar/) [^google_domains]         |
+| ドメイン           | 登録日       | 失効日      | 削除日      | レジストラ                                                                          |
+| ----------------- | :--------: | :---------: | :--------: | --------------------------------------------------------------------------------- |
+| `noraworld.com`   | 不明        | 不明        | 不明       | [GoDaddy](https://account.godaddy.com/subscriptions)                              |
+| `noraworld.jp`    | 不明        | 2023/03/31 | 不明       | [ムームードメイン](https://muumuu-domain.com/?mode=conpane&state=domain_list_all)     |
+| `noraworld.blog`  | 2016/11/23 | 2022/11/23 | 2022/11/23 | [ゴンベエドメイン](https://ias.il24.net/domains/dm_top.cgi)                           |
+| `noraworld.net`   | 不明        | 2022/07/31 | 不明       | [Google Domains](https://domains.google.com/registrar/) [^google_domains]          |
+| `noraworld.io`    | 不明        | 2022/12/23 | 不明       | [GoDaddy](https://account.godaddy.com/subscriptions)                               |
+| `noraworld.me`    | 不明        | 不明        | 不明       | 不明                                                                               |
+| `noraworld.dev`   | 不明        | 2023/03/01 | 不明       | [Google Domains](https://domains.google.com/registrar/) [^google_domains]         |
+| `noraworld.media` | 不明        | 不明        | 不明       | [Google Domains](https://domains.google.com/registrar/) [^google_domains]         |
+| `nora.to`         | 2018/06/05 | 2022/05/10 | 2022/06/04 | [ゴンベエドメイン](https://ias.il24.net/domains/dm_top.cgi)                          |
+| `nora.dev`        | 不明        | 2022/03/01 | 2022/03/30 | [Google Domains](https://domains.google.com/registrar/) [^google_domains]         |
+| `nora.world`      | 2016/12/04 | 2022/12/03 | 2022/12/03 | [ゴンベエドメイン](https://ias.il24.net/domains/dm_top.cgi)                          |
+| `kosu.ke`         | 不明        | 不明        | 不明       | [EAC directory](https://domains.eacdirectory.co.ke/clientarea.php?action=domains) |
+| `cyberch.net`     | 不明        | 不明        | 不明       | 不明                                                                               |
+| `cybernet.social` | 不明        | 不明        | 不明       | 不明                                                                               |
+| `blankpag.es`     | 不明        | 不明        | 不明       | 不明                                                                               |
+| `ffchecker.com`   | 不明        | 2023/04/07 | 不明       | [ムームードメイン](https://muumuu-domain.com/?mode=conpane&state=domain_list_all)     |
+| `deshikai.com`    | 不明        | 2021/08/23 | 2021/09/22 | [Google Domains](https://domains.google.com/registrar/) [^google_domains]         |
 
 [^google_domains]: 現在は [Squarespace](https://www.squarespace.com/) になっている。
 
 これですべてであるという保証はない。自動更新を有効にしていないなどの理由で、こうやって表にまとめる前に失効してしまい忘れ去られたドメインたちもあるかもしれない。実際、この表自体は 2022 年 3 月 26 日にメモとして作成した[^memo_deletion]が、この時点ですでにドメインの利用や新規取得から手を引いて久しく、すでに失効しているものや記録されていないものもあった。
 
 [^memo_deletion]: 自分用メモ: この記事を執筆したので [プライベートメモは削除](https://github.com/noraworld/memo/commit/c1a82a9e9c881737ef939d89b606d0c66e836e88) した。
+
+「不明」となっている部分は過去の支払い請求書など調べればわかるかもしれない。気が向いたら調べてみようと思う。
 
 
 
