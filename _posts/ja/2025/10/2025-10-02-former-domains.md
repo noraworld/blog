@@ -23,7 +23,7 @@ published: true
 
 | ドメイン           | 登録日       | 失効日      | 削除日      | レジストラ                                                                          |
 | ----------------- | :--------: | :---------: | :--------: | --------------------------------------------------------------------------------- |
-| `noraworld.com`   | 不明        | 不明        | 不明       | [GoDaddy](https://account.godaddy.com/subscriptions)                              |
+| `noraworld.com`   | 不明        |            |            | [GoDaddy](https://account.godaddy.com/subscriptions)                              |
 | `noraworld.jp`    | 不明        | 2023/03/31 | 不明       | [ムームードメイン](https://muumuu-domain.com/?mode=conpane&state=domain_list_all)     |
 | `noraworld.blog`  | 2016/11/23 | 2022/11/23 | 2022/11/23 | [ゴンベエドメイン](https://ias.il24.net/domains/dm_top.cgi)                           |
 | `noraworld.net`   | 不明        | 2022/07/31 | 不明       | [Google Domains](https://domains.google.com/registrar/) [^google_domains]          |
