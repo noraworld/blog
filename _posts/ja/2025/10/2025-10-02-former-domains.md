@@ -5,7 +5,7 @@ author: [
   "noraworld"
 ]
 description: "身辺整理の過程で手放したドメインたちを紹介する。"
-image: ""
+image: "https://noraworld.github.io/box-ivysaur/2025/10/02/27944fcced04e8baee57c430a8ffaafd.png"
 date: 2025-10-02 23:40:00 +09:00
 tags: []
 published: true
