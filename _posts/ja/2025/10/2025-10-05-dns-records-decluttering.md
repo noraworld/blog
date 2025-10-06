@@ -5,7 +5,7 @@ author: [
   "noraworld"
 ]
 description: "かつて noraworld.com で利用されていたレコードを振り返るとともに、整理した過程をまとめる。"
-image: ""
+image: "https://noraworld.github.io/box-ivysaur/2025/10/06/7d22edad40c0dfe5feb8c9c72fab7419.png"
 date: 2025-10-05 03:00:00 +09:00
 tags: []
 published: true
