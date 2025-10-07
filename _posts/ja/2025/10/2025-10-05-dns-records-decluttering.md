@@ -56,6 +56,12 @@ DNS レコードの削除はウェブサイトやメールの機能に影響を�
 
 "No." は今後の説明のために便宜上振った。実際にこのような番号が存在しているわけではないし、この順番が重要なわけでもない。
 
+<details>
+<summary>スクリーンショット</summary>
+
+<img width="2880" height="9552" alt="Image" src="https://noraworld.github.io/box-ivysaur/2025/09/16/d572782ea1ee85821a0dd755cfac5a4d.png" />
+</details>
+
 #### A レコード
 ウェブサイトを設定するための、最も基本となるレコードである。
 
@@ -167,6 +173,12 @@ TTL で設定されている時間以上待てば問題はないのだが、心�
 | `SOA` | `@`   | `ns29.domaincontrol.com.`             | 1 時間 |       |
 | `MX`  | `@`   | `smtp.google.com.`                    | 1 時間 |     1 |
 | `TXT` | `@`   | `v=spf1 include:_spf.google.com ~all` | 1 時間 |       |
+
+<details>
+<summary>スクリーンショット</summary>
+
+<img width="1073" height="772" alt="Image" src="https://noraworld.github.io/box-ivysaur/2025/10/05/11bc3973b7d42874651a974423ed4ae1.png" />
+</details>
 
 
 
