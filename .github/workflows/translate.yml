@@ -59,7 +59,13 @@ jobs:
         shell: bash
 
   task:
+    name: Create and complete each task
     needs: collect
+    # TODO: Ignore when pushed files are modified
+    #       Right now, modified files are ignored (--diff-filter=AR)
+    #       but if they are tracked in the future
+    #       they need to be ignored for this job
+    if: ${{ needs.collect.outputs.file_pairs_json != '[]' }}
     runs-on: ubuntu-latest
     strategy:
       max-parallel: 1
