@@ -58,6 +58,58 @@ jobs:
           echo "EOF" >> "$GITHUB_OUTPUT"
         shell: bash
 
+  task:
+    needs: collect
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 1
+      matrix:
+        pair: ${{ fromJson(needs.collect.outputs.file_pairs_json) }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create a todo task as completed
+        run: |
+          # Get a blog title
+          #   e.g. ポケモン新作発売日・コンビニ解禁日・ニート脱却記念日・30 歳の誕生日
+          #   cf.  https://chatgpt.com/share/68f61f6a-97b4-8004-8f6f-d59040cfaecc
+          blog_title=$(
+            cat "${{ matrix.pair.input }}" |
+            grep -E '^title: ".*"$'        |
+            sed -E 's/^title: "(.*)"$/\1/' |
+            sed 's/\\"/"/g'
+          )
+
+          # Get a blog slug
+          #   e.g. 30th-birthday
+          blog_slug=$(basename "${{ matrix.pair.input }}" .md | cut -d '-' -f 4-)
+
+          # Build a blog URL
+          #   e.g. https://noraworld.github.io/blog/30th-birthday
+          blog_url="https://noraworld.github.io/blog/$blog_slug"
+
+          # Create a new todo issue
+          #   NOTE: '--body' is mandatory, even if it's empty
+          new_issue_url=$(
+            gh issue create \
+              --repo "noraworld/to-do" \
+              --title "ブログ執筆: $blog_title" \
+              --body "" \
+              --assignee "noraworld" \
+              --label "blog"
+          )
+
+          # Leave a comment on a new blog post
+          gh issue comment "$new_issue_url" --body \
+          "[$blog_title]($blog_url)
+          "
+
+          # Close the issue
+          gh issue edit "$new_issue_url" --add-label "pomodoro:0,done"
+        shell: sh
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
   translate:
     name: Translate each post
     needs: collect
