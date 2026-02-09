@@ -8,7 +8,8 @@ description: "Summarizing the votes and background for the House of Representati
 image: "https://noraworld.github.io/box-venusaur/2026/02/09/b77abc13beb8036b0801c03eb441efa1.png"
 date: 2026-02-09 22:00:00 +09:00
 tags: [
-  "politics"
+  "politics",
+  "event"
 ]
 published: true
 ---

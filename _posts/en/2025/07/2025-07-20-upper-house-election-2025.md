@@ -7,6 +7,7 @@ author: [
 description: "I went to vote in the House of Councillors election on July 20, 2025, and here’s why I chose my candidates."
 date: 2025-07-20 11:45:00 +09:00
 tags: [
+  "politics",
   "event"
 ]
 published: true

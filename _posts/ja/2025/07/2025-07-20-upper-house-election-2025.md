@@ -7,6 +7,7 @@ author: [
 description: "2025 年 7 月 20 日の参議院議員選挙の投票に行ってきたので今回の投票先と支持背景について説明する。"
 date: 2025-07-20 11:45:00 +09:00
 tags: [
+  "politics",
   "event"
 ]
 published: true
