@@ -1,0 +1,12 @@
+{% comment %}
+  https://chatgpt.com/c/699167e2-369c-83aa-8cae-d6b5ac9285fb
+{% endcomment %}
+{% if site.active_lang == 'ja' %}
+  <blockquote class="prompt-warning" style="margin-top: 2em;">
+    <p>コメント投稿前に、<a href="{{ site.baseurl }}/comment-policy">コメントポリシー</a> をご確認ください。</p>
+  </blockquote>
+{% elsif site.active_lang == 'en' %}
+  <blockquote class="prompt-warning" style="margin-top: 2em;">
+    <p>Please review the <a href="{{ site.baseurl }}/en/comment-policy">Comment Policy</a> before posting a comment.</p>
+  </blockquote>
+{% endif %}
