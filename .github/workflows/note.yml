@@ -1,0 +1,44 @@
+name: Post note
+
+on:
+  workflow_call:
+    inputs:
+      file_pairs_json:
+        required: true
+        type: string
+
+jobs:
+  post:
+    if: ${{ inputs.file_pairs_json != '[]' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    strategy:
+      max-parallel: 1
+      matrix:
+        pair: ${{ fromJson(inputs.file_pairs_json) }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Post to note
+        uses: noraworld/github-to-note@main
+        with:
+          note_email: ${{ secrets.NOTE_EMAIL }}
+          note_password: ${{ secrets.NOTE_PASSWORD }}
+          content_file: ${{ matrix.pair.input }}
+          write_note_id: "true"
+        env:
+          NOTE_COOKIE: ${{ secrets.NOTE_COOKIE }}
+          NOTE_SESSION_V5: ${{ secrets.NOTE_SESSION_V5 }}
+          XSRF_TOKEN: ${{ secrets.XSRF_TOKEN }}
+          CSRF_TOKEN: ${{ secrets.CSRF_TOKEN }}
+
+      - name: Commit updated note_id
+        run: |
+          git pull origin main
+          git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
+          git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+          git add "${{ matrix.pair.input }}"
+          filename=$(basename "${{ matrix.pair.input }}")
+          git diff --cached --quiet || git commit -m "Update note_id for ${filename}"
+          git push -u origin main

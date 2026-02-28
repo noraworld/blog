@@ -45,7 +45,7 @@ jobs:
                 echo "{\"input\": \"$f\", \"output\": \"$out\"}"
               done | jq -s .)
           else
-            pairs=$(git diff --name-only --diff-filter=AR ${{ github.event.before }} ${{ github.sha }} |
+            pairs=$(git diff --name-only --diff-filter=AM ${{ github.event.before }} ${{ github.sha }} |
               (grep '^_posts/ja/.*\.md$' || true) |
               while read f; do
                 out=$(echo "$f" | sed 's|^_posts/ja/|_posts/en/|')
@@ -116,10 +116,24 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
+  note:
+    name: Post each post to note.com
+    needs:
+      - collect
+      - task
+    if: ${{ always() && needs.collect.outputs.file_pairs_json != '[]' }}
+    continue-on-error: true
+    uses: noraworld/blog/.github/workflows/note.yml@main
+    with:
+      file_pairs_json: ${{ needs.collect.outputs.file_pairs_json }}
+    secrets: inherit
+
   translate:
     name: Translate each post
-    needs: collect
-    if: ${{ needs.collect.outputs.file_pairs_json != '[]' }}
+    needs:
+      - collect
+      - note
+    if: ${{ always() && needs.collect.outputs.file_pairs_json != '[]' }}
     runs-on: ubuntu-latest
     strategy:
       max-parallel: 1
