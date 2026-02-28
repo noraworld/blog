@@ -72,7 +72,8 @@ jobs:
   task:
     name: Create and complete each task
     needs: collect
-    if: ${{ needs.collect.outputs.task_file_pairs_json != '[]' }}
+    # TEMP: skip task job for workflow verification
+    if: ${{ false }}
     runs-on: ubuntu-latest
     strategy:
       max-parallel: 1
@@ -140,7 +141,8 @@ jobs:
     needs:
       - collect
       - note
-    if: ${{ always() && needs.collect.outputs.file_pairs_json != '[]' }}
+    # TEMP: skip translate job for workflow verification
+    if: ${{ false }}
     runs-on: ubuntu-latest
     strategy:
       max-parallel: 1
