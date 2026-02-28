@@ -130,7 +130,6 @@ jobs:
       - collect
       - task
     if: ${{ always() && needs.collect.outputs.file_pairs_json != '[]' }}
-    continue-on-error: true
     uses: noraworld/blog/.github/workflows/note.yml@main
     with:
       file_pairs_json: ${{ needs.collect.outputs.file_pairs_json }}
