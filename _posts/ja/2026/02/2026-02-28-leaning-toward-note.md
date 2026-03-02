@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "テスト 10"
+title: "note を本格的に更新していきたい"
 author: [
   "noraworld"
 ]
-description: "テスト 10 です。"
-# image: ""
+description: "先日ついに note の自動投稿機能がある程度かたちになったので本格的に note も更新していく所存をここに示す"
+image: "https://noraworld.github.io/box-venusaur/2026/02/28/d30766fcfcb406674520a943587faf9b.png"
 date: 2026-02-28 16:00:00 +09:00
 tags: [
-  "テスト"
+  "note"
 ]
-published: false
+published: true
 ---
 
 ### はじめに
