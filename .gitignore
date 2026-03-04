@@ -6,3 +6,6 @@ vendor
 imports/*
 !imports/README.md
 bin
+
+# draft files
+_posts/ja/draft/
