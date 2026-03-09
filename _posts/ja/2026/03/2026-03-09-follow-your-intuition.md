@@ -12,6 +12,7 @@ tags: [
 ]
 published: true
 note_published: false
+note_id: 150355048
 ---
 
 ### 助言は必ずしも正しいとは限らない
