@@ -36,6 +36,27 @@ jobs:
           XSRF_TOKEN: ${{ secrets.XSRF_TOKEN }}
           CSRF_TOKEN: ${{ secrets.CSRF_TOKEN }}
 
+      - name: Mark note_published as true
+        run: |
+          /usr/bin/python3 - <<'PYTHON'
+          from pathlib import Path
+
+          path = Path(r"${{ matrix.pair.input }}")
+          lines = path.read_text().splitlines()
+
+          if not lines or lines[0] != '---':
+              raise SystemExit(0)
+
+          in_front_matter = True
+          for i in range(1, len(lines)):
+              if lines[i] == '---':
+                  break
+              if lines[i].strip() == 'note_published: false':
+                  lines[i] = 'note_published: true'
+                  path.write_text('\n'.join(lines) + '\n')
+                  break
+          PYTHON
+
       - name: Commit updated note_id
         run: |
           git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
