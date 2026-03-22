@@ -196,4 +196,5 @@ jobs:
 
   deploy:
     needs: translate
+    if: ${{ always() && needs.translate.result == 'success' }}
     uses: noraworld/blog/.github/workflows/pages.yml@main
