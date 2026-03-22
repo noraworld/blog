@@ -147,6 +147,9 @@ jobs:
         pair: ${{ fromJson(needs.collect.outputs.file_pairs_json) }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
 
       - name: Read content from input file
         run: |
@@ -183,13 +186,13 @@ jobs:
 
       - name: Commit
         run: |
-          git pull origin main
           git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
           git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
           git add "${{ matrix.pair.output }}"
+          git diff --cached --quiet && exit 0
           filename=$(basename "${{ matrix.pair.input }}")
           git commit -m "Translate ${filename} into English"
-          git push -u origin main
+          git push origin HEAD:main
 
   deploy:
     needs: translate

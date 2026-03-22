@@ -19,6 +19,9 @@ jobs:
         pair: ${{ fromJson(inputs.file_pairs_json) }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
 
       - name: Post to note
         uses: noraworld/github-to-note@main
@@ -35,10 +38,10 @@ jobs:
 
       - name: Commit updated note_id
         run: |
-          git pull origin main
           git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
           git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
           git add "${{ matrix.pair.input }}"
+          git diff --cached --quiet && exit 0
           filename=$(basename "${{ matrix.pair.input }}")
-          git diff --cached --quiet || git commit -m "Update note_id for ${filename}"
-          git push -u origin main
+          git commit -m "Update note_id for ${filename}"
+          git push origin HEAD:main
