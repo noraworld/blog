@@ -12,6 +12,7 @@ tags: [
 ]
 published: true
 note_published: false
+note_id: 152238027
 ---
 
 _『今』を生きよ。_
