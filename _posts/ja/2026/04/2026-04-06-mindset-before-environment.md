@@ -11,7 +11,8 @@ tags: [
   "thoughts"
 ]
 published: true
-note_published: false
+note_published: true
+note_id: 154415476
 ---
 
 最近、仏教の考え方を参考にしているんだけど、考え方を意識するのって大事だなと思うようになった。
