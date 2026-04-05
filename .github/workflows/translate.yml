@@ -192,7 +192,21 @@ jobs:
           git diff --cached --quiet && exit 0
           filename=$(basename "${{ matrix.pair.input }}")
           git commit -m "Translate ${filename} into English"
-          git push origin HEAD:main
+
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main
+
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+
+            if [ "$attempt" -eq 3 ]; then
+              exit 1
+            fi
+
+            sleep 3
+          done
 
   deploy:
     needs: translate
