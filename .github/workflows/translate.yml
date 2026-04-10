@@ -24,7 +24,35 @@ jobs:
           ref: main
           fetch-depth: 1
 
+      - id: check-disabled
+        name: Check translation flag
+        run: |
+          disabled=$(
+            /usr/bin/python3 - <<'PYTHON'
+            from pathlib import Path
+
+            path = Path(r"${{ matrix.pair.input }}")
+            lines = path.read_text().splitlines()
+
+            if not lines or lines[0] != "---":
+                print("false")
+                raise SystemExit(0)
+
+            for line in lines[1:]:
+                if line == "---":
+                    break
+                if line.strip() == "translation: false":
+                    print("true")
+                    raise SystemExit(0)
+
+            print("false")
+            PYTHON
+          )
+          echo "disabled=$disabled" >> "$GITHUB_OUTPUT"
+        shell: bash
+
       - name: Read content from input file
+        if: ${{ steps.check-disabled.outputs.disabled != 'true' }}
         run: |
           content=$(cat "${{ matrix.pair.input }}")
           echo "USER_PROMPT<<EOF" >> "$GITHUB_ENV"
@@ -33,6 +61,7 @@ jobs:
         shell: bash
 
       - name: Translate with ChatGPT
+        if: ${{ steps.check-disabled.outputs.disabled != 'true' }}
         uses: noraworld/chatgpt-feedback@main
         with:
           model: gpt-4o
@@ -58,6 +87,7 @@ jobs:
           CHATGPT_API_KEY: ${{ secrets.CHATGPT_API_KEY }}
 
       - name: Commit
+        if: ${{ steps.check-disabled.outputs.disabled != 'true' }}
         run: |
           git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
           git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
