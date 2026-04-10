@@ -1,0 +1,55 @@
+# https://chatgpt.com/c/685bdb50-189c-8004-be62-7c9bca13dd60
+name: Process Posts
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '_posts/ja/**'
+  workflow_dispatch:
+    inputs:
+      target_path:
+        required: true
+        description: Target full path (comma separated)
+        type: string
+
+jobs:
+  collect:
+    uses: ./.github/workflows/collect.yml
+    with:
+      event_name: ${{ github.event_name }}
+      target_path: ${{ github.event.inputs.target_path || '' }}
+
+  task:
+    needs: collect
+    if: ${{ needs.collect.outputs.task_file_pairs_json != '[]' }}
+    uses: ./.github/workflows/task.yml
+    with:
+      task_file_pairs_json: ${{ needs.collect.outputs.task_file_pairs_json }}
+    secrets: inherit
+
+  note:
+    needs:
+      - collect
+      - task
+    if: ${{ always() && needs.collect.outputs.file_pairs_json != '[]' }}
+    uses: ./.github/workflows/note.yml
+    with:
+      file_pairs_json: ${{ needs.collect.outputs.file_pairs_json }}
+    secrets: inherit
+
+  translate:
+    needs:
+      - collect
+      - note
+    if: ${{ always() && needs.collect.outputs.file_pairs_json != '[]' }}
+    uses: ./.github/workflows/translate.yml
+    with:
+      file_pairs_json: ${{ needs.collect.outputs.file_pairs_json }}
+    secrets: inherit
+
+  deploy:
+    needs: translate
+    if: ${{ always() && needs.translate.result == 'success' }}
+    uses: ./.github/workflows/pages.yml

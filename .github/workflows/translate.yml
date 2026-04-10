@@ -1,150 +1,23 @@
-# https://chatgpt.com/c/685bdb50-189c-8004-be62-7c9bca13dd60
-name: Translate
+name: Translate Posts
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - '_posts/ja/**'
-  workflow_dispatch:
+  workflow_call:
     inputs:
-      target_path:
+      file_pairs_json:
         required: true
-        description: Target full path (comma separated)
         type: string
 
 jobs:
-  collect:
-    name: Collect changed files
-    runs-on: ubuntu-latest
-    outputs:
-      # [
-      #   {
-      #     "input": "_posts/ja/2025/06/2025-06-25-hello.md",
-      #     "output": "_posts/en/2025/06/2025-06-25-hello.md"
-      #   },
-      #   {
-      #     "input": "_posts/ja/2025/06/2025-06-26-world.md",
-      #     "output": "_posts/en/2025/06/2025-06-26-world.md"
-      #   }
-      # ]
-      file_pairs_json: ${{ steps.set-pairs.outputs.file_pairs_json }}
-      task_file_pairs_json: ${{ steps.set-pairs.outputs.task_file_pairs_json }}
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - id: set-pairs
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            pairs=$(echo "${{ github.event.inputs.target_path }}" | tr ',' '\n' | xargs -n1 |
-              (grep '^_posts/ja/.*\.md$' || true) |
-              while read f; do
-                out=$(echo "$f" | sed 's|^_posts/ja/|_posts/en/|')
-                echo "{\"input\": \"$f\", \"output\": \"$out\"}"
-              done | jq -s .)
-            task_pairs="$pairs"
-          else
-            pairs=$(git diff --name-only --diff-filter=AM ${{ github.event.before }} ${{ github.sha }} |
-              (grep '^_posts/ja/.*\.md$' || true) |
-              while read f; do
-                out=$(echo "$f" | sed 's|^_posts/ja/|_posts/en/|')
-                echo "{\"input\": \"$f\", \"output\": \"$out\"}"
-              done | jq -s .)
-            task_pairs=$(git diff --name-only --diff-filter=A ${{ github.event.before }} ${{ github.sha }} |
-              (grep '^_posts/ja/.*\.md$' || true) |
-              while read f; do
-                out=$(echo "$f" | sed 's|^_posts/ja/|_posts/en/|')
-                echo "{\"input\": \"$f\", \"output\": \"$out\"}"
-              done | jq -s .)
-          fi
-
-          echo "file_pairs_json<<EOF" >> "$GITHUB_OUTPUT"
-          echo "$pairs" >> "$GITHUB_OUTPUT"
-          echo "EOF" >> "$GITHUB_OUTPUT"
-          echo "task_file_pairs_json<<EOF" >> "$GITHUB_OUTPUT"
-          echo "$task_pairs" >> "$GITHUB_OUTPUT"
-          echo "EOF" >> "$GITHUB_OUTPUT"
-        shell: bash
-
-  task:
-    name: Create and complete each task
-    needs: collect
-    if: ${{ needs.collect.outputs.task_file_pairs_json != '[]' }}
-    runs-on: ubuntu-latest
-    strategy:
-      max-parallel: 1
-      matrix:
-        pair: ${{ fromJson(needs.collect.outputs.task_file_pairs_json) }}
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Create a todo task as completed
-        run: |
-          # Get a blog title
-          #   e.g. ポケモン新作発売日・コンビニ解禁日・ニート脱却記念日・30 歳の誕生日
-          #   cf.  https://chatgpt.com/share/68f61f6a-97b4-8004-8f6f-d59040cfaecc
-          blog_title=$(
-            cat "${{ matrix.pair.input }}" |
-            grep -E '^title: ".*"$'        |
-            sed -E 's/^title: "(.*)"$/\1/' |
-            sed 's/\\"/"/g'
-          )
-
-          # Get a blog slug
-          #   e.g. 30th-birthday
-          blog_slug=$(basename "${{ matrix.pair.input }}" .md | cut -d '-' -f 4-)
-
-          # Build a blog URL
-          #   e.g. https://noraworld.github.io/blog/30th-birthday
-          blog_url="https://noraworld.github.io/blog/$blog_slug"
-
-          # Create a new todo issue
-          #   NOTE: '--body' is mandatory, even if it's empty
-          new_issue_url=$(
-            gh issue create \
-              --repo "noraworld/to-do" \
-              --title "ブログ執筆: $blog_title" \
-              --body "" \
-              --assignee "noraworld" \
-              --label "blog"
-          )
-
-          # Leave a comment on a new blog post
-          gh issue comment "$new_issue_url" --body \
-          "[$blog_title]($blog_url)
-          "
-
-          # Close the issue
-          gh issue edit "$new_issue_url" --add-label "pomodoro:0,done"
-        shell: sh
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-  note:
-    name: Post each post to note.com
-    needs:
-      - collect
-      - task
-    if: ${{ always() && needs.collect.outputs.file_pairs_json != '[]' }}
-    uses: noraworld/blog/.github/workflows/note.yml@main
-    with:
-      file_pairs_json: ${{ needs.collect.outputs.file_pairs_json }}
-    secrets: inherit
-
   translate:
     name: Translate each post
-    needs:
-      - collect
-      - note
-    if: ${{ always() && needs.collect.outputs.file_pairs_json != '[]' }}
+    if: ${{ inputs.file_pairs_json != '[]' }}
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     strategy:
       max-parallel: 1
       matrix:
-        pair: ${{ fromJson(needs.collect.outputs.file_pairs_json) }}
+        pair: ${{ fromJson(inputs.file_pairs_json) }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -207,8 +80,3 @@ jobs:
 
             sleep 3
           done
-
-  deploy:
-    needs: translate
-    if: ${{ always() && needs.translate.result == 'success' }}
-    uses: noraworld/blog/.github/workflows/pages.yml@main
