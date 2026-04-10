@@ -1,4 +1,19 @@
-_道を踏み外しても、いつでもここから再スタートできる。さあ、踏み出そう、苦しみのない輝かしい未来へ。_
+---
+layout: post
+title: "執着リスト"
+author: [
+  "noraworld"
+]
+description: "道を踏み外しても、いつでもここから再スタートできる。さあ、踏み出そう、苦しみのない輝かしい未来へ。"
+image: "https://noraworld.github.io/box-venusaur/2026/04/10/c7ebcf9060f0a68f653ded7ece0a0c7c.png"
+date: 2026-04-08 00:00:00 +09:00
+tags: [
+  "notes"
+]
+published: true
+note_disabled: true
+translation: false
+---
 
 * 記録への執着
     * 日常のすべてを記録しなければならないという執着
