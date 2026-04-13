@@ -27,29 +27,32 @@ jobs:
       - id: check-disabled
         name: Check translation flag
         run: |
-          disabled=$(
-            /usr/bin/python3 - <<'PYTHON'
-            from pathlib import Path
+          disabled="$(
+          /usr/bin/python3 - <<'PYTHON'
+          from pathlib import Path
+          import os
 
-            path = Path(r"${{ matrix.pair.input }}")
-            lines = path.read_text().splitlines()
+          path = Path(os.environ["INPUT_PATH"])
+          lines = path.read_text().splitlines()
 
-            if not lines or lines[0] != "---":
-                print("false")
-                raise SystemExit(0)
+          if not lines or lines[0] != "---":
+              print("false")
+              raise SystemExit(0)
 
-            for line in lines[1:]:
-                if line == "---":
-                    break
-                if line.strip() == "translation: false":
-                    print("true")
-                    raise SystemExit(0)
+          for line in lines[1:]:
+              if line == "---":
+                  break
+              if line.strip() == "translation: false":
+                  print("true")
+                  raise SystemExit(0)
 
-            print("false")
-            PYTHON
-          )
+          print("false")
+          PYTHON
+          )"
           echo "disabled=$disabled" >> "$GITHUB_OUTPUT"
         shell: bash
+        env:
+          INPUT_PATH: ${{ matrix.pair.input }}
 
       - name: Read content from input file
         if: ${{ steps.check-disabled.outputs.disabled != 'true' }}
