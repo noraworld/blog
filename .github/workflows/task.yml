@@ -6,16 +6,46 @@ on:
       task_file_pairs_json:
         required: true
         type: string
+  workflow_dispatch:
+    inputs:
+      target_path:
+        required: true
+        description: Target full path (comma separated)
+        type: string
 
 jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      task_file_pairs_json: ${{ steps.set-pairs.outputs.task_file_pairs_json }}
+    steps:
+      - id: set-pairs
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            pairs=$(echo "${{ github.event.inputs.target_path }}" | tr ',' '\n' | xargs -n1 |
+              (grep '^_posts/ja/.*\.md$' || true) |
+              while read f; do
+                out=$(echo "$f" | sed 's|^_posts/ja/|_posts/en/|')
+                echo "{\"input\": \"$f\", \"output\": \"$out\"}"
+              done | jq -s .)
+          else
+            pairs='${{ inputs.task_file_pairs_json }}'
+          fi
+
+          echo "task_file_pairs_json<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$pairs" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+        shell: bash
+
   task:
     name: Create and complete each task
-    if: ${{ inputs.task_file_pairs_json != '[]' }}
+    needs: prepare
+    if: ${{ needs.prepare.outputs.task_file_pairs_json != '[]' }}
     runs-on: ubuntu-latest
     strategy:
       max-parallel: 1
       matrix:
-        pair: ${{ fromJson(inputs.task_file_pairs_json) }}
+        pair: ${{ fromJson(needs.prepare.outputs.task_file_pairs_json) }}
     steps:
       - uses: actions/checkout@v4
 
