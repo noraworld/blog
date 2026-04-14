@@ -52,13 +52,8 @@ jobs:
         with:
           ref: main
           # Full history is not strictly required here; this avoids shallow-clone edge cases
-          # when we re-sync the worktree to the latest origin/main below.
+          # when we re-sync the worktree to the latest origin/main before pushing.
           fetch-depth: 0
-
-      - name: Sync latest main
-        run: |
-          git fetch origin main
-          git checkout -B main origin/main
 
       - name: Post to note
         uses: noraworld/github-to-note@main
@@ -98,8 +93,14 @@ jobs:
         run: |
           git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
           git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
-          git add "${{ matrix.pair.input }}"
-          git diff --cached --quiet && exit 0
           filename=$(basename "${{ matrix.pair.input }}")
+          input_path="${{ matrix.pair.input }}"
+          temp_input=$(mktemp)
+          cp "$input_path" "$temp_input"
+          git fetch origin main
+          git checkout -B main origin/main
+          cp "$temp_input" "$input_path"
+          git add "$input_path"
+          git diff --cached --quiet && exit 0
           git commit -m "Update note_id for ${filename}"
           git push origin HEAD:main

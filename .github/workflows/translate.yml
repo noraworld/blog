@@ -53,13 +53,8 @@ jobs:
         with:
           ref: main
           # Full history is not strictly required here; this avoids shallow-clone edge cases
-          # when we re-sync the worktree to the latest origin/main below.
+          # when we re-sync the worktree to the latest origin/main before pushing.
           fetch-depth: 0
-
-      - name: Sync latest main
-        run: |
-          git fetch origin main
-          git checkout -B main origin/main
 
       - id: check-disabled
         name: Check translation flag
@@ -131,8 +126,15 @@ jobs:
         run: |
           git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
           git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
-          git add "${{ matrix.pair.output }}"
-          git diff --cached --quiet && exit 0
           filename=$(basename "${{ matrix.pair.input }}")
+          output_path="${{ matrix.pair.output }}"
+          temp_output=$(mktemp)
+          cp "$output_path" "$temp_output"
+          git fetch origin main
+          git checkout -B main origin/main
+          mkdir -p "$(dirname "$output_path")"
+          cp "$temp_output" "$output_path"
+          git add "$output_path"
+          git diff --cached --quiet && exit 0
           git commit -m "Translate ${filename} into English"
           git push origin HEAD:main
