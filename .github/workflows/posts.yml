@@ -49,7 +49,107 @@ jobs:
       file_pairs_json: ${{ needs.collect.outputs.file_pairs_json }}
     secrets: inherit
 
+  commit:
+    needs:
+      - collect
+      - note
+      - translate
+    if: ${{ always() && needs.collect.outputs.file_pairs_json != '[]' && needs.note.result == 'success' && needs.translate.result == 'success' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Download updated note posts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: note-updated-*
+          path: note-artifacts
+          merge-multiple: true
+
+      - name: Download translated posts
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          pattern: translated-post-*
+          path: translate-artifacts
+          merge-multiple: true
+
+      - name: Commit generated files
+        env:
+          FILE_PAIRS_JSON: ${{ needs.collect.outputs.file_pairs_json }}
+        run: |
+          git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
+          git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+
+          /usr/bin/python3 - <<'PYTHON'
+          import json
+          import os
+          from pathlib import Path
+
+          pairs = json.loads(os.environ["FILE_PAIRS_JSON"])
+          Path("note_paths.txt").write_text("".join(f"{pair['input']}\n" for pair in pairs))
+          Path("translate_paths.txt").write_text("".join(f"{pair['output']}\n" for pair in pairs))
+          PYTHON
+
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git checkout -B main origin/main
+
+            if [ -d note-artifacts ]; then
+              cp -R note-artifacts/. .
+            fi
+
+            if [ -d translate-artifacts ]; then
+              cp -R translate-artifacts/. .
+            fi
+
+            git reset --quiet
+
+            while IFS= read -r path; do
+              [ -f "$path" ] || continue
+              git add "$path"
+            done < note_paths.txt
+
+            note_commit_created=false
+            if ! git diff --cached --quiet; then
+              git commit -m "Update note metadata"
+              note_commit_created=true
+            fi
+
+            git reset --quiet
+
+            while IFS= read -r path; do
+              [ -f "$path" ] || continue
+              git add "$path"
+            done < translate_paths.txt
+
+            translate_commit_created=false
+            if ! git diff --cached --quiet; then
+              git commit -m "Add English translations"
+              translate_commit_created=true
+            fi
+
+            if [ "$note_commit_created" = false ] && [ "$translate_commit_created" = false ]; then
+              exit 0
+            fi
+
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+
+            if [ "$attempt" -eq 3 ]; then
+              exit 1
+            fi
+
+            sleep 3
+          done
+
   deploy:
-    needs: translate
-    if: ${{ always() && needs.translate.result == 'success' }}
+    needs: commit
+    if: ${{ always() && needs.commit.result == 'success' }}
     uses: ./.github/workflows/pages.yml

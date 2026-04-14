@@ -11,8 +11,6 @@ jobs:
   post:
     if: ${{ inputs.file_pairs_json != '[]' }}
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     strategy:
       max-parallel: 1
       matrix:
@@ -57,26 +55,27 @@ jobs:
                   break
           PYTHON
 
-      - name: Commit updated note_id
+      - id: artifact-name
+        name: Build artifact name
         run: |
-          git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
-          git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
-          git add "${{ matrix.pair.input }}"
-          git diff --cached --quiet && exit 0
-          filename=$(basename "${{ matrix.pair.input }}")
-          git commit -m "Update note_id for ${filename}"
+          name=$(
+            /usr/bin/python3 - <<'PYTHON'
+            import os
+            import re
 
-          for attempt in 1 2 3; do
-            git fetch origin main
-            git rebase origin/main
+            path = os.environ["INPUT_PATH"]
+            print("note-updated-" + re.sub(r"[^A-Za-z0-9._-]", "-", path))
+            PYTHON
+          )
+          echo "name=$name" >> "$GITHUB_OUTPUT"
+        shell: bash
+        env:
+          INPUT_PATH: ${{ matrix.pair.input }}
 
-            if git push origin HEAD:main; then
-              exit 0
-            fi
-
-            if [ "$attempt" -eq 3 ]; then
-              exit 1
-            fi
-
-            sleep 3
-          done
+      - name: Upload updated post
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ steps.artifact-name.outputs.name }}
+          path: ${{ matrix.pair.input }}
+          if-no-files-found: error
+          retention-days: 1

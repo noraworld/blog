@@ -12,8 +12,6 @@ jobs:
     name: Translate each post
     if: ${{ inputs.file_pairs_json != '[]' }}
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     strategy:
       max-parallel: 1
       matrix:
@@ -23,6 +21,13 @@ jobs:
         with:
           ref: main
           fetch-depth: 1
+
+      - name: Download updated note posts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: note-updated-*
+          path: .
+          merge-multiple: true
 
       - id: check-disabled
         name: Check translation flag
@@ -89,27 +94,29 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CHATGPT_API_KEY: ${{ secrets.CHATGPT_API_KEY }}
 
-      - name: Commit
+      - id: artifact-name
         if: ${{ steps.check-disabled.outputs.disabled != 'true' }}
+        name: Build artifact name
         run: |
-          git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
-          git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
-          git add "${{ matrix.pair.output }}"
-          git diff --cached --quiet && exit 0
-          filename=$(basename "${{ matrix.pair.input }}")
-          git commit -m "Translate ${filename} into English"
+          name=$(
+            /usr/bin/python3 - <<'PYTHON'
+            import os
+            import re
 
-          for attempt in 1 2 3; do
-            git fetch origin main
-            git rebase origin/main
+            path = os.environ["OUTPUT_PATH"]
+            print("translated-post-" + re.sub(r"[^A-Za-z0-9._-]", "-", path))
+            PYTHON
+          )
+          echo "name=$name" >> "$GITHUB_OUTPUT"
+        shell: bash
+        env:
+          OUTPUT_PATH: ${{ matrix.pair.output }}
 
-            if git push origin HEAD:main; then
-              exit 0
-            fi
-
-            if [ "$attempt" -eq 3 ]; then
-              exit 1
-            fi
-
-            sleep 3
-          done
+      - name: Upload translated post
+        if: ${{ steps.check-disabled.outputs.disabled != 'true' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ steps.artifact-name.outputs.name }}
+          path: ${{ matrix.pair.output }}
+          if-no-files-found: error
+          retention-days: 1
