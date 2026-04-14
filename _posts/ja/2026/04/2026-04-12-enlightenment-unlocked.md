@@ -11,7 +11,8 @@ tags: [
   "thoughts"
 ]
 published: true
-note_published: false
+note_published: true
+note_id: 155650831
 ---
 
 ### いまこの瞬間においては対象外の読者
