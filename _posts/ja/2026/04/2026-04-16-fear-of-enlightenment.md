@@ -11,7 +11,8 @@ tags: [
   "thoughts"
 ]
 published: true
-note_published: false
+note_published: true
+note_id: 156056016
 ---
 
 ### わかったけど、わかってなかった
