@@ -33,7 +33,8 @@ translation: false
 * ⚡️「**『こんなに人生が苦しいなら今すぐ死んだほうがマシ』なら、本当に死ぬまでの間に、苦しみを抱える行動や思考をすることに意味はあるか？**」
 
 ### 💡 手放すためのヒント 💡
-* [「ま、いっか」という言葉の魔力](https://noraworld.github.io/blog/magic-of-oh-well)
+* 究極的あきらめ・究極的「ま、いっか」
+    * [「ま、いっか」という言葉の魔力](https://noraworld.github.io/blog/magic-of-oh-well)
 * [やりたい気持ちを義務にしてはいけない](https://noraworld.github.io/blog/desire-vs-obligation)
 * [環境を変える前にまず自分の考え方を変える努力をしてみる](https://noraworld.github.io/blog/mindset-before-environment)
 * 縁起 — 自分という存在は宇宙・自然の一部であり、なにものにも依存せず独立して行動を起こすことはできない。そして、すべての事象には因果がある。その因果に抵抗すると苦しみが生まれる。流れに身を任せることで道は開ける。
