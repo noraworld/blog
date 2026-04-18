@@ -243,6 +243,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - templates/
   - imports
   - bin
   - .ruby-version
