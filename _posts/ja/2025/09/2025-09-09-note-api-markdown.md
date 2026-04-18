@@ -5,9 +5,13 @@ author: [
   "noraworld"
 ]
 description: "長年 note を使いたいと思っているが恒常的な利用に踏み切れない理由について今さらまとめる試み。"
+# https://chatgpt.com/share/69e33102-8134-83a9-8603-c9962e89f335
+image: "https://noraworld.github.io/box-venusaur/2026/04/18/24435486a6aa49f0a43d89f2a63a9341.png"
 date: 2025-09-09 00:25:00 +09:00
 tags: []
 published: true
+note_published: true
+note_id: 125458771
 ---
 
 ### はじめに
