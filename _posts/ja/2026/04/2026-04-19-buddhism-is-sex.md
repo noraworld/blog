@@ -12,7 +12,7 @@ tags: [
   "philosophy"
 ]
 published: true
-note_published: false
+note_published: true
 note_id: 156490379
 ---
 
