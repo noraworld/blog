@@ -14,7 +14,8 @@ tags: [
   "poem"
 ]
 published: true
-note_published: false
+note_published: true
+note_id: 156875585
 ---
 
 ## あるカップルの会話
