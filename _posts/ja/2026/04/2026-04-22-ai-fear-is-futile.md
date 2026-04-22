@@ -12,7 +12,8 @@ tags: [
   "philosophy"
 ]
 published: true
-note_published: false
+note_published: true
+note_id: 156915559
 ---
 
 ## 現代版『諸行無常』
