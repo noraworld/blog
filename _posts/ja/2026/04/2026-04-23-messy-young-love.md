@@ -9,7 +9,7 @@ description: "ゲス注意！"
 image: "https://noraworld.github.io/box-venusaur/2026/04/18/ee82cef4300d5a017738e6de6736ef37.png"
 date: 2026-04-18 23:37:00 +09:00
 tags: [
-  ""
+  "memory"
 ]
 published: true
 note_published: false
