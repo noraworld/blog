@@ -1,3 +1,20 @@
+---
+layout: post
+title: "【ゲス注意！】学生時代の恋バナをぜーんぶここにぶちまけるッ！！！"
+author: [
+  "noraworld"
+]
+description: "ゲス注意！"
+# https://chatgpt.com/share/69e3d69e-0da0-83aa-be0e-a58a70aa2700
+image: "https://noraworld.github.io/box-venusaur/2026/04/18/ee82cef4300d5a017738e6de6736ef37.png"
+date: 2026-04-18 23:37:00 +09:00
+tags: [
+  ""
+]
+published: true
+note_published: false
+---
+
 # 年代別、気になっていた人・好意を寄せられていた人
 女の子の名前の漢字はうろ覚えなことが多いので間違っている可能性が高い。
 
