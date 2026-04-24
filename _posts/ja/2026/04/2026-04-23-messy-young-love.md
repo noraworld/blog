@@ -12,7 +12,8 @@ tags: [
   "memory"
 ]
 published: true
-note_published: false
+note_published: true
+note_id: 157204891
 ---
 
 ## きたねえ話火だ
