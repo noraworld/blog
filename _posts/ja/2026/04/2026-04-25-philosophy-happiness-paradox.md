@@ -13,7 +13,8 @@ tags: [
   "thoughts"
 ]
 published: true
-note_published: false
+note_published: true
+note_id: 157370953
 ---
 
 ## 西洋哲学もおもしろい
