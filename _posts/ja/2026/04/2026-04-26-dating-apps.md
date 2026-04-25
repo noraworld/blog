@@ -1,3 +1,21 @@
+---
+# https://chatgpt.com/share/69ed1c3e-4284-83a7-a232-54af5e8e45ac
+layout: post
+title: "マッチングアプリ プロフィールテキスト"
+author: [
+  "noraworld"
+]
+description: "個人用。コピペするときに使う。どうせアプリ内で人に見せる文章なのでブログとして公開することにした。"
+image: "https://noraworld.github.io/box-venusaur/2026/04/25/8b8d484007b95c17bd73d60f943158c3.png"
+date: 2026-04-26 00:00:00 +09:00
+tags: [
+  "notes"
+]
+published: true
+note_disabled: true
+translation: false
+---
+
 最近哲学を学んで、人を好きになってみたいなと思って再開しました。（2026/04/26）
 
 ですが久しぶりにアプリを開いて眺めていたものの、なんか違うなーって思ってしまいました......。ときめかないというか将来を想像できないというか......。
