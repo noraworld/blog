@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "5 Secret Techniques to Build Mental Strength"
+title: "5 Secret Techniques for Mental Strength"
 author: [
   "noraworld"
 ]
-description: "The impact of the thumbnail created by ChatGPT is amazing. I think it's the best I've ever had."
-image: "https://noraworld.github.io/box-venusaur/2026/04/28/344965c079ee9b73661069c07d0b4516.png"
+description: "The impact of the thumbnail created by ChatGPT is amazing. I think it's the best one so far."
+# image: "https://noraworld.github.io/box-venusaur/2026/04/28/344965c079ee9b73661069c07d0b4516.png"
+image: "https://noraworld.github.io/box-venusaur/2026/04/28/3ad4b28719db731c2307a3d7f33a8586.png"
 date: 2026-04-28 20:20:00 +09:00
 tags: [
   "philosophy",
@@ -19,80 +20,80 @@ note_published: true
 note_id: 157832301
 ---
 
-## Secret Technique 1: 'Stop'
-This is the basics of basics. When negative feelings or unpleasant thoughts pop into your mind, stop thinking about them. If you feel distressed, notice the imagination and stop it.
+## Secret Technique #1: "Stop"
+This is the most basic of basics. When negative feelings or unpleasant imaginations pop into your head, stop thinking about them. If you feel bad, notice the thoughts and stop them.
 
-Sometimes playing the victim can give you temporary pleasure, but this is a trap placed by the enemy. Repeating it won't truly make 'you' happy. Just stop the thoughts that create those negative feelings.
+Sometimes playing the tragic heroine might give you temporary pleasure, but it's a trap, and repeating it won't bring true happiness to "you." Just stop the thoughts that create those negative emotions.
 
-It might be good to focus on what's in front of you. If you're washing dishes, then focus on washing dishes. If you're working, focus on the task in front of you. Even if your mind wanders and negative feelings return, don't panic; calmly bring your attention back to the present.
+Try focusing on what’s in front of you. If you're washing dishes, focus on washing the dishes. If you're working, concentrate on the task at hand. Even if you get distracted and negative emotions come back, calmly refocus on what’s in front of you.
 
-As you keep this up for a while, you won't be trapped by those feelings anymore. You might even forget what you were being negative about. Try this in your daily life for a while, and you might notice your heart feeling lighter.
+If you do this for a while, you won’t be trapped by those feelings anymore. You might even forget what was making you negative. Try doing this in your daily life, and you'll notice your heart feeling lighter.
 
-However, you don't need to think, "I absolutely must not think negative things," or, "Oh, I thought something negative again, so I'm no good." Also, don't have excessive expectations like, "If I keep this up, I won't feel pain anymore." Notice these feelings or thoughts too, and quietly stop them. That's all.
+However, you don’t need to think "I must not think negatively" or "Oh, I thought negative again, I'm no good." Don’t have too high expectations either, like "If I keep this up, I will never suffer again." Simply notice these thoughts or feelings and let them go. That’s all.
 
-Recommended reading 👉 [Practice of Not Overthinking](https://www.amazon.co.jp/dp/B0CQLXLM5M)
-
-
-
-
-
-## Secret Technique 2: 'Origin'
-This is very effective for people prone to arrogance or narcissism (who often suffer for it).
-
-You are there now not solely by your own effort.
-
-If you're not in construction, it's thanks to someone building a place for you that you can live there.
-
-If you're not a farmer, it's because someone grows vegetables or meat for you that you can eat and live.
-
-If you work for a company, it's because of the people who built and work for that company that you're able to earn money for living.
-
-When you ride a train to meet a friend, there are countless connections involved. Many people operating the train, many who laid the tracks, designed the tracks, assembled the train, and coordinated the opening.
-
-Besides that, there are many people who made the ticket gates, the system, the roads, the traffic lights, and the traffic rules...
-
-If any of these were missing, you might not have been able to reach your friend (or if the journey felt too long, you might have cancelled meeting).
-
-Everything is due to these connections. Even you, being here now, is due to some connection. Realizing this in your heart can gradually fade any arrogance or self-conceit you may have.
-
-Recommended article 👉 [Enjoy Now, Value Origin](https://note.com/noraworld/n/nbe8f6fe323b9)
+Recommended reading 👉 [Practicing Not Overthinking](https://www.amazon.co.jp/dp/B0CQLXLM5M)
 
 
 
 
 
-## Secret Technique 3: 'Surrender'
-Also known as 'The Ultimate "Oh Well" Spirit.' It's particularly effective for perfectionists. You don’t need to do everything perfectly to be happy. Actually, trying to do so makes happiness harder to reach.
+## Secret Technique #2: "Interdependence"
+This works well for those prone to arrogance or narcissism (who suffer from it).
 
-Let go of beliefs like "I should live like this" or "I need to achieve this to be happy." Whenever you feel stressed, handle it with an "Oh well." If you can effectively let go of your attachments, you can also bid farewell to your struggles.
+You are able to be here now not by your own strength alone.
 
-Letting go is not a bad thing. It is not a sign of weakness. On the contrary, letting go makes you stronger. Summon up the courage and let go.
+If you're not in the construction business, someone built the living space for you to live in now.
 
-Recommended article 👉 [The Magic of the Words "Oh Well"](https://note.com/noraworld/n/nde95d094eccb)
+If you're not a farmer, someone grew the vegetables and meat you eat to stay alive.
 
+If you work for a company, it's because someone started the company and people work there, allowing you to earn money to live.
 
+When you take a train to meet a friend, it's because of many connections. Many people operate the train, many constructed the tracks, and many designed how the tracks are laid and how the trains are assembled.
 
+Beyond that, it’s also thanks to many people who made the ticket gates, the ticketing system, the roads, the traffic lights, and the traffic rules...
 
+If any of these were missing, it might have been impossible to meet your friend (if getting to the meet-up location took an extra hour, you might decide to not meet your friend because it's a hassle).
 
-## Secret Technique 4: 'Transcendence'
-This is also effective for perfectionists or people with strong sense of responsibility. When you witness nature or big events (concerts, live shows) and feel awe, you realize that the things you fuss over in daily life and work are so trivial.
+It’s all thanks to interdependence. You are who you are now because of these connections. Feeling this from the heart will gradually dissolve arrogance or pride about "I've done it all by myself."
 
-Though I said "nature and big events," it doesn't have to be that grand. You can find transcendence in everyday small things too. Even just looking at a tree in the park and thinking, "This tree has lived far longer than me, overcoming many hardships," can be effective.
-
-If you don’t have the opportunity to directly experience nature or events, watching them on YouTube can also work.
-
-
-
+Recommended article 👉 [It's Okay As Long As You Enjoy The Present. Live By Valuing Interconnection.](https://note.com/noraworld/n/nbe8f6fe323b9)
 
 
-## Secret Technique 5: 'Observation'
-Instead of stopping negative feelings or unpleasant imaginations, observe them. Think of your emotions and imaginations like a movie. Objectively view it as, "Wow, another unhappy movie is playing in my head."
 
-You can even narrate the movie. "I see, in this movie, the main character (your brain) feels anger. Where does it come from? I see, a casual remark by a friend. Why does it feel angry? Ah, because the character feels it's unfair that they have to work hard since the friend has financial freedom and doesn't need to work hard," and so on.
 
-This technique is powerful but complex and hard to pull off. If you're not careful, you'll be swept away by waves of thoughts. You might even find yourself knocked out by the enemy's jabs while forcing the technique.
 
-So, it's good to calmly input this technique when you have enough space. When the enemy is relentless, using Secret Technique 1: 'Stop' to find openings is effective.
+## Secret Technique #3: "Surrender"
+Also known as the "Ultimate 'Oh well' Spirit." Especially effective for perfectionists. You don’t have to be perfect in every aspect of life to be happy. In fact, trying to be perfect can make happiness more distant.
+
+Let go of the beliefs like "I must live this way" or "I can't be happy unless I achieve this." Whenever you feel troubled, handle it with "Oh well." Say goodbye to attachment and also to suffering.
+
+Letting go is not a bad thing. It’s not weakness. In fact, by letting go, you become stronger. Be courageous and let go.
+
+Recommended article 👉 [The Magic of the Words 'Oh well'](https://note.com/noraworld/n/nde95d094eccb)
+
+
+
+
+
+## Secret Technique #4: "Transcendence"
+This is also effective for perfectionists or those with a strong sense of responsibility. When you witness overwhelming mountains or huge events (concerts, live performances), you realize that your everyday obsessions are so trivial.
+
+It doesn’t have to be something as grand as "nature or major events." You can find transcendence in small, everyday things. Even looking at a tree in the local park and thinking "This tree has lived far longer than me and has overcome many hardships" is effective.
+
+If you can’t visit nature or events directly, watching YouTube for a virtual experience is also effective.
+
+
+
+
+
+## Secret Technique #5: "Observation"
+Instead of stopping negative feelings or unpleasant thoughts, observe them. Think of feelings and thoughts as movies you’re watching in your head. "Oh, there’s another sad movie playing in my mind," and view it objectively.
+
+You can even narrate the movie. "I see, the protagonist (your brain) is feeling anger. Where does the anger come from? Ah, it's from a casual comment by a friend. Why feel anger? Oh, because you feel you need to work hard to survive, but the friend is financially fortunate and doesn't need to work hard, which feels unfair."
+
+This technique is powerful but tricky. If you let your guard down, you’ll be overwhelmed by waves of thought and knocked out before you know it.
+
+Therefore, try this technique when you’re calm with some leisure. If the opponent leaves no opening, use Secret Technique #1: "Stop" to find an opportunity.
 
 Recommended reading 👉 [Nothing (The Ultimate State)](https://www.amazon.co.jp/dp/B099DDJSL9)
 
@@ -100,15 +101,15 @@ Recommended reading 👉 [Nothing (The Ultimate State)](https://www.amazon.co.jp
 
 
 
-## Ultimate Technique: 'Egolessness'
-In your life, 'you' (as a consciousness) is merely an observer. No matter what happens to you, it's only a story in the movie.
+## Ultimate Technique: "No-self"
+Throughout your life, “you” (the consciousness) are just an audience. No matter what happens, it’s just a story within the movie.
 
-Whatever pain your body feels, and if it results in your body not bearing it and you scream, the true 'you' remains untouched. Whatever kind of fear or sadness your brain imagines, the true 'you' is unaffected.
+No matter what pain your body feels, and as a result, your body cries from the pain, your true "self" remains unscarred. No matter what scary or unpleasant thoughts or sad feelings your brain imagines, your real "you" remains unaffected.
 
-Many humans struggle and feel unhappy about what happens to them because 'you' identify with your body (including your brain). No matter how tragic a life the main character in a movie has, unless you empathize with them, 'you' won't become unhappy.
+But if so, why do many people feel suffering or happiness based on their body’s cries or life events? It’s because "you" merge with your body (including the brain). No matter how disastrous a life story the movie's hero has, unless you empathize with it, "you" won’t feel sadness.
 
-Originally, the body, including the brain, and 'you' are separate. When you truly feel this, pain and unhappiness won't affect 'you' anymore.
+In truth, the body, including the brain, and the "true you" are separate entities. If you can deeply realize this, you won’t feel pain or sadness.
 
-Reaching this isn't something that happens overnight. But by using the 5 secret techniques mentioned above, you can gradually experience this feeling. Over time, 'you' will become your true self and won't be swayed by whatever happens in your life.
+Achieving this might not be overnight. But using the 5 techniques introduced before, you can gradually experience the feeling. Keep practicing them, and one day "you" will become your true self, not swayed by whatever happens.
 
-Recommended reading 👉 [The Strongest Philosophy Guide Ever: Eastern Thinkers](https://www.amazon.co.jp/dp/B01MFARX1A)
+Recommended reading 👉 [History's Strongest Philosophy Introduction: The Eastern Philosophers](https://www.amazon.co.jp/dp/B01MFARX1A)
