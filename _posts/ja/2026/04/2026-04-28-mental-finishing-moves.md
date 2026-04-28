@@ -5,7 +5,8 @@ author: [
   "noraworld"
 ]
 description: "ChatGPT に作ってもらったサムネのインパクトすげえな。過去一の出来だと思う。"
-image: "https://noraworld.github.io/box-venusaur/2026/04/28/344965c079ee9b73661069c07d0b4516.png"
+# image: "https://noraworld.github.io/box-venusaur/2026/04/28/344965c079ee9b73661069c07d0b4516.png"
+image: "https://noraworld.github.io/box-venusaur/2026/04/28/3ad4b28719db731c2307a3d7f33a8586.png"
 date: 2026-04-28 20:20:00 +09:00
 tags: [
   "philosophy",
@@ -15,7 +16,7 @@ references: [
   "https://chatgpt.com/share/69f0acf7-89a0-83aa-a700-2cea5709c4e1"
 ]
 published: true
-note_published: true
+note_published: false
 note_id: 157832301
 ---
 
