@@ -15,7 +15,8 @@ references: [
   "https://chatgpt.com/share/69f08da6-cdcc-83a7-a174-0299d65e3ec7"
 ]
 published: true
-note_published: false
+note_published: true
+note_id: 157813953
 ---
 
 妄想は甘い蜜の味がする。そしてそれは、底の見えない巨大な壺の中に満たされ、一生かけても食べ尽くすこと叶わず。
