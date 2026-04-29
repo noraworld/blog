@@ -23,7 +23,8 @@ references: [
   "https://chatgpt.com/share/69f21320-d574-83aa-a6cb-285c04fdf86c"
 ]
 published: true
-note_published: false
+note_published: true
+note_id: 158001005
 ---
 
 ## マッチングアプリを久しぶりに再開したのだが……
