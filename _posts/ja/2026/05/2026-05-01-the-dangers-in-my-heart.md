@@ -14,7 +14,8 @@ references: [
   "https://chatgpt.com/share/69f381db-cd98-83a9-8a27-243af3d14d6b"
 ]
 published: true
-note_published: false
+note_published: true
+note_id: 158166360
 ---
 
 ## 心のヤバイやつ
