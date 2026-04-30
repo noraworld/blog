@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SoftBank 光で混雑時にも 100 Mbps の通信速度を安定して出す方法 (SoftBank 回線未契約者対象)"
+title: "【旧情報】SoftBank 光で混雑時にも 100 Mbps の通信速度を安定して出す方法（SoftBank 回線未契約者対象）"
 author: [
   "noraworld"
 ]
@@ -8,6 +8,7 @@ description: "下書きとして放置されていて、いつ書いたのかも
 image: "https://noraworld.github.io/box-venusaur/2026/04/30/7c343d47cdbd763705aa7021a627952f.png"
 date: 2026-05-01 06:00:00 +09:00
 tags: [
+  "stale",
   "service"
 ]
 references: [
