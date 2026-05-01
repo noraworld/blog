@@ -15,7 +15,8 @@ references: [
   "https://chatgpt.com/share/69f4ef52-fddc-83a7-89fd-3235d90ec0fc"
 ]
 published: true
-note_published: false
+note_published: true
+note_id: 158328657
 ---
 
 <!-- ※ タイトルの意味を理解する前に、とりあえず読み進めてほしい。
