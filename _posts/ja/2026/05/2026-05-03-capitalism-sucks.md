@@ -14,7 +14,8 @@ references: [
   "https://chatgpt.com/share/69f67a4e-60a4-83aa-80ab-5c04878b7a7c"
 ]
 published: true
-note_published: false
+note_published: true
+note_id: 158487951
 ---
 
 ## 資本主義は努力や苦労を反映するとは限らない
