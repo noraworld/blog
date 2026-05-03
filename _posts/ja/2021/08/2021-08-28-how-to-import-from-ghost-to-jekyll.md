@@ -1,3 +1,23 @@
+---
+layout: post
+title: "How to import your blog from Ghost to Jekyll"
+author: [
+  "noraworld"
+]
+# description: ""
+# image: ""
+date: 2021-08-28 00:00:00 +09:00
+tags: [
+  "how-to"
+]
+# references: [
+#   ""
+# ]
+published: false
+note_disabled: true
+translation: false
+---
+
 # About this directory
 You can add backup files like database or JSON, but you should not track them on Git because they may contain the credential information. All files in this directory will not be tracked except this README.
 
