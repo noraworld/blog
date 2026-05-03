@@ -18,6 +18,12 @@ note_disabled: true
 translation: false
 ---
 
+⚠️ **This post was originally written as a README. The migration from Ghost to Jekyll has already been completed, so the information is now outdated. While it could have been deleted, it has been preserved in the blog post directory for archival purposes. This post is not publicly available.**
+
+
+
+
+
 # About this directory
 You can add backup files like database or JSON, but you should not track them on Git because they may contain the credential information. All files in this directory will not be tracked except this README.
 
