@@ -10,9 +10,9 @@ date: 2021-08-28 00:00:00 +09:00
 tags: [
   "how-to"
 ]
-# references: [
-#   ""
-# ]
+references: [
+  "https://chatgpt.com/share/69f6acc9-f8e8-83ab-85cb-68e2b4f15637"
+]
 published: false
 note_disabled: true
 translation: false
