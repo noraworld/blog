@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【旧情報】SoftBank 光で混雑時にも 100 Mbps の通信速度を安定して出す方法（SoftBank 回線未契約者対象）"
+title: "【蔵出し】SoftBank 光で混雑時にも 100 Mbps の通信速度を安定して出す方法（SoftBank 回線未契約者対象）"
 author: [
   "noraworld"
 ]
@@ -12,7 +12,8 @@ tags: [
   "service"
 ]
 references: [
-  "https://chatgpt.com/share/69f3c0ac-cd88-83a4-b10d-d2b5bdfa889b"
+  "https://chatgpt.com/share/69f3c0ac-cd88-83a4-b10d-d2b5bdfa889b",
+  "https://chatgpt.com/share/69f82c30-b054-83a7-a8da-8c4885747d80"
 ]
 published: true
 note_disabled: true
