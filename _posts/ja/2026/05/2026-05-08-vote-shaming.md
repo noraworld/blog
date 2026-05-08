@@ -14,7 +14,8 @@ references: [
   "https://chatgpt.com/share/69fd409d-a7ec-83a7-a464-5b830bf8eb9d"
 ]
 published: true
-note_published: false
+note_published: true
+note_id: 159279788
 ---
 
 ## はじめに
