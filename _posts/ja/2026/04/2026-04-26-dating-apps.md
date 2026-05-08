@@ -11,6 +11,9 @@ date: 2026-04-26 00:00:00 +09:00
 tags: [
   "notes"
 ]
+references: [
+  "https://chatgpt.com/share/69fd9348-1800-83a2-82af-a3a9ac457bba"
+]
 published: true
 note_disabled: true
 translation: false
