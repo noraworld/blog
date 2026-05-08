@@ -1,5 +1,4 @@
 ---
-# https://chatgpt.com/share/69ed1c3e-4284-83a7-a232-54af5e8e45ac
 layout: post
 title: "マッチングアプリ プロフィールテキスト"
 author: [
@@ -12,6 +11,7 @@ tags: [
   "notes"
 ]
 references: [
+  "https://chatgpt.com/share/69ed1c3e-4284-83a7-a232-54af5e8e45ac",
   "https://chatgpt.com/share/69fd9348-1800-83a2-82af-a3a9ac457bba"
 ]
 published: true
