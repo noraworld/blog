@@ -16,7 +16,8 @@ references: [
   "https://chatgpt.com/share/69fec653-6118-83a2-86e8-adb2f21f8542"
 ]
 published: true
-note_published: false
+note_published: true
+note_id: 159465905
 ---
 
 👈 『[この世界はぼくの妄想で、ぼく独りだけなのかも……](https://note.com/noraworld/n/nc203726fec6d)』の続き。別に読まなくていいよ。
