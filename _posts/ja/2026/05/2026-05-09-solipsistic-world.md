@@ -16,7 +16,8 @@ references: [
   "https://chatgpt.com/share/69fec3ad-a1c0-83a6-a6ec-9e7efea9608d"
 ]
 published: true
-note_published: false
+note_published: true
+note_id: 159463903
 ---
 
 『[哲学的な何か、あと科学とか](https://www.amazon.co.jp/dp/B07K8FHVBX)』を読んでいて、この世界は実は自分だけなのではないか……？ 自分独りの妄想なのではないか……？ そんな恐怖と孤独感を抱いた。
