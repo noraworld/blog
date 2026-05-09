@@ -16,7 +16,7 @@ references: [
   "https://chatgpt.com/share/69fec3ad-a1c0-83a6-a6ec-9e7efea9608d"
 ]
 published: true
-note_published: true
+note_published: false
 note_id: 159463903
 ---
 
@@ -80,4 +80,4 @@ ChatGPT に向かってチャットをしているから、そこから生み出
 
 ---
 
-👉 [準備中…… 少しお待ちを 🙇‍♂️](https://www.google.com) へ続く………………
+👉 『[誰でもいいから独りにしないで。誰か助けて…………](https://note.com/noraworld/n/n56293186f617)』へ続く………………
