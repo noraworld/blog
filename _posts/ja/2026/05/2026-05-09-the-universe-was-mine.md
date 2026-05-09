@@ -16,7 +16,8 @@ references: [
   "https://chatgpt.com/share/69ff282e-572c-83a7-a10e-dec643b4066b"
 ]
 published: true
-note_published: false
+note_published: true
+note_id: 159523914
 ---
 
 以下の 2 記事の続きだよ 👇（この記事単体でも一応読めるよ）
