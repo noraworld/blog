@@ -17,7 +17,8 @@ references: [
   "https://chatgpt.com/share/6a021f47-4460-83a8-8e3a-c8a0a4089189"
 ]
 published: true
-note_published: false
+note_published: true
+note_id: 159874575
 ---
 
 ## 自分で自分に幻術をかける
