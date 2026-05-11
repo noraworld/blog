@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This World is an Illusion. We're Just Given a False Life. But Still, Believing Otherwise is What It Means to 'Live'."
+title: "This World is an Illusion. We're Just Given a Fake Life. Even If That's True, Believing Otherwise is What It Means to 'Live'."
 author: [
   "noraworld"
 ]
@@ -19,63 +19,67 @@ note_published: true
 note_id: 159828345
 ---
 
-## Maybe You're Not Sick Until a Doctor Says So
-I wrote something like this on social media:
+## You Might Not Be Sick Until the Doctor Tells You So
+I was writing this on social media:
 
-> There's a chance you're not sick until a doctor says, "You're sick." You might think, "No way, that's stupid lol," but when you learn about quantum mechanics (it's science!), it doesn't sound so crazy. That doesn't mean I'm saying "You'll never get sick if you avoid hospitals" or "Don't go to the doctor!" If you have symptoms, you should go to get better, but constantly thinking "I might have an unknown sickness" is like a mental illness itself. If there's a chance you're not sick until you're told, worrying too much about being sick is actually more of an illness. [[1]](https://misskey.io/notes/am47r7buzvza0150)
+> Until you go to the hospital and are told "You are sick," you might actually not be sick. "That's ridiculous, what nonsense, right?" you might think, but as you learn about quantum mechanics (yes, science!!!), you start to feel like maybe it's not such nonsense. But I'm not saying, "If you don't go to the hospital, you'll never get sick" or "Don't go to the doctor!" If you have symptoms, you should see a doctor to treat them, but constantly thinking "There might be an illness I'm not aware of" is a disease of thought itself. If you're not sick until you're told you are, worrying excessively about sickness is more of an illness. [[1]](https://misskey.io/notes/am47r7buzvza0150)
+
+> More scientifically, the placebo effect proves this: there's no medical effect, but if a doctor says "This is medicine to cure your illness" and gives you a capsule with nothing effective, it still eases symptoms. Thinking "This might be a placebo, but if I believe it's effective, it will work because science says belief makes it work" is like not believing at all.
 >
-> Scientifically, this can be proven by the placebo effect, where you take a capsule with no medical effect, but since a doctor told you it's medicine for your disease, your symptoms improve. However, if you think, "This might be a placebo (a capsule with no medical effect), but it's scientifically proven that if I believe it, it'll work, so I will," that's the same as not believing at all.
->
-> So ultimately, this world we call reality is just a dream that the awareness called 'I' is seeing. There's no way to scientifically prove this, but if we can really convince ourselves, that's probably when we can finally free ourselves from all the suffering, worries, and pain of life and reach Nirvana. [[2]](https://misskey.io/notes/am484uq4t4jy0bca)
->
-> Just before you really start believing in this, you might discover that "This world is actually a dream I'm seeing" or "This world is only you (other people are just illusions your brain believes have consciousness and emotions like you do)." This could lead to intense fear, anxiety, and loneliness, but hang in there. Beyond that is enlightenment, a world with no suffering or worries. [[3]](https://misskey.io/notes/am48aq2glvm4003b)
->
-> I've realized this universe is me and a dream I'm seeing, and only I exist, but thanks to everyone being here, I can dream that I'm not alone and find happiness. Everyone being here makes me happy. Thank you for always being there 🥰[[4]](https://misskey.io/notes/am48f6th0x4z02bx)
->
-> You probably think, "What nonsense", "What unscientific drivel", "What gibberish", "This person has lost it", right? Because you're resisting and don't want to accept it, attaining enlightenment seems hard, and life remains tough!! Believing others have consciousness like you, thinking knowledge is fact even if you aren't seeing it, believing science only speaks truth, and finding life hard, thinking enlightenment is hard because of all these are just assumptions!!! Just admit it. It'll make things easier. [[5]](https://misskey.io/notes/am48loj18h2v04fb)
->
-> "You must be kind to others" is an assumption, and if you let go of such assumptions, become selfless, people will naturally be kind, which is the correct way to understand it. But thinking that's the "correct interpretation" is also an assumption, and thinking it's an assumption is another assumption…… (and so on) [[6]](https://misskey.io/notes/am49cbek6hu908vl)
->
-> In the end, if you stop thinking about anything, life naturally goes well, but "trying not to think" is the same as thinking, so thoughts and desires naturally emerge. Trying to eliminate them is the same as amplifying them. So, when thoughts or desires (such as seeking approval) arise, you have no choice but to practice perceiving them as "a dream that an organ called the brain is seeing" (because that’s all I can think of for now) although it would be great to have a better way.[[7]](https://misskey.io/notes/am49i0f5kd9s00nh)
->
-> And as long as you're doing philosophy like this, you're still caught up in thoughts like "If I do this, things will go well," so you're not really happy in the true sense. It's like being caught in the trap of "not being caught by assumptions." Therefore, the moments when you're not even practicing self-awareness are probably the most blissful.[[8]](https://misskey.io/notes/am49lvoc8h2v066g)
->
-> If you keep denying reality as all assumptions, dreams, and fantasies, you start feeling light, like your soul is leaving your body. Reaching that extreme allows your spirit to move toward paradise while keeping the body alive. I can’t confirm as I haven’t experienced it, but it kind of feels that way. [[9]](https://misskey.io/notes/am49ssj91lqd00ke)
+> Ultimately, this reality we call "the world" is just a dream the consciousness called "me" is seeing, and it's impossible to scientifically prove it, but once you believe it, you can finally free yourself from all life's suffering, troubles, hardship, and reach Nirvana. [[2]](https://misskey.io/notes/am484uq4t4jy0bca)
 
-I wrote all of this on social media, and then I suddenly realized something.
+> By the way, just before you truly believe that, you might realize "This world is actually my dream" or "This world is just you alone," and get crushed by unbelievable fear, anxiety, and loneliness. But, well, hang in there. Enlightenment (a world without suffering) awaits beyond that. [[3]](https://misskey.io/notes/am48aq2glvm4003b)
 
-## Reaching Enlightenment Basically Means...
-However, even writing all this, I'm still scared of massive earthquakes. I fear being crushed by buildings, feeling unbearable pain, and suffering before dying. While I might convince myself by thinking, "That's just an assumption because [my consciousness is the universe itself](https://note.com/noraworld/n/n6ca57410bdc8), so feeling this fear is just a mischievous act by my consciousness (this universe)," it’s only calming for a moment before the fear returns.
+> I've realized this universe is me, my dream, and I'm the only one, but still, thanks to everyone being here, I can dream that I'm not alone and find happiness. Thanks for being here, everyone 🥰 [[4]](https://misskey.io/notes/am48f6th0x4z02bx)
 
-Despite this, if I believe in Buddhist and Taoist philosophies and keep objectively viewing the brain's imagination as creating this fear, I thought the fear would eventually vanish, and if it emerged again, it would easily disappear by returning my awareness to the present moment.
+> "What nonsense," "How unscientific," "What gibberish," "This guy's gone crazy," you think, right? Because you resist saying, "I don't want to admit this!" you don't open your mind to it, making enlightenment seem difficult and life remains hard!! Assuming others have the same consciousness, that knowledge is fact even if unseen, believing science tells only the truth, thinking life's tough, believing enlightenment's out of reach—all of it, just beliefs!!! Admit it, and feel free. [[5]](https://misskey.io/notes/am48loj18h2v04fb)
 
-So, within this dream called the real world, I thought it was possible to send the spirit towards a paradise with no suffering while keeping 'this body' alive. I could truly feel that from the words of Buddha, Nagarjuna, and Shinran, even though they used different terms.
+> "You must be kind to people" is a belief; if you drop all these beliefs and become selfless, people will naturally be kind. But thinking that's "the right interpretation" is a belief, too, and realizing it's a belief... (and so on). [[6]](https://misskey.io/notes/am49cbek6hu908vl)
 
-But wait a minute... What if that's also just an assumption...? If this universe is my consciousness, and what I perceive as reality is a dream I'm seeing, isn't it possible that even the historical records, like ancient philosophers (great figures) saying things like this, are just illusions created by my brain? Could it be that beyond overcoming such fears and loneliness lies Nirvana (the state of enlightenment), and that statement is a metaphor for reaching there by overcoming a mental death? Or is it literally saying that by truly dying, you can arrive there...? That thought terrified and completely paralyzed 'this body.'
+> In the end, if you stop thinking, life will go well naturally. But trying not to think is the same as thinking, and delusions pop in from nowhere and more appear if you try to erase them. When delusions or desires (like approval) arise, practice seeing it as "just a dream your brain is having." There's no better way for now, though I wish there was. [[7]](https://misskey.io/notes/am49i0f5kd9s00nh)
 
-Because if you think, "If you must die to truly reach a world free of all suffering, how did those ancient philosophers write about it? How did that information reach future generations (the present)?" ...perhaps it's only a brain convinced that history exists that way. Maybe the fact that people can share this information is also an illusion created by the universe.
+> While philosophizing like this, I'm caught in thoughts like "I'll do well if I do this," so I'm probably not truly happy even then. It's like getting caught up in "not getting caught up in beliefs." So, the moment when you're even beyond meta-awareness might be the most joyful. [[8]](https://misskey.io/notes/am49lvoc8h2v066g)
 
-After all, even now, the fear of earthquakes suddenly surfaces, and every time it does, I said, "As you deny reality as all illusions, dreams, fantasies, you start feeling light as if your soul is leaving your body," but what's beyond mastering this? Nobody ever mentioned what happens when you completely master it!! Could mastering it mean completely acknowledging everything as assumptions leads to the universe (the consciousness called 'I') collapsing and actually dying (not just in a spiritual sense)? Could this be the true meaning of "reaching ultimate peace"?
+> As I keep denying reality by thinking everything's a belief, dream, or delusion, it feels like floating out of my body, but maybe at the ultimate extreme, you can send just your spirit to the pure land, leaving your body here. I haven't reached that point, so I don't know, but that's how it feels. [[9]](https://misskey.io/notes/am49ssj91lqd00ke)
 
-So, thinking like that raised the question, is reaching ultimate happiness and being free from all suffering only possible through literal death? Is there no escape from this fear without dying...? This thought immobilized 'this body' with terror. It wasn't hitting 'rock bottom' of fear; there was no 'bottom.' It was infinite falling into fear.
+I posted all this on social media and realized something.
 
-### Experiencing Disappearing Self
-In reality, I’ve somewhat 'experienced' this. About 1-2 weeks ago, while meditating (open monitoring) for nearly an hour, my fantasies stopped coming, desires vanished, thoughts and emotions disappeared, and I gradually lost the sense of my body. Eventually, I also stopped feeling "I (this body) is here."
 
-However, one thing remained in the end: the sense of breathing—feeling air moving through the nostrils, lungs expanding and collapsing. As long as I was breathing, I couldn’t erase this sense of existence. There was only one way to possibly erase even this: by stopping my breath.
 
-But, as everyone knows, if you keep holding your breath, you'll die. So without even having to think about it, I just knew, "No way lol," and decided not to stop breathing.
+## Realizing Enlightenment is Like... 
+But, wait. Even writing that, I'm still afraid of a huge earthquake. I'm scared of being crushed by buildings, feeling unbearable pain and dying. It helps momentarily to think, "That's just a belief because [this universe is the consciousness called 'me'](https://note.com/noraworld/n/n6ca57410bdc8) and fear is a trick of 'me,'" but the fear returns quickly.
 
-### Contradicting Myself
-But you know, that ultimate state is like that, right? To be free from all thoughts, emotions, passions, and fantasies means that, right? Oh, then maybe you can't reach this state without dying... Did Buddhism and Taoism ultimately mean that you can only reach ultimate peace and happiness by literally dying...? Perhaps, was "wanting to live" an attachment...??? Do you mean you must let go of even that to gain true and ultimate happiness…?
+But by trusting these Buddhist or Daoist teachings and observing that "my brain is imagining these fears," constantly returning my consciousness to the present moment, I thought eventually this fear would ease and I'd dismiss new fears quickly.
 
-"No, no, no, that's a lie! That can't be!!"
+I convinced myself that within this dream called reality, it's possible to send my spirit to a paradise free of suffering while keeping 'this body' alive. Because that's what Buddha, Nagarjuna, and Shinran said, and I could truly feel it.
 
-Oh? But by denying it like that, I’m doing the exact thing I said, "What nonsense", "What unscientific", "What gibberish", "This person has lost it"? Didn't I just do the thing I said I wouldn't do...?
+But... hold on, could that just be belief, too? If this universe is purely the consciousness of 'me' and what I thought was reality is actually a dream of 'me,' then the historical records of philosophers saying this are just illusions my brain creates, making me believe they are true... What if surpassing the fear and loneliness is not metaphorically reaching enlightenment but literally meaning you have to die to reach it? Then 'this body (brain)' fell into fear.
 
-Eh, eh, eh, eh, eh, eh, eh, eh, eh, eh, eh, eh, eh, eh, eh, eh, eh, eh......? Do you really have to die...? Ultimately, do you really have to die...?
+"How did ancient philosophers write it down and how did such facts reach modern times if genuinely dying is the only way for ultimate peace?" you wonder. But if this universe is 'me,' then having such history and believing it true might be just a brain trick. Others sharing the same information could be an illusion created by this universe.
 
-<!-- The following lines contain full-width spaces -->
+But still, the fear of earthquakes suddenly arises, and whenever it does, I recall that I said, "Reject reality as beliefs, dreams, delusions and feel your soul floating out." When taken to the limit, what happens? Nobody commented on that!! Maybe fully mastering it by admitting everything is a belief means this universe ('me') collapses and genuinely dies (not mental death)! Perhaps that's "reaching ultimate peace."
+
+Then I thought, wait, the only way to release from all suffering could be literal death for ultimate happiness... Do we need to die to escape this fear...? But then 'this body' completely froze in fear. It wasn't that 'the bottom' had dropped out—I was experiencing endless falling fear.
+
+### Experiencing Self-Disappearance
+I had a taste of this 'experience.' A week or two ago, during meditation (open monitoring) for an hour, I lost all delusions, desires, emotions, and thoughts, and gradually lost physical sensation. I felt "I (this body) am here" disappear.
+
+But one last thing remained: the sensation of breathing. The feeling of air through the nostrils, the lungs expanding and contracting. It couldn't be erased while breathing. But I found one way to erase even that: "stop breathing."
+
+But you know, if anyone stops breathing long enough, they'll die. Wait, if erasing these sensations completely means death, I couldn't do that anymore.
+
+### Contradiction
+But really, reaching the ultimate state means that, right? Freeing from all thoughts, emotions, desires, delusions – that's what it means, right? Wait, do you actually have to die to reach that state? Do Buddhist or Daoist teachings mean you only reach ultimate peace/happiness by dying?
+
+Do, do, do I have to let go of "wanting to live" because that's attachment...? Isn’t that the real truth...?
+
+"No, no, no, no, that can't be!!!"
+
+Oh? But thinking like that means I'm doing the very thing I said, "It's hard to reach enlightenment because we resist accepting 'what nonsense, unscientific talk, gibberish!' So life stays hard!!" I'm doing what I said, aren't I...?
+
+Ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh, ehh……?! Do I have to die? Really, truly, do I have to die……? Uh, uh, uh, uh, uh, uh, uh, uh……??
+
+<!-- Here's a line with a full-width space -->
 　
 
 　
@@ -115,18 +119,26 @@ Eh, eh, eh, eh, eh, eh, eh, eh, eh, eh, eh, eh, eh, eh, eh, eh, eh, eh......? Do
 　
 
 　
-<!-- End of full-width space lines -->
+<!-- End of line with full-width space -->
 
-……Hmm? But if everything is an assumption, then even amidst this panic, isn't there an assumption somewhere...? Why didn't I doubt the assumption that "You can't be truly free from suffering without dying, and you can't attain ultimate peace and happiness"? After all, isn't it possible this too is an assumption? Huh?????
+……………… Huh? But if all is belief, there must be a belief somewhere in this panic, right? "You have to die to truly release from suffering or to obtain ultimate peace and happiness," why didn't I doubt that...?! Is this a belief too...? Hmmmmmmmm?????
 
-## Transitioned into Eternal Ignorance
-In the end, choosing what 'assumptions' to believe, knowing they are assumptions, may be what it means to live within this assumption called the real world. Living in the assumption named the real world might only exist by believing the assumptions we want to believe.
 
-Well, as long as you live naturally until you die, living within that assumption is fine. When fear, anxiety, or anger arises, if thinking, "Isn't that an assumption (a brain's fantasy)?" makes the emotion disappear and temporarily eases things, and although **such fears will never truly disappear as long as you're alive**, if you still want to enjoy this life, which has its fun parts too, until you naturally die, then even if the assumption is just an assumption, you might as well assume. Even if it's a false life, maybe there's no point in despairing over it.
 
-For now, I just want to have a fun chat with someone. I want to love someone, make love with someone. That's all it became. What is this truth that leads to no lessons!!! Laugh!
+## Forever Unknowing
+Ultimately, maybe living in this thought-called reality means knowing the beliefs and still choosing to believe. To 'live' in this thought-called reality might mean choosing to believe the beliefs you want.
 
-<!-- The following lines contain full-width spaces -->
+Maybe it's okay just to live naturally in that belief bubble until you die. If fear, anxiety, or anger arises, thinking "that's just believe (brain imagination)" makes the emotion fade and feel easier for a while, so **this fear will never completely fade while alive** but if you want to enjoy life, including the good times, until you naturally die (want to 'live' to paradise), even if it's belief, then believe it. If life is fake, despairing over that has no meaning.
+
+> I never imagined I'd been living a false life until I stood before that crystal
+
+_[BUSIN Wizardry Alternative](https://ja.wikipedia.org/wiki/BUSIN_Wizardry_Alternative) - White-haired swordsman's line_
+
+<!-- https://www.nicovideo.jp/watch/sm24869961?from=533 -->
+
+For now, I want to chat happily with someone. I want to love, to love and have sex. That's all there is to it. What is this useless truth!!! Lol.
+
+<!-- Here's a line with a full-width space -->
 　
 
 　
@@ -146,41 +158,65 @@ For now, I just want to have a fun chat with someone. I want to love someone, ma
 　
 
 　
-<!-- End of full-width space lines -->
 
-...Wait, but isn't this basically the same as not understanding anything!!! Isn’t this the same as the common interpretation of the real world!!!!!!
+　
 
-Well, that kind of desires (wanting to chat, love, have sex) are also assumptions, thinking it's the truth is just one assumption, and... (and if you philosophize about this further, this thought will continue infinitely... It's pointless to keep thinking about it!!!!!)
+　
 
-## Choose and Believe in What You Want to Believe
-Anyway, until your natural death, you don't need to think about anything. You can't prevent eventually dying, and in my interpretation, that's paradise. Well, that too is an assumption, and maybe an everlasting hell awaits, but essentially, that's being afraid of dying. You don’t know, so the more you think, the more the fear grows.
+　
 
-Therefore, don't think about anything, really. Believe in what makes you feel at ease or happy. Assumptions that there are painful emotions like anger and fear, or thinking "If I do this, my future might be affected..." are assumptions you should process as assumptions (then they'll disappear and make you feel better, letting you do what you want freely). Also, you can believe the assumption that you can't attain ultimate peace without truly dying. Just conveniently believe it.
+　
 
-Because, if you declare all assumptions as assumptions, you'll only escape the chain of assumptions by dying. That's too terrifying and absolutely unbearable. If truly, only by dying, one can truly reach a state with no suffering (peace), then... that, that, that……
+　
 
-Fearing death or dying a painful death and thinking that's an assumption doesn't mean you can't escape **the thoughts of this fear as long as you're alive**, which means you genuinely can't escape fear unless you die. You fear death...
+　
 
-You need to escape this endless loop somewhere. Even if this life is an assumption (a dream of living in such a universe), and although maybe only by dying can you escape all suffering, still, even so...! "No, it’s not!!" you have to believe, or you can't live. Because thinking about it deepens the infinite fear.
+　
 
-So, conveniently, assume what you wish to assume. Only assume the assumptions you want to believe. That's what it means to live this assumption called the real world. Resisting it leads to feeling the endless fear of falling into a bottomless pit. Applying Eastern philosophies (Buddhism and Taoism) too literally leads in the opposite direction from their teachings. In that sense, even those teachings were assumptions.
+　
 
-For now, let's keep the assumption that we're living (it's all just a dream of this universe).
+　
 
-Philosophy is truly a deep abyss. Well, the existence of philosophy is also an assumption, though. And the idea of having such assumptions is also an assumption still... and so on.
+　
+<!-- End of line with full-width space -->
 
-By the way, you might have noticed that when I wrote, "**such fears will never truly disappear as long as you're alive**" or "**you can't escape the thoughts of this fear as long as you're alive**", perhaps even those are assumptions…!!! (You’d like there to be hope at the end, right? Let’s conveniently assume so!)
+……………………………… In the end, isn't this the same as understanding nothing!!!! It's just the same as the general interpretation of reality!!!!!!!!
+
+Well, having longings (wanting to chat, love, and have sex) is a belief, but it's one belief... (if you philosophize about it endlessly, this thought chain never ends... There's no point MuudaMuudaMuudaMuudaMuudaMuuda—!!)
+
+
+
+## Choose and Believe in the Beliefs You Want
+Anyway, until you naturally die, you don't have to think about anything. You can't prevent eventual death and in my interpretation, it's paradise after death. Even if that's belief, that there's an endless hell waiting, well, that's inherently the same as fearing death and the more you think, the more fear increases.
+
+So, don't think about anything, seriously, lol. Choose the beliefs that make you feel better and happier. When miserable feelings like anger or fear arise or you have thoughts of "What if this?" just handle them as beliefs (they'll fade, easing you, and you can do what you want). And keeping the belief that only death brings ultimate peace is okay. Just conveniently believe what works for you.
+
+Because if you see every belief as a belief, you can only escape the chain of beliefs by dying. That's hellish! Terribly scary! Saying only death truly liberates suffering... that's, that's, that's...!
+
+Even if you think "I'm scared of dying or suffering immensely at death" is a belief, **you can't escape the reality of imagining fearful scenarios**, which means you can't escape fear until you die, meaning to stop feeling fear truly, you have to die, but dying is terrifying, so…
+
+You need to break this infinite loop. Even if life is belief (that living in this universe might be a dream), dying might be the only escape from all suffering but even if that's true...! Telling yourself "That's not it!!" is necessary to live. Because thinking about it infinitely deepens fear! Ironically, you'd be contradicting the very teachings of Buddhism and Daoism.
+
+So, just conveniently believe. Believe only the beliefs you want. That's what it means to live in this thought-called reality. Resisting that invites the fear of endlessly falling into a bottomless pit. Applying the teachings of Eastern philosophy takes you in the opposite direction of their teachings in practice. Meaning, even those teachings were just beliefs.
+
+For now, keep the belief that you're 'alive' (a dream of this universe) as it is.
+
+Philosophy is truly profound. Well, that there's philosophy itself is a belief, you know. And believing there are such beliefs is another belief, you know. (And so on.)
+
+By the way, did you notice? I wrote "**even while alive, fear can't completely disappear**" and "**you can't escape imagining fearful scenarios**" but maybe that's just a belief too...!!! (I wanted this to end on a hopeful note, you know? Let's choose to believe conveniently!)
+
+
 
 ## Applying Philosophy to Science?
-By the way, if you apply this to science, it comes down to describing probabilistically whether everything is more likely to be human assumptions or not. Actually, science itself is such a study.
+By the way, applying this to science means describing in probability whether everything is likely mankind's belief or not. In fact, that's what science itself studies.
 
-Just because humanity has experienced or observed the phenomenon "if your body touches fire, you get burned" 10 billion times, it cannot prove it will happen 10 billion and one times. That's an assumption. However, probabilistically it's highly accurate, so unless there’s some particular reason, it's probably best not to do so. But if you have something you want to do regardless of the risk, go ahead. After all, the belief that something terrible will happen is also an "assumption."
+If humans experience or observe the phenomenon "contact with fire burns the body" 10 billion times, we can't prove it'll happen 10 billion and first times again. That's a belief. Statistically, it's highly likely, so wouldn't doing nothing be the same, particularly if you have no special reason otherwise. Yet if there’s something crucial you want risk-taking for, go for it. Because thinking something bad might happen is a belief too.
 
-Going further, even if something terrible does happen, the belief that you'll be unhappy because of it is also an "assumption." Therefore, everything lies within the possibilities of "assumptions." Who's to say that the 10 billion and first time won't result in no burn? That's the 'infinite possibility.' Whether you can truly believe it (assume it) determines whether you can enjoy this false life (the delusion called the real world).
+If ‘bad things’ believed might happen, actually happen, then feeling miserable is also a “belief.” Thus, everything is within the 'beliefs' realm. Perhaps the 10 billion and first time won’t burn you—it’s the 'infinite possibility.' Trusting that (or believing it) decides whether you can enjoy this fake life (called reality).
 
-⚠️ Oh, by the way, just to say, even if you didn't get burned the 10 billion and first time, it's like "So what?" so please don't imitate it lol. I can't take responsibility if you get burned, and even if you want to boast, "I didn't get burned the 10 billion and first time!" others might think, "Wasn't that a fluke? (Isn't something missing?)" or your brain imagines you want approval ("If that happens, won't it be a 'great discovery!' and I'll be glorified, maybe happy!?" the brain fantasizes), in either case. That's an assumption, and there's also the possibility you could truly genuinely become happy, but I won't take responsibility lol. The more freedom you have, the broader the scope of self-responsibility (Sartre's 'being condemned to freedom').
+⚠️ Oh—um, just to say it. If not burned the 10 billion and first time, "So what?" it’s neither here nor there, so don't try it at home, lol. I'm not responsible if you're burnt, and boasting "It didn't burn me the 10 billionth and first time!" gets disbelief as "Isn't it a coincidence?" or a brain delusion ("Maybe I'll become famous for 'amazing discovery!' and feel happy!" brain delusion of desire) and desire for approval as a belief bubbles you. That can—even that might truly bring happiness, but I take no responsibility, lol. The more freedom you have, the greater responsibility falls on you (Sartre's 'Punishment of Freedom').
 
 
 
 ## Side Note
-~~I was wondering if I should title this article 'I think, therefore I'm not,' but which would have been better? lol~~ I used it on the thumbnail.
+~~By the way, I pondered using "I think, therefore I'm not" for this article title. Which would have been better, hmm? lol~~ I put it in the thumbnail.
