@@ -15,7 +15,7 @@ references: [
   "https://chatgpt.com/share/6a01b4f0-d028-83a5-9e0f-54cf185fdf59"
 ]
 published: true
-note_published: false
+note_published: true
 note_id: 159828345
 ---
 
