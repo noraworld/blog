@@ -1,18 +1,16 @@
 ---
 layout: post
 title: ""
-author: [
-    "noraworld"
-]
+author:
+  - noraworld
 description: ""
-image: ""
+image:
 date: yyyy-MM-dd HH:mm:ss +09:00
-tags: [
-    ""
-]
-references: [
-    ""
-]
+tags:
+  # - thoughts
+references:
+  # - https://chatgpt.com/c/12345678-90ab-cdef-0123-456789abcdef
+  # - https://chatgpt.com/share/12345678-90ab-cdef-0123-456789abcdef
 published: true
 note_published: false
 ---
