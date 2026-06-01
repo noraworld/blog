@@ -49,6 +49,7 @@ translation: false
 * [諸行無常](https://misskey.io/notes/al545vjlocdv09h3)
 
 ### 🪷 アクセプタンス・ワードセラピー 🪷
+1 日に 1 回は「受容の精神」について述べた言葉や書物に触れる。
 
 | 名言 | 作者 |
 | --- | --- |
