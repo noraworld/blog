@@ -1,3 +1,21 @@
+---
+layout: post
+title: "個人的に泣ける作品一覧"
+author:
+  - noraworld
+description: "落ち込むことがあったときに見る"
+image: https://noraworld.github.io/box-venusaur/2026/06/01/f8645bda3b833da2a15721115ebc6641.png
+date: 2026-06-02 05:55:00 +09:00
+tags:
+  - notes
+references:
+  - https://chatgpt.com/c/6a1df024-b55c-83a9-b58d-2af34f39ba40
+  - https://chatgpt.com/share/6a1df2de-b724-83a8-8e27-5b1bf13dcd87
+published: true
+note_disabled: true
+translation: false
+---
+
 <details>
 <summary>【状況: 落ち込むことがあったとき】<b>感動的な泣ける作品一覧</b></summary>
 
