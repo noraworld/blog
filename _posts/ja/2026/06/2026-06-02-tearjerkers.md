@@ -16,8 +16,10 @@ note_disabled: true
 translation: false
 ---
 
-* [FINAL FANTASY X](https://www.youtube.com/watch?v=YvSOr3NPpTA)
-* 推しの子 (特に [シーズン 1 エピソード 1](https://www.amazon.co.jp/gp/video/detail/0Q91K7WKVN329Z9YX8OEU8GHC3/ref=atv_dp_btf_el_prime_sd_tv_resume_t1BTAAAAAA0wr0?autoplay=1&t=0))
-* [Yesterday Once More](https://music.youtube.com/watch?v=Aa9YmR8SdeA)
-* 国税局に財産を差し押さえられて人生がどうでもよくなり包丁を取り出しつかまる想像（2024 年 12 月 7 日）
-* Detroit: Become Human (カーラたちが助かるエンディングやアメリカ軍に囲まれマーカスが歌うエンディング)
+| 作品名 | シーン 1 |
+| --- | --- |
+| FINAL FANTASY X | [RTA - YouTube](https://www.youtube.com/watch?v=YvSOr3NPpTA) |
+| 【推しの子】 | [第 1 話 - Prime](https://www.amazon.co.jp/gp/video/detail/0Q91K7WKVN329Z9YX8OEU8GHC3/ref=atv_dp_btf_el_prime_sd_tv_resume_t1BTAAAAAA0wr0?autoplay=1&t=0) |
+| Yesterday Once More | [YouTube Music](https://music.youtube.com/watch?v=Aa9YmR8SdeA) |
+| 国税局に財産を差し押さえられて人生がどうでもよくなり包丁を取り出しつかまる想像 | [2024 年 12 月 7 日](https://github.com/noraworld/reserved-diary/blob/main/_posts/2024/12/2024-12-07-.md#%E4%BB%8A%E3%81%AE%E7%94%9F%E6%B4%BB%E3%81%8C%E7%B2%BE%E7%A5%9E%E7%9A%84%E3%81%AB%E8%8B%A6%E3%81%97%E3%81%8F%E3%81%A6%E6%B3%A3%E3%81%84%E3%81%A6%E3%81%84%E3%81%9F) |
+| Detroit: Become Human | カーラたちが助かるエンディングやアメリカ軍に囲まれマーカスが歌うエンディング |
