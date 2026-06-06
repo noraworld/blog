@@ -1,21 +1,18 @@
 ---
 layout: post
 title: "マイ・コーピング・レパートリー"
-author: [
-  "noraworld"
-]
+author:
+  - noraworld
 description: "ストレスクエストの回復アイテムリストのようなもの"
-image: "https://noraworld.github.io/box-venusaur/2026/05/31/252a9564fe267dccbc0b7d6bfb3fb187.png"
+image: https://noraworld.github.io/box-venusaur/2026/05/31/252a9564fe267dccbc0b7d6bfb3fb187.png
 date: 2026-05-31 23:30:00 +09:00
-tags: [
-  "notes"
-]
-references: [
-  "https://chatgpt.com/c/6a1c487a-e4fc-83a7-9849-e3331e3cf351",
-  "https://chatgpt.com/share/6a1c4c61-9718-83a7-b477-07e0abc6e2e0",
-  "https://chatgpt.com/c/6a1c4b14-6bbc-83a4-b246-db5818d96fb9",
-  "https://chatgpt.com/share/6a1c4c95-dc60-83a7-815e-d7ccb9a23868"
-]
+tags:
+  - notes
+references:
+  - https://chatgpt.com/c/6a1c487a-e4fc-83a7-9849-e3331e3cf351
+  - https://chatgpt.com/share/6a1c4c61-9718-83a7-b477-07e0abc6e2e0
+  - https://chatgpt.com/c/6a1c4b14-6bbc-83a4-b246-db5818d96fb9
+  - https://chatgpt.com/share/6a1c4c95-dc60-83a7-815e-d7ccb9a23868
 published: true
 note_disabled: true
 translation: false
