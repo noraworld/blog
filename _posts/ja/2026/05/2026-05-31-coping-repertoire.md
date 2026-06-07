@@ -60,7 +60,7 @@ translation: false
 | 🎶 | 自然音・環境音を聴く |
 | 🎶 | ヒーリング音（アルファ波など）を聴く |
 | 📖 | コーピングリストを眺める | 不安に苛まれたとき | 10 | 8 |
-| 📖 | [アクセプタンス・ワードセラピーを読む](https://noraworld.github.io/blog/obsessions) |
+| 📖 | [アクセプタンス・ワードセラピーを読む](https://noraworld.github.io/blog/acceptance-and-commitment-therapy) |
 | 📖 | パレオさんのブログを読む |
 | 📖 | リラックスできる本を読む | 焦りを感じたとき | 9 | 8 |
 | 📖 | 元気が出る本を読む | 焦りを感じたとき | 9 | 8 |
