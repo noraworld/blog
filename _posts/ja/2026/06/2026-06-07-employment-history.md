@@ -31,3 +31,5 @@ translation: false
 [^company3-start]: 9 月 1 日は日曜日なので厳密には 2 日から開始しているが便宜上 1 日ということにしている。
 [^company3-end]: 12 月 28 日以降は土日・年末で休みだったので厳密には 27 日まで。また、中途解約されたので 2025 年 1 月に関してはデータ削除以外での稼働はしていない。
 [^company6]: 稼働開始した月のはじめ（稼働開始前）に社名変更した。
+
+ℹ 会社名の記載や契約書などの書類は [🔐 Google Drive](https://drive.google.com/drive/folders/1FGb36cmaDmRfCiIbXTGYheqPLlzXIf5f) に保管している。
