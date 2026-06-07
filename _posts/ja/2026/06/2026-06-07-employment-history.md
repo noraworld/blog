@@ -3,7 +3,7 @@ layout: post
 title: "職歴一覧"
 author:
   - noraworld
-description: ""
+description: "履歴書や職務経歴書は公開が難しいが、どのような働き方をしてきたかを公開するのは有意義だと思ったので公開することにした。"
 image: https://noraworld.github.io/box-venusaur/2026/06/07/fdc7dbd1c0cbc2196dcae56e2ba2994a.png
 date: 2026-06-07 12:45:00 +09:00
 tags:
