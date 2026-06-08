@@ -9,7 +9,6 @@ tags:
 references:
   - https://chatgpt.com/c/6a24e38d-c108-83ab-a55e-b273f4f23f1b
   - https://chatgpt.com/share/6a24e508-8870-83a8-91cc-e12175fca4a2
-published: true
 note_disabled: true
 translation: false
 ---
