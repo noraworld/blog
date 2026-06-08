@@ -1,0 +1,7 @@
+root = true
+
+[*]
+trim_trailing_whitespace = true
+
+[_posts/ja/2026/04/2026-04-26-dating-apps.md]
+trim_trailing_whitespace = false
