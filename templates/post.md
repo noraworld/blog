@@ -10,8 +10,10 @@ references:
   # - TODO_REFERENCES
   # - https://chatgpt.com/c/12345678-90ab-cdef-0123-456789abcdef
   # - https://chatgpt.com/share/12345678-90ab-cdef-0123-456789abcdef
-published: true
-note_published: false
+# published: false
+# note_published: false
+# note_disabled: true
+# translation: false
 ---
 
 <!-- サムネイル画像生成用プロンプト -->
