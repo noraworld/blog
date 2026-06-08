@@ -1,8 +1,5 @@
 ---
-layout: post
 title: "マイ・コーピング・レパートリー"
-author:
-  - noraworld
 description: "ストレスクエストの回復アイテムリストのようなもの"
 image: https://noraworld.github.io/box-venusaur/2026/05/31/252a9564fe267dccbc0b7d6bfb3fb187.png
 date: 2026-05-31 23:30:00 +09:00

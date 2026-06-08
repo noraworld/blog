@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "執着リスト"
-author: [
-  "noraworld"
-]
 description: "道を踏み外しても、いつでもここから再スタートできる。さあ、踏み出そう、苦しみのない輝かしい未来へ。"
 image: "https://noraworld.github.io/box-venusaur/2026/04/10/c7ebcf9060f0a68f653ded7ece0a0c7c.png"
 date: 2026-04-08 15:00:00 +09:00

@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "マッチングアプリ プロフィールテキスト"
-author: [
-  "noraworld"
-]
 description: "個人用。コピペするときに使う。どうせアプリ内で人に見せる文章なのでブログとして公開することにした。"
 image: "https://noraworld.github.io/box-venusaur/2026/04/25/8b8d484007b95c17bd73d60f943158c3.png"
 date: 2026-04-26 00:00:00 +09:00

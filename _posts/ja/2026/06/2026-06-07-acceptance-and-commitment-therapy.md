@@ -1,8 +1,5 @@
 ---
-layout: post
 title: "アクセプタンス・ワードセラピー"
-author:
-  - noraworld
 description: "受容の精神を鍛える。完璧主義を手放す。"
 image: https://noraworld.github.io/box-venusaur/2026/06/07/c48f0f98d070c08ca13d023a740752da.png
 date: 2026-06-07 12:25:00 +09:00

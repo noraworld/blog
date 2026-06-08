@@ -1,8 +1,5 @@
 ---
-layout: post
 title: "個人的に泣ける作品一覧"
-author:
-  - noraworld
 description: "落ち込むことがあったときに見る"
 image: https://noraworld.github.io/box-venusaur/2026/06/01/f8645bda3b833da2a15721115ebc6641.png
 date: 2026-06-02 05:55:00 +09:00

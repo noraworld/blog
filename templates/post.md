@@ -1,8 +1,5 @@
 ---
-layout: post
 title: ""
-author:
-  - noraworld
 description: ""
 image: # TODO_IMAGE
 date: yyyy-MM-dd HH:mm:ss +09:00
