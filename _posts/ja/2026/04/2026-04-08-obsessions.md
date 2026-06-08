@@ -8,7 +8,8 @@ description: "道を踏み外しても、いつでもここから再スタート
 image: "https://noraworld.github.io/box-venusaur/2026/04/10/c7ebcf9060f0a68f653ded7ece0a0c7c.png"
 date: 2026-04-08 15:00:00 +09:00
 tags: [
-  "notes"
+  "notes",
+  "wellbeing"
 ]
 published: true
 note_disabled: true

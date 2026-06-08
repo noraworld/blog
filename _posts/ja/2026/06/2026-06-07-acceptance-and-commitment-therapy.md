@@ -8,6 +8,7 @@ image: https://noraworld.github.io/box-venusaur/2026/06/07/c48f0f98d070c08ca13d0
 date: 2026-06-07 12:25:00 +09:00
 tags:
   - notes
+  - wellbeing
 references:
   - https://chatgpt.com/c/6a24e38d-c108-83ab-a55e-b273f4f23f1b
   - https://chatgpt.com/share/6a24e508-8870-83a8-91cc-e12175fca4a2
