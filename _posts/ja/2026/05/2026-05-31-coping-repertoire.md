@@ -24,7 +24,7 @@ translation: false
 | 🍵 | ガムを噛む | ストレスで何か食べたい衝動に駆られたとき | 7 | 9 |
 | 🍵 | コーヒーを飲む |
 | 🍵 | [ビオスリー Hi 錠を飲む](https://www.amazon.co.jp/dp/B07NF22TP7) | ごはんを食べ終わったとき |
-| 🍵 | [サフランを飲む](https://jp.iherb.com/pr/life-extension-optimized-saffron-60-vegetarian-capsules-78-mg-per-capsule/23953) | ごはんを食べ終わったとき | 8 | 5 |
+| 🍵 | [サフランを飲む](https://iherb.co/HAV1k8B) | ごはんを食べ終わったとき | 8 | 5 |
 | 🥗 | [プロテインを飲む](https://frombanana.com/shop/products/hfp002_m) |
 | 🥗 | ナッツを食べる | お腹が空いてイライラするとき | 9 | 9 |
 | 🥗 | バナナを食べる | お腹が空いてイライラするとき | 9 | 9 |
