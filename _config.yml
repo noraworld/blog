@@ -179,12 +179,12 @@ kramdown:
 #   https://github.com/noraworld/jekyll-build-pages/tree/77b9cb774b8bc5d41b9f2b7927b0217b1a012e21#issues-about-actionsjekyll-build-pages
 # they have both advantages and disadvantages, so take your pick
 #
-# markdown: CommonMark
-# commonmark:
-#   options: ["UNSAFE", "SMART", "FOOTNOTES"]
-#   extensions: ["strikethrough", "autolink", "table", "tasklist"]
-# plugins:
-#   - jekyll-commonmark
+markdown: CommonMark
+commonmark:
+  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tasklist"]
+plugins:
+  - jekyll-commonmark
 
 collections:
   tabs:
