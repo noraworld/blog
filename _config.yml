@@ -113,6 +113,8 @@ avatar: https://avatars.githubusercontent.com/u/17060801
 social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
+# This should be 'false' when CommonMark is used as the markdown parser
+# because it will be broken with CommonMark.
 toc: true
 
 comments:
