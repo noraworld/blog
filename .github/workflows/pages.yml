@@ -6,6 +6,7 @@ on:
       - main
     paths:
       # Do not include '_posts' because it's triggered by translate.yml
+      - '!_posts/**'
       - '_data/**'
       - '_includes/**'
       - '_layouts/**'
