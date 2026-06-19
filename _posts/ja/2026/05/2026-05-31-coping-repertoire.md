@@ -12,6 +12,8 @@ references:
   - https://chatgpt.com/c/6a1c4b14-6bbc-83a4-b246-db5818d96fb9
   - https://chatgpt.com/share/6a1c4c95-dc60-83a7-815e-d7ccb9a23868
   - https://chatgpt.com/c/6a24115c-edf4-83a7-9816-726a39897483
+  - https://chatgpt.com/c/6a356724-66f4-83e8-9cf4-d08d669398cd
+  - https://chatgpt.com/share/6a3567f9-2a6c-83ee-a4fe-4c708ca3de9b
 note_disabled: true
 translation: false
 ---
@@ -40,6 +42,7 @@ translation: false
 | 🌱 | 自分の幸せを願ってみる |
 | 🌱 | 友人の幸せを願ってみる |
 | 🌱 | 動画に出ている人たちの幸せを願ってみる |
+| 🌱 | 嫌いな相手を許してみる |
 | 🌱 | 今日を無事に乗り越えられるように祈ってみる |
 | 🌱 | 外で慈経行を試してみる |
 | 🌱 | 外で畏経行を試してみる |
