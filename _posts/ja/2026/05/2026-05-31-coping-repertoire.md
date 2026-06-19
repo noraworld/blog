@@ -91,9 +91,9 @@ translation: false
 | 💭 | 空想の彼女を妄想する |
 | 💭 | 自分の悩みや不安を他人のものだと思ってアドバイスしてみる | 不安や孤独感を感じたら |
 | 💭 | 不安になる時間帯を決めておく | 不安を感じたら |
-| 🪴 | 植物を眺める |
-| 🪴 | 植物を育てる |
-| 🪴 | 植物に触れる |
+| 🪴 | [植物を眺める](https://noraworld.github.io/blog/nature-guidelines) |
+| 🪴 | [植物を育てる](https://noraworld.github.io/blog/nature-guidelines) |
+| 🪴 | [植物に触れる](https://noraworld.github.io/blog/nature-guidelines) |
 | 👀 | SNS で自然の写真を眺める |
 | 👀 | SNS で可愛い動物の写真を眺める |
 | 👀 | 好きな YouTuber や実況者の新着動画を Google で検索する | 楽しいことがなくて絶望したとき | 10 | 10 |
