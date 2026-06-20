@@ -66,14 +66,6 @@ translation: false
       // { name: "上司", distance: 4 },
       // { name: "タイラー・ダーデン", distance: 4 },
       // { name: "医者のDさん", distance: 4 },
-
-      // { name: "上司", distance: 5 },
-      // { name: "タイラー・ダーデン", distance: 5.3 },
-      // { name: "医者のDさん", distance: 5.7 },
-
-      // { name: "上司", distance: 6 },
-      // { name: "タイラー・ダーデン", distance: 6 },
-      // { name: "医者のDさん", distance: 6 },
     ]
   };
 
