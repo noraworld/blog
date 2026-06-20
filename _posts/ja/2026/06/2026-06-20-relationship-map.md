@@ -33,6 +33,10 @@ translation: false
       // こだわりたい場合だけ angle の個別指定も可
       //   { name: "母", distance: 2, angle: -30 },
       //
+      // コピペ用
+      //   { name: "", distance:  },
+      //   { name: "", distance: , angle:  },
+      //
       // ルール
       //   * distance 順に並び替える必要はない
       //   * トレイリングカンマはつけておいたほうがいいかも
