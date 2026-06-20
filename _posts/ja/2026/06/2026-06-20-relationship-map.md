@@ -13,51 +13,6 @@ tags:
 
 <div id="network"></div>
 
-<style>
-  #network svg {
-    width: 100%;
-    max-width: 900px;
-    display: block;
-    margin: auto;
-    overflow: visible;
-  }
-
-  #network .ring {
-    fill: none;
-    stroke: #999;
-    stroke-width: 1.5;
-  }
-
-  #network .dot,
-  #network .center {
-    fill: #1f1715;
-  }
-
-  #network .label {
-    font-size: 24px;
-    font-weight: 700;
-    fill: #1f1715;
-    paint-order: stroke;
-    stroke: white;
-    stroke-width: 5px;
-    stroke-linejoin: round;
-  }
-
-  #network .leader-line {
-    stroke: #aaa;
-    stroke-width: 1.2;
-    fill: none;
-  }
-
-  #network .center-label {
-    font-size: 26px;
-    font-weight: 700;
-    fill: white;
-    text-anchor: middle;
-    dominant-baseline: central;
-  }
-</style>
-
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
   const data = {
@@ -239,3 +194,48 @@ tags:
     `${bbox.x - padding} ${bbox.y - padding} ${bbox.width + padding * 2} ${bbox.height + padding * 2}`
   );
 </script>
+
+<style>
+  #network svg {
+    width: 100%;
+    max-width: 900px;
+    display: block;
+    margin: auto;
+    overflow: visible;
+  }
+
+  #network .ring {
+    fill: none;
+    stroke: #999;
+    stroke-width: 1.5;
+  }
+
+  #network .dot,
+  #network .center {
+    fill: #1f1715;
+  }
+
+  #network .label {
+    font-size: 24px;
+    font-weight: 700;
+    fill: #1f1715;
+    paint-order: stroke;
+    stroke: white;
+    stroke-width: 5px;
+    stroke-linejoin: round;
+  }
+
+  #network .leader-line {
+    stroke: #aaa;
+    stroke-width: 1.2;
+    fill: none;
+  }
+
+  #network .center-label {
+    font-size: 26px;
+    font-weight: 700;
+    fill: white;
+    text-anchor: middle;
+    dominant-baseline: central;
+  }
+</style>
