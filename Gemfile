@@ -8,4 +8,5 @@ gem "html-proofer", "~> 5.0", group: :test
 
 group :jekyll_plugins do
    gem "jekyll-polyglot"
+   gem "jekyll-commonmark"
 end
