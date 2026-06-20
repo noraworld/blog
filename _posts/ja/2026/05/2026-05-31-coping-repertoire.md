@@ -93,6 +93,7 @@ translation: false
 | 💭 | 空想の彼女を妄想する |
 | 💭 | 自分の悩みや不安を他人のものだと思ってアドバイスしてみる | 不安や孤独感を感じたら |
 | 💭 | 不安になる時間帯を決めておく | 不安を感じたら |
+| 💭 | [「ま、いっか」と口に出してみる](https://noraworld.github.io/blog/magic-of-oh-well) |
 | 🪴 | [植物を眺める](https://noraworld.github.io/blog/nature-guidelines) |
 | 🪴 | [植物を育てる](https://noraworld.github.io/blog/nature-guidelines) |
 | 🪴 | [植物に触れる](https://noraworld.github.io/blog/nature-guidelines) |
