@@ -30,42 +30,42 @@ translation: false
     center: "私",
     nodes: [
       // ネットワークリストの書き方
-      //   { name: "上司", distance: 4 },
+      //   { distance: 4, name: "上司" },
       //
       // こだわりたい場合だけ angle の個別指定も可
-      //   { name: "母", distance: 2, angle: -30 },
+      //   { distance: 2, angle: -30, name: "部下" },
       //
       // コピペ用
-      //   { name: "", distance:  },
-      //   { name: "", distance: , angle:  },
+      //   { distance: , name: "" },
+      //   { distance: , angle: , name: "" },
       //
       // ルール
       //   * distance 順に並び替える必要はない
       //   * トレイリングカンマはつけておいたほうがいいかも
       //
       // ここから
-      { name: "最寄りのセブンイレブンの店長さん", distance: 3 },
-      { name: "Misskey でいつもリアクションをくれる人", distance: 2.5 },
-      { name: "友人 K", distance: 1 },
-      { name: "フリーランスエージェントのサポート担当の人", distance: 2 },
-      { name: "理髪店の店員さん", distance: 3 },
-      { name: "空想の彼女", distance: 1.5 },
+      { distance: 3.0, name: "最寄りのセブンイレブンの店長さん" },
+      { distance: 2.5, name: "Misskey でいつもリアクションをくれる人" },
+      { distance: 1.0, name: "友人 K" },
+      { distance: 2.0, name: "フリーランスエージェントのサポート担当の人" },
+      { distance: 3.0, name: "理髪店の店員さん" },
+      { distance: 1.5, name: "空想の彼女" },
       // ここまで
       //
       // ネットワークリストサークルの例
-      //   { name: "友人 C", distance: 0.8 },
-      //   { name: "兄", distance: 1 },
-      //   { name: "友人 B", distance: 1 },
-      //   { name: "ネット掲示板", distance: 1.5 },
-      //   { name: "恩師", distance: 2 },
-      //   { name: "母", distance: 2.5 },
-      //   { name: "ランニングクラブ", distance: 2.5 },
-      //   { name: "行きつけの店の人", distance: 2.5 },
-      //   { name: "父", distance: 3 },
-      //   { name: "営業部の A さん", distance: 3 },
-      //   { name: "タイラー・ダーデン", distance: 3 },
-      //   { name: "上司", distance: 4 },
-      //   { name: "医者の D さん", distance: 4 },
+      //   { distance: 0.8, name: "友人 C" },
+      //   { distance: 1.0, name: "兄" },
+      //   { distance: 1.0, name: "友人 B" },
+      //   { distance: 1.5, name: "ネット掲示板" },
+      //   { distance: 2.0, name: "恩師" },
+      //   { distance: 2.5, name: "母" },
+      //   { distance: 2.5, name: "ランニングクラブ" },
+      //   { distance: 2.5, name: "行きつけの店の人" },
+      //   { distance: 3.0, name: "父" },
+      //   { distance: 3.0, name: "営業部の A さん" },
+      //   { distance: 3.0, name: "タイラー・ダーデン" },
+      //   { distance: 4.0, name: "上司" },
+      //   { distance: 4.0, name: "医者の D さん" },
     ]
   };
 
