@@ -1,12 +1,18 @@
 ---
-layout: post
 title: "ネットワークリスト"
-author: noraworld
 description: "自分との心理的距離を同心円で可視化するネットワークリスト。"
-date: 2026-06-20
+image: https://noraworld.github.io/box-venusaur/2026/06/20/6a5da0598c82f2ffbda420e0e733b5ed.png
+image: # TODO_IMAGE
+date: 2026-06-20 17:00:00 +09:00
 tags:
   - notes
   - wellbeing
+references:
+  # - TODO_REFERENCES
+  - https://chatgpt.com/c/6a36264b-daf8-83ee-b83c-e1bb6f98f8a9
+  # - https://chatgpt.com/share/12345678-90ab-cdef-0123-456789abcdef
+note_disabled: true
+translation: false
 ---
 
 本文をここに書く。
