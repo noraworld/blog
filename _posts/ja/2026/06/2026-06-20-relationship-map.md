@@ -27,6 +27,16 @@ translation: false
   const data = {
     center: "私",
     nodes: [
+      // ネットワークリストの書き方の例
+      //   { name: "上司", distance: 4 },
+      //
+      // こだわりたい場合だけ angle の個別指定も可
+      //   { name: "母", distance: 2, angle: -30 },
+      //
+      // ルール
+      //   * distance 順に並び替える必要はない
+      //   * トレイリングカンマはつけておいたほうがいいかも
+
       { name: "友人C", distance: 1 },
       { name: "友人B", distance: 1 },
       { name: "兄", distance: 1 },
@@ -51,9 +61,6 @@ translation: false
       { name: "上司", distance: 6 },
       { name: "タイラー・ダーデン", distance: 6 },
       { name: "医者のDさん", distance: 6 },
-
-      // こだわりたい場合だけ angle の個別指定も可
-      // { name: "母", distance: 2, angle: -30 }
     ]
   };
 
