@@ -1,5 +1,5 @@
 ---
-title: "ネットワークリスト"
+title: "ソーシャルサポートワーク"
 description: "自分との心理的距離を同心円で可視化するネットワークリスト。"
 # image: https://noraworld.github.io/box-venusaur/2026/06/20/6a5da0598c82f2ffbda420e0e733b5ed.png
 image: https://noraworld.github.io/box-venusaur/2026/06/20/7cd388471af4d7725d64a42665329daf.png
