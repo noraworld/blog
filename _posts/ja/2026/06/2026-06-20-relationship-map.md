@@ -43,6 +43,13 @@ translation: false
       //   * distance 順に並び替える必要はない
       //   * トレイリングカンマはつけておいたほうがいいかも
 
+      { name: "最寄りのセブンイレブンの店長さん", distance: 3.5 },
+      { name: "Misskey でいつもリアクションをくれる人", distance: 3 },
+      { name: "友人 K", distance: 1 },
+      { name: "フリーランスエージェントのサポート担当の人", distance: 2 },
+      { name: "理髪店の店員さん", distance: 3.5 },
+      { name: "空想の彼女", distance: 1.5 },
+
       { name: "友人C", distance: 1 },
       { name: "友人B", distance: 1 },
       { name: "兄", distance: 1 },
