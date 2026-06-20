@@ -50,22 +50,19 @@ translation: false
       { name: "理髪店の店員さん", distance: 3.5 },
       { name: "空想の彼女", distance: 1.5 },
 
-      // { name: "友人C", distance: 1 },
-      // { name: "友人B", distance: 1 },
+      // { name: "友人 C", distance: 0.8 },
       // { name: "兄", distance: 1 },
-
+      // { name: "友人 B", distance: 1 },
+      // { name: "ネット掲示板", distance: 1.5 },
       // { name: "恩師", distance: 2 },
-      // { name: "母", distance: 2 },
-      // { name: "ネット掲示板", distance: 2 },
-      // { name: "ランニングクラブ", distance: 2 },
-
+      // { name: "母", distance: 2.5 },
+      // { name: "ランニングクラブ", distance: 2.5 },
+      // { name: "行きつけの店の人", distance: 2.5 },
       // { name: "父", distance: 3 },
-      // { name: "行きつけの店の人", distance: 3 },
-      // { name: "営業部のAさん", distance: 3 },
-
+      // { name: "営業部の A さん", distance: 3 },
+      // { name: "タイラー・ダーデン", distance: 3 },
       // { name: "上司", distance: 4 },
-      // { name: "タイラー・ダーデン", distance: 4 },
-      // { name: "医者のDさん", distance: 4 },
+      // { name: "医者の D さん", distance: 4 },
     ]
   };
 
