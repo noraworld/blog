@@ -8,9 +8,8 @@ tags:
   - notes
   - wellbeing
 references:
-  # - TODO_REFERENCES
   - https://chatgpt.com/c/6a36264b-daf8-83ee-b83c-e1bb6f98f8a9
-  # - https://chatgpt.com/share/12345678-90ab-cdef-0123-456789abcdef
+  - https://chatgpt.com/share/6a36ad48-86e8-83e8-afd2-e2e46b6198c0
 note_disabled: true
 translation: false
 ---
