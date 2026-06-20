@@ -47,7 +47,7 @@ tags:
       { name: "タイラー・ダーデン", distance: 6 },
       { name: "医者のDさん", distance: 6 },
 
-      // 必要なら個別指定も可
+      // こだわりたい場合だけ angle の個別指定も可
       // { name: "母", distance: 2, angle: -30 }
     ]
   };
