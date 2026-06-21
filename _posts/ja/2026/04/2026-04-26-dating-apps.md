@@ -78,7 +78,9 @@ translation: false
 
 
 
-### 備考
+<details>
+<summary>本ファイルの管理やアプリの制約に関する備考</summary>
+
 * Omiai、Pairs、with、タップルは最大 1,000 文字まで、Tinder は最大 500 文字まで
     * Tinder は意図的に追加したネットワーク制限だけでなく AdGuard DNS Family Protection (上位 DNS) が適用されているとプロフィールを更新できないので注意
     * というか Tinder は業者ばかりでクソなので基本的に更新しなくて良い
@@ -89,3 +91,4 @@ translation: false
         * → `.vscode/settings.json` & `.editorconfig`
 * コミットメッセージは日本語で書く
     * 一新した場合やちょっと更新した場合は「マッチングアプリのプロフィール（テキスト）を一新・更新」などで良い
+</details>
