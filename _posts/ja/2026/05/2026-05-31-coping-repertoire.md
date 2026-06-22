@@ -24,14 +24,14 @@ translation: false
 | 🍵 | 水を飲む | 作業が煮詰まってイライラしたとき | 10 | 9 |
 | 🍵 | ガムを噛む | ストレスで何か食べたい衝動に駆られたとき | 7 | 9 |
 | 🍵 | 緑茶を飲む |
-| 🍵 | コーヒーを飲む |
+| 🍵 | [コーヒーを飲む](https://noraworld.github.io/blog/caffeine-guidelines) |
 | 🍵 | [ビオスリー Hi 錠を飲む](https://www.amazon.co.jp/dp/B07NF22TP7) | ごはんを食べ終わったとき |
 | 🍵 | [サフランを飲む](https://iherb.co/HAV1k8B) | ごはんを食べ終わったとき | 8 | 5 |
 | 🥗 | [プロテインを飲む](https://frombanana.com/shop/products/hfp002_m) |
-| 🥗 | ナッツを食べる | お腹が空いてイライラするとき | 9 | 9 |
-| 🥗 | バナナを食べる | お腹が空いてイライラするとき | 9 | 9 |
-| 🥗 | ダークチョコを食べる | お腹が空いてイライラするとき |
-| 🥗 | 甘いものを食べる | お腹が空いてイライラするとき |
+| 🥗 | [ナッツを食べる](https://noraworld.github.io/blog/healthy-eating-guidelines) | お腹が空いてイライラするとき | 9 | 9 |
+| 🥗 | [バナナを食べる](https://noraworld.github.io/blog/healthy-eating-guidelines) | お腹が空いてイライラするとき | 9 | 9 |
+| 🥗 | [ダークチョコを食べる](https://noraworld.github.io/blog/healthy-eating-guidelines) | お腹が空いてイライラするとき |
+| 🥗 | [甘いものを食べる](https://noraworld.github.io/blog/healthy-eating-guidelines) | お腹が空いてイライラするとき |
 | 🌱 | マインドフルに過ごす | 将来のことやこれからのことで不安に苛まれたとき |
 | 🌱 | 5 分だけ瞑想をする | 将来のことやこれからのことで不安に苛まれたとき |
 | 🌱 | 腹式呼吸を意識する |
@@ -46,7 +46,7 @@ translation: false
 | 🌱 | 外で慈経行を試してみる |
 | 🌱 | 外で畏経行を試してみる |
 | 🌱 | セーフプレイスワークを試す |
-| 🌱 | ソーシャルサポートワークを試す |
+| 🌱 | [ソーシャルサポートワークを試す](https://noraworld.github.io/blog/relationship-map) |
 | 🌱 | [意味飽和を試す](https://noraworld.github.io/semantic-satiation-generator/) |
 | 🌱 | Pause（アプリ）をプレイする |
 | 🌱 | 日光を浴びる |
@@ -70,7 +70,7 @@ translation: false
 | 🎶 | テンションが上がる音楽を聴く | 気分が落ち込んでいるとき | 10 | 5 |
 | 🎶 | リラックスできる音楽を聴く | 気分が落ち込んでいるとき | 10 | 5 |
 | 🎶 | ASMR 音声を聴く |
-| 🎶 | 自然音・環境音を聴く |
+| 🎶 | [自然音・環境音を聴く](https://noraworld.github.io/blog/nature-guidelines) |
 | 🎶 | ヒーリング音（アルファ波など）を聴く |
 | 📖 | コーピングリストを眺める | 不安に苛まれたとき | 10 | 8 |
 | 📖 | [アクセプタンス・ワードセラピーを読む](https://noraworld.github.io/blog/acceptance-and-commitment-therapy) |
@@ -97,7 +97,7 @@ translation: false
 | 🪴 | [植物を眺める](https://noraworld.github.io/blog/nature-guidelines) |
 | 🪴 | [植物を育てる](https://noraworld.github.io/blog/nature-guidelines) |
 | 🪴 | [植物に触れる](https://noraworld.github.io/blog/nature-guidelines) |
-| 👀 | SNS で自然の写真を眺める |
+| 👀 | [SNS で自然の写真を眺める](https://noraworld.github.io/blog/nature-guidelines) |
 | 👀 | SNS で可愛い動物の写真を眺める |
 | 👀 | 好きな YouTuber や実況者の新着動画を Google で検索する | 楽しいことがなくて絶望したとき | 10 | 10 |
 | 📺 | YouTube を観る | 楽しいことがなくて絶望したとき | 10 | 5 |
@@ -109,7 +109,7 @@ translation: false
 | 📺 | ゲーム実況を観る |
 | 📺 | リラックスできる動画を観る |
 | 📺 | 製造工程の動画を観る |
-| 📺 | 大自然の動画を観る |
+| 📺 | [大自然の動画を観る](https://noraworld.github.io/blog/nature-guidelines) |
 | 📺 | 焚火動画を観る |
 | 📺 | 可愛い動物の動画を観る |
 | 📺 | ライブを観る |
@@ -162,12 +162,12 @@ translation: false
 | 😴 | 米軍式睡眠法を試す |
 | 😴 | 部屋を少し暗めにする | 寝るとき |
 | 😴 | 入眠前瞑想を試す | 寝るとき |
-| 😌 | 窓を開けてボーっと外を眺める | 作業が煮詰まってイライラしたとき | 10 | 9 |
+| 😌 | [窓を開けてボーっと外を眺める](https://noraworld.github.io/blog/hygiene-and-air-guidelines) | 作業が煮詰まってイライラしたとき | 10 | 9 |
 | 😌 | 布団に包まる |
 | 😌 | アロマの香りを嗅ぐ |
 | 😌 | ラベンダーの香りを嗅ぐ | 焦りを感じたとき | 10 | 10 |
 | 😌 | [ミントの香りを嗅ぐ](https://www.amazon.co.jp/dp/B001Q9EEXI) | 焦りを感じたとき | 10 | 10 |
-| 😌 | コーヒーの香りを嗅ぐ |
+| 😌 | [コーヒーの香りを嗅ぐ](https://noraworld.github.io/blog/caffeine-guidelines) |
 | 😌 | 身体の緊張を解く |
 | 😌 | 自分の身体を抱きしめる | 自分を責めてしまったとき |
 | 😌 | ぬいぐるみを抱きしめる | 自分を責めてしまったとき |
