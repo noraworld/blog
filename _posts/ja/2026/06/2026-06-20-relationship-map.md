@@ -43,12 +43,12 @@ translation: false
       //   * トレイリングカンマはつけておいたほうが管理が楽かも
       //
       // ここから
-      { distance: 3.0, name: "セブンの店長さん" },
-      { distance: 2.5, name: "Misskey のフォロワーさん" },
       { distance: 1.0, name: "友人 K" },
-      { distance: 2.0, name: "エージェントの担当の方" },
-      { distance: 3.0, name: "理髪店の店員さん" },
       { distance: 1.5, name: "空想の彼女" },
+      { distance: 2.0, name: "エージェントの担当の方" },
+      { distance: 2.5, name: "Misskey のフォロワーさん" },
+      { distance: 3.0, name: "セブンの店長さん" },
+      { distance: 3.0, name: "理髪店の店員さん" },
       // ここまで
       //
       // ネットワークリストサークルの例
