@@ -43,10 +43,10 @@ translation: false
       //   * トレイリングカンマはつけておいたほうが管理が楽かも
       //
       // ここから
-      { distance: 3.0, name: "最寄りのセブンイレブンの店長さん" },
-      { distance: 2.5, name: "Misskey でいつもリアクションをくれる人" },
+      { distance: 3.0, name: "セブンの店長さん" },
+      { distance: 2.5, name: "Misskey のフォロワーさん" },
       { distance: 1.0, name: "友人 K" },
-      { distance: 2.0, name: "フリーランスエージェントのサポート担当の人" },
+      { distance: 2.0, name: "エージェントの担当の方" },
       { distance: 3.0, name: "理髪店の店員さん" },
       { distance: 1.5, name: "空想の彼女" },
       // ここまで
