@@ -35,4 +35,5 @@ translation: false
 
 
 ### 参考
-[力を抜いてラクに生きるための「セルフアクセプタンス」名言＆瞑想セラピー | パレオな男](https://yuchrszk.blogspot.com/2016/07/blog-post.html)
+* [力を抜いてラクに生きるための「セルフアクセプタンス」名言＆瞑想セラピー | パレオな男](https://yuchrszk.blogspot.com/2016/07/blog-post.html)
+* [NHKのマインドフルネス特集が、瞑想ビギナーにはかなりオススメだった | パレオな男](https://yuchrszk.blogspot.com/2014/05/nhk.html)
