@@ -75,6 +75,7 @@ translation: false
 | 📖 | コーピングリストを眺める | 不安に苛まれたとき | 10 | 8 |
 | 📖 | [アクセプタンス・ワードセラピーを読む](https://noraworld.github.io/blog/acceptance-and-commitment-therapy) |
 | 📖 | [パレオさんのブログを読む](https://yuchrszk.blogspot.com) |
+| 📖 | [Personal Monster を読む](https://mind-read.info) |
 | 📖 | リラックスできる本を読む | 焦りを感じたとき | 9 | 8 |
 | 📖 | 元気が出る本を読む | 焦りを感じたとき | 9 | 8 |
 | 📖 | 明るい気分になるマンガを読む | 焦りを感じたとき | 9 | 8 |
