@@ -1,3 +1,27 @@
+---
+title: "マインドフルネスと瞑想に関するガイドライン"
+description: "正しく実践すれば鬱や不安性への適切な対策が取れるようになる。"
+image: https://noraworld.github.io/box-venusaur/2026/06/28/5758f2261a9f0b018b3aedd755e72d7e.png
+date: 2026-06-28 16:00:00 +09:00
+tags:
+  - notes
+  - wellbeing
+references:
+  - https://chatgpt.com/c/6a40be2f-cfa0-83ee-ae6a-2e9e80830e55
+  - https://chatgpt.com/share/6a40f985-2db8-83ee-bc57-8818bc84678d
+note_disabled: true
+translation: false
+---
+
+<!--
+ブログ記事を書いたので、サムネイル画像を生成して！ 画像を生成するときのルールは以下のとおりだよ！
+
+* タイトルは『瞑想に関するガイドライン』
+* アスペクト比は 1280:670
+* 画像内に文字は入れない
+* 心が澄んだような清々しい気持ちになるような鮮やかな表現の雰囲気
+-->
+
 ### 祈りと願いのフレーズ（慈悲瞑想用）
 [2025-03-17](https://github.com/noraworld/diary-templates/issues/6191#issuecomment-2730231109)
 
