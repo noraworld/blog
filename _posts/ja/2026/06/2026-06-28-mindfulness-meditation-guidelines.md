@@ -35,6 +35,8 @@ translation: false
 
 
 
+
+
 ### MAAS (Mindful Attention Awareness Scale)
 自分の今のマインドフルネスレベルを測定するための手法
 
@@ -74,6 +76,8 @@ translation: false
 
 
 
+
+
 ### 効果
 * うつ・不安・慢性痛に対しては薬物治療と同程度の効果がある（ジョンズ・ホプキンス大学、2015 年）
 
@@ -104,6 +108,10 @@ translation: false
 * セッションが終わるたびに感想やメモを書いても良い
     * 何かを書きたくてそのせいで気がそれることがあるので
 
+
+
+
+
 ### ボディスキャンについて
 * 自分の身体が発する異状のサインに気づくためのツール
     * 身体の緊張感に気づけるようになる
@@ -125,6 +133,10 @@ translation: false
 4. 下半身のスキャン
     * 「太ももやふくらはぎに圧迫感はないか？」「つま先を丸めていないか？」などをスキャンする
 </details>
+
+
+
+
 
 ### 祈りと願いのフレーズ（慈悲瞑想用）
 [2025-03-17](https://github.com/noraworld/diary-templates/issues/6191#issuecomment-2730231109)
@@ -200,6 +212,10 @@ translation: false
 ### 参考
 [史上最強の瞑想法を解説〜ハーバード大学式セルフコンパッション【後編】](https://daigovideolab.jp/play/a7ztQAsbPiKMpgVC4sYU)
 </details>
+
+
+
+
 
 ### 呼吸法トレーニングについて
 * 呼吸を整えることによって気持ちが変わりストレス解消効果がある
