@@ -141,15 +141,6 @@ translation: false
 ### 慈悲の瞑想
 自分と他人の幸せを願い、思いやり、共感、慈悲を育てる瞑想法
 
-#### 祈りと願いのフレーズ（慈悲瞑想用）
-[2025-03-17](https://github.com/noraworld/diary-templates/issues/6191#issuecomment-2730231109)
-
-<details>
-<summary>アーカイブ</summary>
-
-* [2025-03-17](https://github.com/noraworld/diary-templates/issues/6191#issuecomment-2730231109)
-</details>
-
 #### 効果
 * 最も短時間で大きな効果が得られる瞑想
 * 自分と他人の幸せを祈りながら瞑想する
@@ -160,8 +151,9 @@ translation: false
 2. 背筋を伸ばす
 3. 目を閉じる
 4. 自分が楽しく会話した相手をイメージする
-5. 以下のフレーズを心の中で唱える（簡易版でも正式版と同等の効果がある）
+5. 以下の『祈りと願いのフレーズ』を心の中で唱える（簡易版でも正式版と同等の効果がある）
 
+#### 祈りと願いのフレーズ
 ##### 正式版
 > _この人は心と体を持っています　私も同じです_
 >
@@ -185,6 +177,15 @@ translation: false
 > _私の願いが叶いますように_
 >
 > _私が穏やかで過ごせますように_
+
+##### カスタム版
+[2025-03-17](https://github.com/noraworld/diary-templates/issues/6191#issuecomment-2730231109)
+
+<details>
+<summary>アーカイブ</summary>
+
+* [2025-03-17](https://github.com/noraworld/diary-templates/issues/6191#issuecomment-2730231109)
+</details>
 
 #### アップグレード方法
 1. 身体のどこかに手をおく
