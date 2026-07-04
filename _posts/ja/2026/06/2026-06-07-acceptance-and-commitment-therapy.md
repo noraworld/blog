@@ -38,3 +38,8 @@ translation: false
 ### 参考
 * [力を抜いてラクに生きるための「セルフアクセプタンス」名言＆瞑想セラピー | パレオな男](https://yuchrszk.blogspot.com/2016/07/blog-post.html)
 * [NHKのマインドフルネス特集が、瞑想ビギナーにはかなりオススメだった | パレオな男](https://yuchrszk.blogspot.com/2014/05/nhk.html)
+* [執着リスト](https://noraworld.github.io/blog/obsessions)
+* [「ま、いっか」という言葉の魔力](https://noraworld.github.io/blog/magic-of-oh-well)
+* [やりたい気持ちを義務にしてはいけない](https://noraworld.github.io/blog/desire-vs-obligation)
+* [環境を変える前にまず自分の考え方を変える努力をしてみる](https://noraworld.github.io/blog/mindset-before-environment)
+* [手放しの瞑想](https://chatgpt.com/share/6a4928f6-7db8-83e8-a684-bd1568e33ba7)
