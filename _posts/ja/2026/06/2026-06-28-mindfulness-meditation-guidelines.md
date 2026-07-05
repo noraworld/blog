@@ -24,7 +24,7 @@ translation: false
 * 心が澄んだような清々しい気持ちになるような鮮やかな表現の雰囲気
 -->
 
-### マインドフルネス全般における重要な心構え
+## マインドフルネス全般における重要な心構え
 * 手法やテクニックにこだわらないこと
     * 瞑想はあくまでマインドフルネスの感覚をつかむための手段の一つであって、それ自体が鬱病や不安性を解決する魔法のテクニックではない
     * 瞑想のときだけマインドフルになっていても、それ以外の日常生活でマインドレスになっていたら意味がない
@@ -39,10 +39,11 @@ translation: false
 
 
 
-<details>
-<summary>MAAS (Mindful Attention Awareness Scale)</summary>
-
+## MAAS (Mindful Attention Awareness Scale)
 自分の今のマインドフルネスレベルを測定するための手法
+
+<details>
+<summary>詳細を表示</summary>
 
 ### 手順
 1. 以下の「15 の質問」に 1 〜 6 点で回答する
@@ -83,10 +84,11 @@ translation: false
 
 
 
-<details>
-<summary>タイガータスク</summary>
-
+## タイガータスク
 自己観察の感覚を理解するためのワーク
+
+<details>
+<summary>詳細を表示</summary>
 
 ### 手順
 1. リラックスして目を閉じる
@@ -110,10 +112,11 @@ translation: false
 
 
 
-<details>
-<summary>作務</summary>
-
+## 作務
 TBD
+
+<details>
+<summary>詳細を表示</summary>
 
 ### 参考
 * [無（最高の状態）](https://www.amazon.co.jp/dp/B099DDJSL9)
@@ -124,10 +127,11 @@ TBD
 
 
 
-<details>
-<summary>マインドフルイーティング</summary>
-
+## マインドフルイーティング
 TBD
+
+<details>
+<summary>詳細を表示</summary>
 
 ### 参考
 [最高の体調](https://www.amazon.co.jp/dp/B07FX9V6PJ)
@@ -137,10 +141,11 @@ TBD
 
 
 
-<details>
-<summary>呼吸瞑想</summary>
-
+## 呼吸瞑想
 呼吸に意識を向ける瞑想法
+
+<details>
+<summary>詳細を表示</summary>
 
 ### 効果
 うつ・不安・慢性痛に対しては薬物治療と同程度の効果がある（ジョンズ・ホプキンス大学、2015 年）
@@ -177,10 +182,11 @@ TBD
 
 
 
-<details>
-<summary>オープンモニタリング瞑想</summary>
-
+## オープンモニタリング瞑想
 TBD
+
+<details>
+<summary>詳細を表示</summary>
 
 ### 参考
 [無（最高の状態）](https://www.amazon.co.jp/dp/B099DDJSL9)
@@ -190,12 +196,15 @@ TBD
 
 
 
-<details>
-<summary>ボディスキャン瞑想</summary>
+## ボディスキャン瞑想
+自分の身体が発する異常のサインに気づくためのツール
 
-* 自分の身体が発する異状のサインに気づくためのツール
-    * 身体の緊張感に気づけるようになる
-    * ストレスの自覚がない場合に利用する
+<details>
+<summary>詳細を表示</summary>
+
+### 効果
+* 身体の緊張感に気づけるようになる
+* ストレスの自覚がない場合に利用する
 * 細かく行うほど効果が高くなる
     * 最初のうちは、眉間、アゴ、首、腕、胸、腹部、太もも、ふくらはぎ、つま先の計 9 点をスキャンする
 
@@ -216,8 +225,11 @@ TBD
 
 
 
+## 歩行瞑想
+TBD
+
 <details>
-<summary>歩行瞑想</summary>
+<summary>詳細を表示</summary>
 
 TBD
 </details>
@@ -226,10 +238,11 @@ TBD
 
 
 
-<details>
-<summary>慈悲の瞑想</summary>
-
+## 慈悲の瞑想
 自分と他人の幸せを願い、思いやり、共感、慈悲を育てる瞑想法
+
+<details>
+<summary>詳細を表示</summary>
 
 ### 効果
 * 最も短時間で大きな効果が得られる瞑想
@@ -308,9 +321,13 @@ TBD
 
 
 
-<details>
-<summary>呼吸法トレーニング</summary>
+## 呼吸法トレーニング
+呼吸を整えるトレーニング
 
+<details>
+<summary>詳細を表示</summary>
+
+### 効果
 * 呼吸を整えることによって気持ちが変わりストレス解消効果がある
     * その効果は折り紙付き
 * **『受容の精神』を鍛えるための『瞑想』ではないことに注意！**
