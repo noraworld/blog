@@ -9,6 +9,8 @@ tags:
 references:
   - https://chatgpt.com/c/6a24e38d-c108-83ab-a55e-b273f4f23f1b
   - https://chatgpt.com/share/6a24e508-8870-83a8-91cc-e12175fca4a2
+  - https://chatgpt.com/c/6a4a9a36-2e14-83ee-af5a-31ff581a1135
+  - https://chatgpt.com/share/6a4a9d42-4978-83e8-88c6-33bc4c95358b
 note_disabled: true
 translation: false
 ---
@@ -32,6 +34,7 @@ translation: false
 | 「自分が何者であるかにこだわらなければ、自分になれるだろう」 | 老子 |
 | 「私は幸せだった。友がいて⋯愛する者に出会った⋯死に行く今、初めてわかる。心を粉々に砕かれた苦しみや悲劇ですら⋯決して私を滅ぼす物ではなかったのだ。今となっては何もかもが美しい思い出になる⋯」 | [BUSIN Wizardry Alternative 白髪の剣士](https://www.nicovideo.jp/watch/sm24038504?from=980) |
 | 柔よく剛を制し、剛よく柔を断つ | 中国兵法書『三略』 |
+| 「お前にはもっと違う"味"があるはずだ。」（的なやつ） | [遊戯王デュエルモンスター GX 第 51 話](https://www.tv-tokyo.co.jp/anime/yugioh/story_40-.html) |
 
 
 
