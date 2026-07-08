@@ -66,6 +66,7 @@ translation: false
 * [インターネットポルノ中毒って本当にそこまで恐ろしいの？みたいな話](https://yuchrszk.blogspot.com/2022/04/blog-post_25.html)
 * [オ◯ニーで得られるすごいメリット5選](https://yuchrszk.blogspot.com/2023/02/5.html)
 * [オ◯禁は健康に良い？メンタルに良い？集中力はどこまで上がる？ってな問題について考える](https://yuchrszk.blogspot.com/2022/05/blog-post_07.html)
+* [眠れない夜は“自分磨き”でグッスリ眠れるようになるかもだ！という実験の話](https://yuchrszk.blogspot.com/2026/07/blog-post_06.html)
 
 ### 7. 記録を取る
 射精したときに気持ちがどう変化したかを観察し、セルフプレジャー終了後に記録する。
