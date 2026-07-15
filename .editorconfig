@@ -1,7 +1,14 @@
 root = true
 
 [*]
+insert_final_newline = true
 trim_trailing_whitespace = true
+
+# temporary setting when writing the posts
+# disabled by default
+#
+# [_posts/ja/**/*.md]
+# insert_final_newline = false
 
 [_posts/ja/2026/04/2026-04-26-dating-apps.md]
 trim_trailing_whitespace = false
