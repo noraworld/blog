@@ -13,8 +13,8 @@ references:
   - https://note.com/usagi_noname/n/n07824109bbcb
   - https://chatgpt.com/c/6a564bee-1128-83ee-b652-3deb9af016a7
   - https://chatgpt.com/share/6a57d4b6-205c-83e8-9a10-edccb21e147e
-# note_disabled: true
-note_published: true
+# この記事は note では有料記事になっていて、GitHub to note ではまだこの機能に対応していないため手動で更新する必要がある
+note_disabled: true
 translation: false
 note_id: 170567258
 ---
