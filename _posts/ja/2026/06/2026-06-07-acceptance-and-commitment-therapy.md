@@ -15,8 +15,10 @@ note_disabled: true
 translation: false
 ---
 
+## 受容の精神
 1 日に 1 回は「受容の精神」について述べた言葉や書物に触れてみよう。
 
+### パレオさんおすすめ
 | 名言 | 作者 |
 | --- | --- |
 | 「ゆく河の流れは絶えずして、しかも、もとの水にあらず」 | 方丈記 |
@@ -33,22 +35,21 @@ translation: false
 | 「老子は『自分を手放すと、自分になれる』とおっしゃいました。わたしは、自分の持ち物を手放したとき、必要なものが手に入りました。もがくのを止めたときに理想の仕事やパートナーが見つかったことは？ これが手放すことのパラドックスです。達成するために手放すのです」 | メアリー・マニン・モリッシー |
 | 「自分が何者であるかにこだわらなければ、自分になれるだろう」 | 老子 |
 
+#### 関連
+* [力を抜いてラクに生きるための「セルフアクセプタンス」名言＆瞑想セラピー | パレオな男](https://yuchrszk.blogspot.com/2016/07/blog-post.html)
+* [NHKのマインドフルネス特集が、瞑想ビギナーにはかなりオススメだった | パレオな男](https://yuchrszk.blogspot.com/2014/05/nhk.html)
+* [心理学者が教える「人生で最も無駄な行動」6選 - YouTube](https://www.youtube.com/watch?v=xDTl-1HqeC0)
+
+### 個人的に集めたもの
 | 名言 | 作者 |
 | --- | --- |
 | 「私は幸せだった。友がいて⋯愛する者に出会った⋯死に行く今、初めてわかる。心を粉々に砕かれた苦しみや悲劇ですら⋯決して私を滅ぼす物ではなかったのだ。今となっては何もかもが美しい思い出になる⋯」 | [BUSIN Wizardry Alternative 白髪の剣士](https://www.nicovideo.jp/watch/sm24038504?from=980) |
 | 柔よく剛を制し、剛よく柔を断つ | 中国兵法書『三略』 |
 | 「お前にはもっと違う"味"があるはずだ。」（的なやつ） | [遊戯王デュエルモンスター GX 第 51 話](https://www.tv-tokyo.co.jp/anime/yugioh/story_40-.html) |
 
-
-
-## あわせて見たいもの
+#### 関連
 * [執着リスト](https://noraworld.github.io/blog/obsessions)
 * [「ま、いっか」という言葉の魔力](https://noraworld.github.io/blog/magic-of-oh-well)
 * [やりたい気持ちを義務にしてはいけない](https://noraworld.github.io/blog/desire-vs-obligation)
 * [環境を変える前にまず自分の考え方を変える努力をしてみる](https://noraworld.github.io/blog/mindset-before-environment)
 * [手放しの瞑想](https://chatgpt.com/share/6a4928f6-7db8-83e8-a684-bd1568e33ba7)
-
-### 参考
-* [力を抜いてラクに生きるための「セルフアクセプタンス」名言＆瞑想セラピー | パレオな男](https://yuchrszk.blogspot.com/2016/07/blog-post.html)
-* [NHKのマインドフルネス特集が、瞑想ビギナーにはかなりオススメだった | パレオな男](https://yuchrszk.blogspot.com/2014/05/nhk.html)
-* [心理学者が教える「人生で最も無駄な行動」6選 - YouTube](https://www.youtube.com/watch?v=xDTl-1HqeC0)
