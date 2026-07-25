@@ -6,6 +6,9 @@ date: yyyy-MM-dd HH:mm:ss +09:00
 tags:
   # - TODO_TAGS
   # - see: https://noraworld.github.io/blog/tags
+note_hashtags:
+  # - TODO_NOTE_HASHTAGS
+  # - see: https://editor.note.com/notes/n3012ee43b273/publish
 references:
   # - TODO_REFERENCES
   # - https://chatgpt.com/c/12345678-90ab-cdef-0123-456789abcdef
