@@ -39,6 +39,8 @@ translation: false
 * [力を抜いてラクに生きるための「セルフアクセプタンス」名言＆瞑想セラピー | パレオな男](https://yuchrszk.blogspot.com/2016/07/blog-post.html)
 * [NHKのマインドフルネス特集が、瞑想ビギナーにはかなりオススメだった | パレオな男](https://yuchrszk.blogspot.com/2014/05/nhk.html)
 * [心理学者が教える「人生で最も無駄な行動」6選 - YouTube](https://www.youtube.com/watch?v=xDTl-1HqeC0)
+* [この春から晴れてニートになった君たちにニート歴3年の土岡が現実を全部教えます【徹底解説】 - YouTube](https://www.youtube.com/watch?v=Bi7OOpFNMow&t=2393)
+* [つらい時に能力を覚醒させる方法TOP3 - YouTube](https://www.youtube.com/watch?v=dsg-6dDYMIc)
 
 ### 個人的に集めたもの
 | 名言 | 作者 |
