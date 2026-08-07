@@ -1,3 +1,29 @@
+---
+title: "歯磨きに関するガイドライン"
+description: "虫歯になりにくく、かつ無理なく続けられるようにするためのガイドライン"
+image: https://noraworld.github.io/box-venusaur/2026/08/07/95ecc536737ac37d1b76b022f179ba25.png
+date: 2026-08-08 2:00:00 +09:00
+tags:
+  - notes
+  - wellbeing
+references:
+  - https://chatgpt.com/c/6a7611b0-380c-83ee-93c6-2f9f1f3ae218
+  - https://chatgpt.com/share/6a7614db-4ca8-83ee-b9bf-c7a71bbf1740
+note_disabled: true
+translation: false
+---
+
+<!--
+ブログ記事を書いたので、サムネイル画像を生成して！ 画像を生成するときのルールは以下のとおりだよ！
+
+* タイトルは『歯磨きに関するガイドライン』
+* アスペクト比は 1280:670
+* 画像内に文字は入れない
+* 歯磨きが楽しくワクワクするような印象を与える雰囲気の画像にする
+-->
+
+
+
 ### 注意点
 * [歯磨き7つのNG習慣](https://www.ohsakicity.dental/4326.html)
 * 歯を磨く時間は 3 分以上
