@@ -1,6 +1,6 @@
 ---
-title: "Political Videos Can Be Like a Comforting Balm"
-description: "Lately, I haven't been watching political videos, but I sometimes feel a subtle urge to watch them. I've been thinking about why that might be."
+title: "Political Videos Can Sometimes Be a Mental Soother"
+description: "Recently, I haven't been watching political videos, but I occasionally find myself wanting to. I decided to think about why that might be."
 image: https://noraworld.github.io/box-venusaur/2026/08/14/d8ea77bddcbd735c009f2f3678840316.png
 date: 2026-08-14 18:00:00 +09:00
 tags:
@@ -12,31 +12,32 @@ note_hashtags:
 references:
   - https://chatgpt.com/c/6a7ed9c1-eb18-83ee-b147-720335b6f707
   - https://chatgpt.com/share/6a7eda69-4cf0-83ee-81b1-dca15cde640d
+note_published: true
 note_id: 174849558
 ---
 
 <!--
-I wrote a blog post, so please create a thumbnail image! Here are the rules for generating the image:
+I wrote a blog post, so generate a thumbnail image! Here are the rules for generating images!
 
-* The title is "Political Videos Can Be Like a Comforting Balm"
+* The title is "Political Videos Can Sometimes Be a Mental Soother"
 * The aspect ratio is 1280:670
 * Do not include text in the image
 -->
 
-I sometimes watch political videos on YouTube, and I wanted to think about why I do this. Here’s what I came up with.
+I sometimes watch political videos on YouTube. I started thinking about why I end up watching them and decided to write it down.
 
-First of all, I have a pretty laid-back view of politics. This is something I share with many young people, even though it's often viewed negatively. I don’t have a strong motivation to get involved in politics unless I become a politician myself or an influencer who can sway a lot of votes. No matter how much I study politics, I can only make a tiny impact as one of over 120 million people. It feels inefficient in terms of time and effort. I'd rather spend my time on things that contribute to my personal growth. It's a cold, efficiency-driven way of thinking.
+First of all, I am pretty indifferent towards politics. This is a common view among many young people and is often criticized. But unless I become a politician myself or have the influence to sway many people's votes, I don't have a strong motivation to actively participate in politics. No matter how passionately I study politics, I feel like I can only make a 1 in 120 millionth impact, which seems inefficient. I often think it's more beneficial to use my time to grow personally rather than focus on politics—a bit of a cold, efficiency-driven mindset.
 
-Still, I watch political videos occasionally simply because I find them interesting. One reason for this could be that learning about politicians' corruption makes me feel better about my own shortcomings.
+Still, the reason I watch political videos sometimes is simply that I find them interesting. One reason for this interest might be that learning about politicians' corruption makes me feel a bit better about my own mistakes.
 
-Let's be honest—politics and politicians often involve corruption. They hold positions of power, so it's not surprising. While it can be emotional at times, I generally see it as a given. Given human nature and how social systems are set up, some things are unavoidable, and getting angry about them only hurts me. Since I’m not obligated to learn about politics (and I can just skip the videos if they upset me), I can keep my distance.
+Political corruption is a given when talking about politics and politicians. It's not surprising since they are in a position to exercise power. Sometimes I get emotional, but I generally accept it as just the way things are. Given human nature and how societies are built, it's somewhat inevitable. I think holding onto anger about it only harms me. Plus, there's no obligation to learn about politics (if it bothers me, I can simply not watch it), so the obligation isn't high.
 
-Yet, I can’t just label politicians' corruption as "terrible" without reflecting on myself. Even if it's not as bad as political corruption, there are times I've made people feel bad in my daily life. I have regrets, like not attending my grandparents' funerals or saying thoughtless things to someone I met on a dating app. There are many such memories in my life.
+However, I can't just label political corruption as "the worst" and pretend I'm all righteous. While not as drastic as political corruption, I have done things that might upset others in my daily life. Not attending my grandparents' funerals, saying terrible things to someone I met on a dating app—when I look back on my life, there's no end to the regrets.
 
-But when I hear about politicians' actions, my negative episodes seem insignificant by comparison. Although some stories might be baseless conspiracies aimed at damaging political rivals, the real cases of misconduct are shocking enough and deserve criticism.
+But when I see or hear about politicians' actions beyond corruption, it makes my own negative experiences seem trivial in comparison. Even if there are conspiracy theories meant to defame political rivals, the unquestionably serious political scandals are often enough to grab attention.
 
-Every time I hear such stories, I start feeling that my regrets and guilt are minor, and I feel a bit relieved. Maybe this is why I sometimes want to watch political videos. Of course, that doesn’t mean I think it's okay to do bad things myself or anything like that. Just like we all need breaks in this stressful world, if watching these videos lightens my mood a bit, it might not be so bad. But I do need to consume them in moderation since too much exposure might make me angry at the wrongdoings.
+Every time I see such stories, my own regrets and guilt start to feel small, giving me a sense of relief. This might be why I sometimes want to watch political videos. Of course, I don't mean to say that I think I can get away with doing worse things myself, and I recognize that justifying my actions this way is risky. But in this stressful world, if it makes me feel a bit lighter, maybe occasionally viewing politics from this perspective isn't so bad. Still, indulging too much could cause anger over the extreme misdeeds, so moderation is key.
 
-That said, if I ever became a politician, I might end up doing bad things too. This makes me think that maybe I’m not a "good person" either, and that concepts of right and wrong are just human-made ideas.
+That said, if I ever became a politician, I'd wonder if I'd commit the same misdeeds. Thinking that way, I don't believe I'm a "good person," and I know that concepts like good and bad are just human-made ideas.
 
-Maybe it's okay to lose a little as a human being.
+Maybe it's better to settle for less sometimes.
