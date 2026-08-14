@@ -12,6 +12,7 @@ note_hashtags:
 references:
   - https://chatgpt.com/c/6a7ed9c1-eb18-83ee-b147-720335b6f707
   - https://chatgpt.com/share/6a7eda69-4cf0-83ee-81b1-dca15cde640d
+note_id: 174849558
 ---
 
 <!--
