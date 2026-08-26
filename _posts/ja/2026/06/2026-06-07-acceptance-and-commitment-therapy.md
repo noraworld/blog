@@ -44,8 +44,10 @@ _[力を抜いてラクに生きるための「セルフアクセプタンス」
 | 「柔よく剛を制し、剛よく柔を断つ」 | 中国兵法書『三略』 |
 | 「お前にはもっと違う"味"があるはずだ。」（的なやつ） | [遊戯王デュエルモンスター GX 第 51 話](https://www.tv-tokyo.co.jp/anime/yugioh/story_40-.html) |
 
-### 心が軽くなるのに役立つ情報
+### 心が軽くなるのに役立つ記事
 * [NHKのマインドフルネス特集が、瞑想ビギナーにはかなりオススメだった](https://yuchrszk.blogspot.com/2014/05/nhk.html)
+
+### 心がすっと軽くなる YouTube 動画
 * [心理学者が教える「人生で最も無駄な行動」6選](https://www.youtube.com/watch?v=xDTl-1HqeC0)
 * [この春から晴れてニートになった君たちにニート歴3年の土岡が現実を全部教えます【徹底解説】](https://www.youtube.com/watch?v=Bi7OOpFNMow&t=2393)
 * [つらい時に能力を覚醒させる方法TOP3](https://www.youtube.com/watch?v=dsg-6dDYMIc)
