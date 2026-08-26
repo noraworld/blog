@@ -52,6 +52,10 @@ _[力を抜いてラクに生きるための「セルフアクセプタンス」
 * [この春から晴れてニートになった君たちにニート歴3年の土岡が現実を全部教えます【徹底解説】](https://www.youtube.com/watch?v=Bi7OOpFNMow&t=2393)
 * [つらい時に能力を覚醒させる方法TOP3](https://www.youtube.com/watch?v=dsg-6dDYMIc)
 * [【要約】親といるとなぜか苦しい―「親という呪い」から自由になる方法【リンジー・Ｃ・ギブソン (著), 岡田尊司 (翻訳), 岩田佳代子 (翻訳) 】](https://www.youtube.com/watch?v=VAAaJHRU-HY)
+* 瀬戸弘司の「奨学金返済物語」
+    * [瀬戸弘司の「奨学金返済物語」第１部 〜弘司の青春〜](https://www.youtube.com/watch?v=e3whd_xyE3k)
+    * [瀬戸弘司の「奨学金返済物語」第２部 〜延滞金地獄〜](https://www.youtube.com/watch?v=3EEU7Kfw9sU)
+    * [【最終回】瀬戸弘司の「奨学金返済物語」第３部 〜未来はわからない〜](https://www.youtube.com/watch?v=7oX_H6zrpYc)
 
 ### ChatGPT のアドバイス
 * [手放しの瞑想](https://chatgpt.com/share/6a4928f6-7db8-83e8-a684-bd1568e33ba7)
