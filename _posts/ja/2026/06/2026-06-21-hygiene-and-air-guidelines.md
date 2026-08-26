@@ -52,3 +52,4 @@ translation: false
 
 ### 参考
 * [最高の体調](https://www.amazon.co.jp/dp/B07FX9V6PJ)
+* [キムのゴミ屋敷に乗り込んで大掃除してみた - YouTube](https://www.youtube.com/watch?v=gpkzLjCT7Mw)（こうなると体調崩すっていう参考）
