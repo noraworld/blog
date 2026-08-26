@@ -65,3 +65,12 @@ translation: false
 
 ## 参考
 * [現代人にありがちな「眠ろうとするほど眠れない！」問題を改善する方法はこれだ！って本を読んだ話](https://yuchrszk.blogspot.com/2026/07/blog-post_21.html)
+
+
+
+
+
+## 入眠前儀式一覧
+* ホットミルクを飲む
+* 筋肉感覚トラッキング（米軍式睡眠法）を試してみる
+* [認知シャッフル睡眠法を試してみる](https://drive.google.com/drive/folders/10ByOUfsfLJnWIaErhnCymD9JfnzRONpp)
