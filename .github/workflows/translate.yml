@@ -121,20 +121,48 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CHATGPT_API_KEY: ${{ secrets.CHATGPT_API_KEY }}
 
+      - name: Mark translation as false
+        if: ${{ steps.check-disabled.outputs.disabled != 'true' }}
+        run: |
+          /usr/bin/python3 - <<'PYTHON'
+          from pathlib import Path
+
+          path = Path(r"${{ matrix.pair.input }}")
+          lines = path.read_text().splitlines()
+
+          if not lines or lines[0] != "---":
+              raise SystemExit(0)
+
+          for i in range(1, len(lines)):
+              if lines[i] == "---":
+                  lines.insert(i, "translation: false")
+                  path.write_text("\n".join(lines) + "\n")
+                  break
+              if lines[i].split(":", 1)[0].strip() == "translation":
+                  if lines[i].strip() == "translation: true":
+                      lines[i] = "translation: false"
+                      path.write_text("\n".join(lines) + "\n")
+                  break
+          PYTHON
+
       - name: Commit
         if: ${{ steps.check-disabled.outputs.disabled != 'true' }}
         run: |
           git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
           git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
           filename=$(basename "${{ matrix.pair.input }}")
+          input_path="${{ matrix.pair.input }}"
           output_path="${{ matrix.pair.output }}"
+          temp_input=$(mktemp)
           temp_output=$(mktemp)
+          cp "$input_path" "$temp_input"
           cp "$output_path" "$temp_output"
           git fetch origin main
           git checkout -B main origin/main
+          cp "$temp_input" "$input_path"
           mkdir -p "$(dirname "$output_path")"
           cp "$temp_output" "$output_path"
-          git add "$output_path"
+          git add "$input_path" "$output_path"
           git diff --cached --quiet && exit 0
           git commit -m "Translate ${filename} into English"
           git push origin HEAD:main
