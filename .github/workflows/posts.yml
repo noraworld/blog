@@ -15,19 +15,19 @@ on:
         type: string
 
 jobs:
-  collect:
-    uses: ./.github/workflows/collect.yml
-    with:
-      event_name: ${{ github.event_name }}
-      target_path: ${{ github.event.inputs.target_path || '' }}
+  # collect:
+  #   uses: ./.github/workflows/collect.yml
+  #   with:
+  #     event_name: ${{ github.event_name }}
+  #     target_path: ${{ github.event.inputs.target_path || '' }}
 
-  task:
-    needs: collect
-    if: ${{ needs.collect.outputs.task_file_pairs_json != '[]' }}
-    uses: ./.github/workflows/task.yml
-    with:
-      task_file_pairs_json: ${{ needs.collect.outputs.task_file_pairs_json }}
-    secrets: inherit
+  # task:
+  #   needs: collect
+  #   if: ${{ needs.collect.outputs.task_file_pairs_json != '[]' }}
+  #   uses: ./.github/workflows/task.yml
+  #   with:
+  #     task_file_pairs_json: ${{ needs.collect.outputs.task_file_pairs_json }}
+  #   secrets: inherit
 
   # note:
   #   needs:
@@ -39,18 +39,17 @@ jobs:
   #     file_pairs_json: ${{ needs.collect.outputs.file_pairs_json }}
   #   secrets: inherit
 
-  translate:
-    needs:
-      - collect
-      # - note
-      - task # temp
-    if: ${{ always() && needs.collect.outputs.file_pairs_json != '[]' }}
-    uses: ./.github/workflows/translate.yml
-    with:
-      file_pairs_json: ${{ needs.collect.outputs.file_pairs_json }}
-    secrets: inherit
+  # translate:
+  #   needs:
+  #     - collect
+  #     - note
+  #   if: ${{ always() && needs.collect.outputs.file_pairs_json != '[]' }}
+  #   uses: ./.github/workflows/translate.yml
+  #   with:
+  #     file_pairs_json: ${{ needs.collect.outputs.file_pairs_json }}
+  #   secrets: inherit
 
   deploy:
-    needs: translate
-    if: ${{ always() && needs.translate.result == 'success' }}
+    # needs: translate
+    # if: ${{ always() && needs.translate.result == 'success' }}
     uses: ./.github/workflows/pages.yml
