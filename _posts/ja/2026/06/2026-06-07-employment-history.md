@@ -10,6 +10,7 @@ references:
   - https://chatgpt.com/share/6a24ece9-e494-83aa-847f-685afb437642
 note_disabled: true
 translation: false
+published: false
 ---
 
 | 番号 | 開始日 [^start] | 終了日 [^end] | 雇用形態 | 業務形態 | 週の稼働日数 | 日の稼働時間 | 出社頻度 | PC 貸与 |

@@ -13,8 +13,8 @@ tags: [
   "philosophy",
   "poem"
 ]
-published: true
-note_published: true
+published: false
+note_published: false
 note_id: 156875585
 ---
 

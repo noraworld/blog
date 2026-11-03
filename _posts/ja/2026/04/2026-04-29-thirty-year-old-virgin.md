@@ -23,8 +23,8 @@ references: [
   "https://chatgpt.com/share/69f21320-d574-83aa-a6cb-285c04fdf86c",
   "https://chatgpt.com/share/69f262ce-c370-83ab-930c-6003633b671a"
 ]
-published: true
-note_published: true
+published: false
+note_published: false
 note_id: 158001005
 ---
 

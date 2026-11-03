@@ -7,7 +7,7 @@ author: [
 description: "I tried Codex for the first time, and while it's convenient, I felt uneasy as if my creative work was getting tainted. Here are my thoughts on that."
 date: 2025-09-12 02:00:00 +09:00
 tags: []
-published: true
+published: false
 ---
 
 Today, I tried [Codex](https://openai.com/codex/) for the first time.

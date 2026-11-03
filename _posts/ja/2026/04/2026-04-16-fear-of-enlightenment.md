@@ -10,8 +10,8 @@ date: 2026-04-16 20:00:00 +09:00
 tags: [
   "thoughts"
 ]
-published: true
-note_published: true
+published: false
+note_published: false
 note_id: 156056016
 ---
 

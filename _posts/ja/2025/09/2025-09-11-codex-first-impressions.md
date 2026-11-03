@@ -7,7 +7,7 @@ author: [
 description: "Codex を初めて試してみたが、便利であるという反面、自分の創作物が汚染されるようななんとも言えない気持ちになったのでそのことについてまとめる。"
 date: 2025-09-12 02:00:00 +09:00
 tags: []
-published: true
+published: false
 ---
 
 今日 [Codex](https://openai.com/codex/) をはじめて試してみた。

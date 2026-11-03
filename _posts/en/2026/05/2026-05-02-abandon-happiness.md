@@ -13,8 +13,8 @@ tags: [
 references: [
   "https://chatgpt.com/share/69f4ef52-fddc-83a7-89fd-3235d90ec0fc"
 ]
-published: true
-note_published: true
+published: false
+note_published: false
 note_id: 158328657
 ---
 

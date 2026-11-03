@@ -11,8 +11,8 @@ date: 2026-04-22 21:00:00 +09:00
 tags: [
   "philosophy"
 ]
-published: true
-note_published: true
+published: false
+note_published: false
 note_id: 156915559
 ---
 

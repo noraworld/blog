@@ -11,8 +11,8 @@ date: 2026-04-24 19:27:00 +09:00
 tags: [
   "memory"
 ]
-published: true
-note_published: true
+published: false
+note_published: false
 note_id: 157204891
 ---
 

@@ -12,8 +12,8 @@ tags: [
   "philosophy",
   "thoughts"
 ]
-published: true
-note_published: true
+published: false
+note_published: false
 note_id: 157370953
 ---
 

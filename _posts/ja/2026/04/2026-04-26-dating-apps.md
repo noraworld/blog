@@ -10,6 +10,7 @@ references:
   - https://chatgpt.com/share/69fd9348-1800-83a2-82af-a3a9ac457bba
 note_disabled: true
 translation: false
+published: false
 ---
 
 ### 自己紹介文

@@ -14,8 +14,8 @@ references: [
   "https://misskey.io/notes/alm0t365wbh505ut",
   "https://chatgpt.com/share/69f08da6-cdcc-83a7-a174-0299d65e3ec7"
 ]
-published: true
-note_published: true
+published: false
+note_published: false
 note_id: 157813953
 ---
 

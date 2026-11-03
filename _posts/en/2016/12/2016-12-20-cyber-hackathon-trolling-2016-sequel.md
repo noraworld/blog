@@ -6,7 +6,7 @@ tags:
 - university-life
 - event
 - development
-published: true
+published: false
 ---
 
 The article I published recently, "[Summary of the Cybercrime Prevention Hackathon and Controversy](https://noraworld.blog/cyber-hackathon-trolling-2016/)" was widely shared across various platforms and read by a large number of people.

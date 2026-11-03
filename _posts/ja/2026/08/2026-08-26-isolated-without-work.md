@@ -15,9 +15,10 @@ references:
   - codex://threads/01a03d66-e0ad-7db3-b6bd-1b851c03b6cf
   - https://chatgpt.com/c/6a8eb2c6-4e08-83ee-b387-01450774a4a7
   - https://chatgpt.com/share/6a8eb334-63b4-83ee-ad5b-1e7b844f7fca
-note_published: true
+note_published: false
 translation: false
 note_id: 176885844
+published: false
 ---
 
 <!--
