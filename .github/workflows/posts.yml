@@ -29,20 +29,21 @@ jobs:
       task_file_pairs_json: ${{ needs.collect.outputs.task_file_pairs_json }}
     secrets: inherit
 
-  note:
-    needs:
-      - collect
-      - task
-    if: ${{ always() && needs.collect.outputs.file_pairs_json != '[]' }}
-    uses: ./.github/workflows/note.yml
-    with:
-      file_pairs_json: ${{ needs.collect.outputs.file_pairs_json }}
-    secrets: inherit
+  # note:
+  #   needs:
+  #     - collect
+  #     - task
+  #   if: ${{ always() && needs.collect.outputs.file_pairs_json != '[]' }}
+  #   uses: ./.github/workflows/note.yml
+  #   with:
+  #     file_pairs_json: ${{ needs.collect.outputs.file_pairs_json }}
+  #   secrets: inherit
 
   translate:
     needs:
       - collect
-      - note
+      # - note
+      - task # temp
     if: ${{ always() && needs.collect.outputs.file_pairs_json != '[]' }}
     uses: ./.github/workflows/translate.yml
     with:
