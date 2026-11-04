@@ -5,6 +5,11 @@ image: https://noraworld.github.io/box-venusaur/2026/07/15/7196e9fe8568f3875819c
 date: 2026-07-12 23:08:00 +09:00
 tags:
   - event
+note_hashtags:
+  - 童貞
+  - ソープランド
+  - 童貞卒業
+  - 素人童貞
 references:
   - https://github.com/noraworld/to-do/issues/2336
   - https://github.com/noraworld/reserved-diary/blob/main/_posts/2026/07/2026-07-11-.md
