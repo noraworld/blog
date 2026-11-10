@@ -87,6 +87,7 @@ _[力を抜いてラクに生きるための「セルフアクセプタンス」
 * [精神科医がこころの病気を解説するCh - YouTube](https://www.youtube.com/@masudatherapy)
 * [精神科医の不思議なチャンネル - YouTube](https://www.youtube.com/@wasedamasuda)
 * [睡眠専門医渥美正彦 - YouTube](https://www.youtube.com/@SuiminDoctor)
+* [科学はすべてを解決する! [くられ with 薬理凶室] - YouTube](https://www.youtube.com/@krr)
 
 ### ChatGPT のアドバイス
 * [手放しの瞑想](https://chatgpt.com/share/6a4928f6-7db8-83e8-a684-bd1568e33ba7)
